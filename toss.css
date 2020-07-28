@@ -1,0 +1,23 @@
+body {font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif';}
+#wrap {display: flex;}
+header {display: flex; flex-direction: column; align-items: flex-end; width: 50%; height: 100%; padding-top: 180px;}
+#mainbox {width: 320px;}
+#mainbox .main {margin-bottom: 10px; margin-top: 10px; font-weight: 900; color: rgb(88, 88, 88);}
+#subbox {width: 320px;}
+#subbox .sub {margin-bottom: 10px; margin-top: 10px; font-weight: 500; color: rgb(88, 88, 88)}
+#subbox a {color:rgb(0, 124, 226); text-decoration: none;}
+
+img {height: 28px;}
+#content {display: flex;  flex-direction: column; align-items: flex-start; padding-top: 150px; padding-left: 36px;}
+#content .bank {width: 300px; display: flex; justify-content: flex-start; align-items: center; flex-direction: row; margin-top: 24px; border-radius: 5px; padding-left: 10px; padding-right: 10px;}
+
+#content #kukmin .bankname {font-weight: 500; margin-right: 117px;}
+#content #shinhan .bankname {font-weight: 500; margin-right: 117px;}
+#content #hana .bankname {font-weight: 500; margin-right: 127.5px;}
+#content #woori .bankname {font-weight: 500; margin-right: 127.5px;}
+#content #nh .bankname{font-weight: 500; margin-right: 90px;}
+
+#content .bank {box-shadow:
+    0 30px 60px 12px rgba(0, 0, 33, 0.05),
+    0 4px 24px 0 rgba(0, 0, 33, 0.05),
+    0 0 1px 0 rgba(0, 0, 33, 0.09) ;}
