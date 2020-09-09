@@ -53,7 +53,7 @@ link_location = []
 link_stars = []
 link_key_words = []
 
-for i in range(0, 5):
+for i in range(0, size):
     plz = df['link'][i]
     response = requests.get(f"{plz}", headers=headers, cookies=cookies)
     response.encoding='utf-8'
@@ -62,7 +62,7 @@ for i in range(0, 5):
     title = soup.select('span#_title > span._3XamX')[0].text
     location = soup.select('div._1h3B_ > span._2yqUQ')[0].text
     stars = soup.select('span._1Y6hi > em')[0].text
-    print(stars)
+    
     key_words = soup.select('ul._2CguG > li._3Ryhx > span._2irYJ')
     key_word_list = []
     for key_word in key_words:
