@@ -22,8 +22,6 @@
 대청호,대전 대덕구,042-251-4748,"['관광지', '산책코스', '산책하기좋은곳', '아이와함께', '자연', '자연속으로', '자연여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9c4d22a2-9559-4d60-b1af-4d299a5187ad&thumb
 보문산공원,대전 중구,042-581-3516,"['관광지', '단풍여행', '등산로', '보문산공원', '사찰', '산사', '산책길', '산책하기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3347192a-2879-44b9-b6d3-5c94aa2050df&thumb
 우암사적공원,대전 동구,042-673-9286,"['가족여행', '걷기길', '관광지', '교과서속여행', '산책길', '산책하기', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1bb9b153-9fc0-4bdc-89f3-9604c280aecc&thumb
-대전 태평시장,대전 중구,042-536-8260,"['가족여행', '관광지', '대전태평시장', '사계절', '쇼핑', '시장맛집', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2fa25113-71e1-47ce-96da-688e15d2afb1&thumb
-패션월드,대전 서구,042-485-4184,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0a95e1e0-ff7c-407f-ae61-178547d3862b&thumb
 금강로하스대청공원,대전 대덕구,042-608-5573,"['가족여행', '관광지', '금강로하스대청공원', '나들이', '당일치기여행', '산책길']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1a52c5d2-5722-451a-bafc-f093d450c52f&thumb
 대전 계족산성,대전 대덕구,042-608-6574,"['걷기길', '계족산', '관광지', '교과서속여행', '대전계족산성', '아이와함께', '역사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ade42d09-b7fc-49f6-98d5-7c4add41da9d&thumb
 만인산푸른학습원,대전 동구,042-270-8651,"['관광지', '만인산푸른학습원', '이색체험', '자연', '자연학습장', '충청권', '휴양여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6beacfd8-3a69-4654-923a-03e7170c4b90&thumb
@@ -64,7 +62,6 @@ It's 수 홍보관,대전 대덕구,042-715-6532,"[""It's수홍보관"", '견학
 찬샘마을,대전 동구,042-274-3399,"['관광지', '농촌', '농촌체험', '농촌체험마을', '농촌체험학습', '아이와함께', '자연마을']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=467e8b08-b8a8-41d5-8138-c6e2224338a7&thumb
 가양비래근린공원,대전 대덕구,042-632-7421,"['가양비래근린공원', '가족여행', '걷기길', '걷기여행', '관광지', '데이트코스']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bd6301dd-9542-4a88-b95a-09ff37556534&thumb
 옥류각,대전 대덕구,042-608-6574,"['관광지', '교과서속여행', '문화재', '역사', '역사관광지', '역사를품은곳', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4b26a818-bc4f-4f25-bef1-74d4c5e3ac7e&thumb
-대전 중리전통시장,대전 대덕구,042-623-1040,"['가족여행', '관광지', '대전중리전통시장', '사계절', '쇼핑', '아이와함께', '이색체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3d4c0076-b3af-4347-beb0-fe16e8379129&thumb
 삼매당,대전 동구,042-662-2363,"['관광지', '교과서속여행', '삼매당', '역사', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5ae04474-eac8-41f3-b3b2-3d9ed054b805&thumb
 ETRI 정보통신전시관,대전 유성구,042-860-3913,"['ETRI', 'ETRI정보통신전시관', '관광지', '박물관', '산업관광', '아이와함께', '전시관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bda9d8e9-48f3-4b3f-a079-617cfa8b9dd9&thumb
 취백정,대전 대덕구,042-608-6574,"['관광지', '교과서속여행', '문화재', '역사', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f9df8fa6-384f-4ee6-928f-ee86ed88184c&thumb
@@ -75,7 +72,6 @@ ETRI 정보통신전시관,대전 유성구,042-860-3913,"['ETRI', 'ETRI정보�
 대전차량융합기술단(신탄진역),대전 대덕구,042-606-5263,"['견학', '관광지', '대전차량융합기술단', '산업관광', '신탄진역', '안전교육', '이색체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f09fe22c-8c59-4c61-92c9-d87c3df2eaaa&thumb
 창계숭절사,대전 중구,053-661-2193,"['관광지', '교과서속여행', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=48f42309-38bf-4661-9d14-c09a2d40af07&thumb
 용화사(대전),대전 서구,042-541-1505,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9eb646c6-040d-4ffa-809d-01d0d9fa562b&thumb
-갤러리아 백화점 (타임월드점),대전 서구,042-480-5000,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=244e4707-5aaf-47a8-8e10-4c84e9bb1241&thumb
 숭현서원지,대전 유성구,042-861-0409,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=33d3d1b5-75f3-4c07-929c-26de7f109d8a&thumb
 장판각,대전 동구,053-662-2362,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=85794ea8-375f-42b2-ae57-1e1284d2bc44&thumb
 한국기계연구원,대전 유성구,042-868-7861,"['견학', '관광지', '산업관광', '아이와함께', '이색체험', '체험학습', '충청권', '한국기계연구원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fcd079c6-924b-40ec-8533-83fa992e8e32&thumb
