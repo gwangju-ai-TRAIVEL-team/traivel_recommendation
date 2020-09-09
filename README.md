@@ -3,3 +3,4 @@
 
 ## 09.09
 * 한국관광공사 관광지, 문화시설, 레포츠 데이터 크롤링
+* [공공 api 데이터 csv변환](http://wik.iptime.org/traival/travel_recommedation/-/tree/master/data_scapping/data)
