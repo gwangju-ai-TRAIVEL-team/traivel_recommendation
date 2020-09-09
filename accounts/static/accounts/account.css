@@ -43,7 +43,7 @@ html,body{height:100%;}
 #container #content #form fieldset ul {display: flex; flex-direction: column; justify-content: flex-end;}
 #container #content #form fieldset ul .form_group {display: flex; justify-content: space-between; margin-bottom: 12px;}
 #container #content #form fieldset ul .form_group label {color: black; font-size: 24px; font-weight: 400; text-align: right; width: 150px;}
-#container #content #form fieldset ul .form_group input {width: 700px; height: 36px; border: 2px solid #ed4147; margin-right: 50px; color: white; padding-left: 8px;}
+#container #content #form fieldset ul .form_group input {width: 700px; height: 36px; border: 2px solid #ed4147; margin-right: 50px; color: black; padding-left: 8px;}
 #container #content #form fieldset ul .form_group input::placeholder {color: black; padding-left: 8px; font-size: 20px; font-weight: 400;}
 #container #content #form fieldset ul .form_group select {width: 200px; height: 36px; color: black; margin-left: 26px; border: 2px solid #ed4147;}
 #container #content #form fieldset ul #select_group {display: flex; justify-content: flex-start;}
