@@ -1,0 +1,52 @@
+@charset "utf-8";
+@import url(https://cdn.rawgit.com/theeluwin/NotoSansKR-Hestia/master/stylesheets/NotoSansKR-Hestia.css);
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, button, abbr, acronym, address, code, del, 
+dfn, em, img, strong, sub, sup, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, 
+td, hr{margin:0;padding:0;font-size:100%;box-sizing: border-box;}
+body{height:100%;min-height:100%;font-family:'Noto Sans Korean','Malgun Gothic','맑은고딕','돋움',dotum, sans-serif;font-size:16px;color:#737373;line-height:1.5; background:url(images/content_bg4.png) repeat;}
+h1, h2, h3, h4, h5, h6 {font-weight:normal}
+ol, ul, li {list-style:none}
+table {width:100%; border-collapse:collapse;border-spacing:0}
+fieldset, iframe {display:block;border: 2px solid #ed4147;}
+img, button {border:0 none;vertical-align:top;}
+hr {height:0; display:none}
+i, em, address{font-style:normal}
+blockquote, q {quotes:none}
+header, footer, section, article, aside, nav, hgroup, details, menu, figure, figcaption {display:block;box-sizing: border-box;}
+input, textarea, select, button {font-family:'Noto Sans Korean','Malgun Gothic','맑은고딕','돋움',dotum, sans-serif;font-size:16px;color:#919090;line-height:1.5;letter-spacing:0;vertical-align:middle; border:none;}
+input, textarea {margin:0;padding:0;  background:none; box-sizing:border-box;}
+textarea {resize:none}
+a {color:#919090;text-decoration:none}
+a:link, a:visited {text-decoration:none}
+a:hover {text-decoration:none}
+.blind{display: none;overflow: hidden;position: absolute;width: 0;height: 0;padding: 0;margin: 0; font-size: 0;line-height: 0; text-indent: -9999em;visibility: hidden;outline: none;z-index: -1;}
+html,body{height:100%;}
+
+#container {display: flex; flex-direction: column; width: 960px; margin: 0 auto;}
+#container #headcontainer {display: flex; flex-direction: row; align-items: flex-end; width: 960px; margin-top: 24px;}
+#container #headcontainer #logo {color: white; font-size: 48px; font-weight: 900;}
+#container #headcontainer #logo:hover {color: #ed4147;}
+#container #headcontainer #title {color: white; font-size: 24px; font-weight: 400; margin-left: 24px; margin-bottom: 10px;}
+#container header:after {content: ""; display: block; width: 100%; height: 2px; background: #ed4147;}
+
+#container #content {display: flex; flex-direction: column;}
+#container #content h1 {color: white; font-size: 36px; font-weight: 700; margin-top: 36px; margin-bottom: 48px;}
+#container #content #form {display: flex; flex-direction: column; justify-content: space-between;}
+#container #content #form fieldset {margin-bottom: 48px; padding: 16px;}
+#container #content #form fieldset legend {color: white; font-size: 36px; font-weight: 700; margin-left: 24px;}
+#container #content #form fieldset ul {display: flex; flex-direction: column; justify-content: flex-end;}
+#container #content #form fieldset ul .form_group {display: flex; justify-content: space-between; margin-bottom: 12px;}
+#container #content #form fieldset ul .form_group label {color: white; font-size: 24px; font-weight: 400; text-align: right; width: 150px;}
+#container #content #form fieldset ul .form_group input {width: 700px; height: 36px; background-image: url(images/content_bg4.png); border: 2px solid #ed4147; margin-right: 50px; color: white; padding-left: 8px;}
+#container #content #form fieldset ul .form_group input::placeholder {color: white; padding-left: 8px; font-size: 20px; font-weight: 400;}
+#container #content #form fieldset ul .form_group select {width: 200px; height: 36px; color: black; margin-left: 26px;}
+#container #content #form fieldset ul #select_group {display: flex; justify-content: flex-start;}
+#container #content #form #button {width: 960px; display: flex; justify-content: center;}
+#container #content #form #button .submit {width: 100px; border: 0px; color: white; background-image: url(images/content_bg4.png); font-size: 24px; cursor: pointer;}
+#container #content #form #button .submit:hover {color: #ed4147;}
+
+#container footer:before {content: ""; display: block; width: 100%; height: 2px; background: #ed4147;}
+#container footer {width: 960px; margin-top: 48px; margin-bottom: 16px;}
+#container footer #footcontainer {display: flex; justify-content: center; }
+#container footer #footcontainer p {color: white; font-size: 24px; font-weight: 400;}
