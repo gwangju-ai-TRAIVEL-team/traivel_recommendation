@@ -88,7 +88,6 @@
 서울 애니메이션센터,서울 중구,02-3455-8341,"['관광지', '도심여행', '복합문화공간', '서울애니메이션센터', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d33fbd12-0e80-4b76-912f-36f398b78700&thumb
 다이나믹 메이즈 (서울 인사동점),서울 종로구,1544-8506,"['관광지', '다이나믹메이즈', '도심여행', '레포츠체험', '복합문화공간', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=da345959-cff7-4f10-ad36-2d164b0de6f2&thumb
 숭례문,서울 중구,02-779-8547,"['관광지', '교과서속여행', '수도권', '숭례문', '아이와함께', '역사', '역사유적지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4cbf8feb-c1f4-432e-aa09-68220f72e1f1&thumb
-경동시장,서울 동대문구,02-967-8721,"['가족여행', '관광지', '나들이', '나홀로여행', '데이트코스', '먹거리', '서울경동시장']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=78f85e3c-949d-438f-be84-070ab7c13365&thumb
 정동전망대,서울 중구,02-120,"['가족과함께', '경치좋은곳', '관광지', '남녀노소', '도심여행', '수도권', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b2294574-6c75-4e6c-90b8-ceee4c0f2ddd&thumb
 관악산공원 야외식물원,서울 관악구,02-879-6561,"['관광지', '관악산공원야외식물원', '데이트코스', '도심여행', '아이와함께', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7704e9ca-999d-407c-bd7a-cb2f108ef1d6&thumb
 용산가족공원,서울 용산구,02-792-5660,"['가족여행', '걷기여행', '관광지', '나들이', '당일치기여행', '사계절', '서울근교여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=51a83ada-b7a1-4466-80c2-aebd2da4871a&thumb
@@ -96,7 +95,7 @@
 대원군별장,서울 종로구,02-2148-1822,"['관광지', '대원군별장', '석파정', '수도권', '역사', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=378540d5-ab25-4eda-92fb-50ab287e5d21&thumb
 신촌 플레이버스,서울 서대문구,02-330-1809,"['관광지', '도심여행', '문화콘텐츠산업', '문화행사', '수도권', '신촌플레이버스']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=77fb5fd9-49f0-43e3-bd87-a819cf50f5d2&thumb
 63스퀘어,서울 영등포구,02-789-5663,"['63스퀘어', '가족과함께', '관광지', '데이트코스', '복합문화공간', '서울가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=18a56781-e3c1-4fe0-b128-7c85122cf272&thumb
-쌈지길,서울 종로구,02-736-0088,"['관광지', '남녀노소', '데이트장소추천', '복합문화공간', '쇼핑', '쇼핑거리', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3738103d-9373-4717-b809-30ae28a17009&thumb
+쌈지길,서울 종로구,02-736-0088,"['관광지', '남녀노소', '데이트장소추천', '복합문화공간', '쇼핑거리', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3738103d-9373-4717-b809-30ae28a17009&thumb
 구룡산(서울),서울 서초구,02-2155-6860,"['관광지', '구룡산', '산', '수도권', '자연', '트레킹']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=04aec3f9-a7db-49fe-aebf-717678607da7&thumb
 자양동 양꼬치거리 (중국음식문화거리),서울 광진구,02-450-1513,"['관광지', '꼬치구이', '양고기', '양꼬치', '음식문화', '음식문화', '음식문화거리']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9b0ccdaa-440a-4637-942d-b79aac7ba09c&thumb
 서울풍물시장 전통문화체험관,서울 동대문구,02-2232-3368,"['관광지', '도심여행', '서울풍물시장', '서울풍물시장전통문화체험관', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=aa78ff02-c2bc-4fc4-b405-ad3a06f5a73b&thumb
@@ -153,7 +152,6 @@ SK텔레콤 New ICT체험관 T.um,서울 중구,02- 6353-6665,"['4G체험', 'SK�
 강남 시티투어 - 트롤리버스,서울 강남구,02-777-6090,"['가족과함께', '강남시티투어', '강남여행', '관광지', '남녀노소', '버스투어', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4b81032a-b34c-426e-8bd9-1ae2ebc79b1f&thumb
 서울 태릉(문정왕후)과 강릉(인순왕후) [유네스코 세계문화유산],서울 노원구,02-972-0370,"['가족여행', '관광지', '교과서속여행', '서울태릉과강릉', '아이와함께', '역사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=18f56dc9-28f9-44bd-8918-6a38ca7cb985&thumb
 서울 구 러시아공사관,서울 중구,02-3396-5882,"['관광지', '근대문화유산', '도심여행', '서울구러시아공관', '아이와함께', '역사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=79e20e48-aa05-48d6-94f9-365a97aa954f&thumb
-망원시장,서울 마포구,02-335-3591,"['가족여행', '관광지', '나들이', '나홀로여행', '데이트코스', '망원시장', '먹거리']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=51c060b1-4c51-4c11-a46b-a02569359828&thumb
 조계사(서울),서울 종로구,02-768-8600,"['관광지', '나홀로여행', '불교', '불교문화', '사찰', '산사', '역사', '역사유적지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=aba6b87c-6d74-4601-bac3-ade5bea1c626&thumb
 상허이태준가옥(수연산방),서울 성북구,02-764-1736,"['관광지', '문화재', '상허이태준가옥', '수도권', '수연산방', '역사', '역사공부']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6c6e9ef9-b2d7-41d0-a68e-9adce3be696a&thumb
 온수공원,서울 구로구,02-860-2396,"['가족과함께', '관광지', '산책', '산책길', '산책하기', '산책하기좋은곳', '서울근교여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b911bc8e-4c97-4b7e-937d-82983e4f3fbd&thumb
@@ -184,7 +182,7 @@ SK텔레콤 New ICT체험관 T.um,서울 중구,02- 6353-6665,"['4G체험', 'SK�
 청와대,서울 종로구,02-730-5800,"['가족과함께', '관광지', '교육여행', '대통령', '도심여행', '아이와함께', '역사공부']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=70826019-ffda-43f2-aee6-d1a561f72737&thumb
 용왕정,서울 양천구,02-2620-3574,"['걷기', '경치좋은곳', '관광지', '근린공원', '산책코스', '산책하기좋은곳', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7bb9bfb1-1690-4ed3-afd2-926da9528b0b&thumb
 암사생태공원,서울 강동구,02-3780-0501,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bdcbf512-d547-4110-8c0b-e8df214a3567&thumb
-파리공원,서울 양천구,02-2620-3574,"['걷기길', '관광지', '나들이', '문화시설', '서울도심여행', '아이와함께', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7248dacb-d836-4201-b0ef-07d6d4b0b66a&thumb
+파리공원,서울 양천구,02-2620-3574,"['걷기길', '관광지', '나들이', '서울도심여행', '아이와함께', '연인과함께', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7248dacb-d836-4201-b0ef-07d6d4b0b66a&thumb
 창의문(자하문),서울 종로구,02-2148-1822,"['가족여행', '관광지', '문화재', '서울여행', '역사', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=81a3a51c-aed6-4503-be81-81077f475aae&thumb
 정몽주 동상,서울 마포구,02-334-7878,"['고려', '관광지', '동상', '마포구', '아이와함께', '양화대교', '역사', '역사공부']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d92a9d27-bf90-4701-84ac-1f3af820abd7&thumb
 환구단,서울 중구,02-3396-5842,"['관광지', '사적', '수도권', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4c055f45-d235-4b3f-bc88-5823d96fa419&thumb
@@ -212,9 +210,9 @@ SK텔레콤 New ICT체험관 T.um,서울 중구,02- 6353-6665,"['4G체험', 'SK�
 KT스퀘어,서울 종로구,1577-5599,"['KT스퀘어', '가족여행', '관광지', '문화공연', '복합문화공간', '산업관광', '산업관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cbd7cb40-5435-4048-a2fe-1f928b9f1103&thumb
 창덕궁 인정문,서울 종로구,02-3668-2300,"['19_20한국관광100선', '19_20한국관광100선', '가족여행', '고궁', '관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=54574690-f66a-43d1-b232-8d0953fbccbf&thumb
 인왕사(서울),서울 종로구,02-737-4434,"['관광지', '불교', '불교문화', '사찰여행', '서울사찰', '수도권', '역사', '인왕사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9e031ec8-cd74-4dec-9591-04f670027f78&thumb
+이음피움봉제역사관,서울 종로구,02-747-6471,"['관광지', '봉제역사관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=454ff837-8dce-4cc1-bf26-9c8b34e87c5b&thumb
 아차산생태공원,서울 광진구,02-450-1192,"['걷기길', '관광지', '생태관광', '아차산생태공원', '자연', '자연&숲', '트레킹']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9ed3d3ab-2e71-47ab-a9b6-76245ad335ea&thumb
 수락산,서울 노원구,02-2116-3943,"['가족여행', '관광지', '당일치기여행', '등산', '등산로', '사계절', '서울근교여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1621b545-ceca-433f-8a1f-6e9db29b8b36&thumb
-이음피움봉제역사관,서울 종로구,02-747-6471,"['관광지', '봉제역사관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=454ff837-8dce-4cc1-bf26-9c8b34e87c5b&thumb
 명동 남대문 북창동 다동무교동 관광특구,서울 중구,02-3396-4622,"['관광지', '기념품판매', '데이트코스', '도심여행', '명동남대문북창동다동무교동관광특구']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8bd2e9e9-4ac2-4d01-87c7-0ee668f02a4d&thumb
 "서울 헌릉(태종,원경왕후)과 인릉(순조,순원왕후) [유네스코 세계문화유산]",서울 서초구,02-445-0347,"['가족여행', '관광지', '교과서속여행', '서울헌릉과인릉', '아이와함께', '역사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=218fff3e-ff60-40c5-a981-8d5ff4205d1d&thumb
 서울 문묘와 성균관,서울 종로구,02-760-1472,"['관광지', '성균관', '역사', '역사공부', '역사관광', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=092fed73-9d83-43d3-8122-0b034f3a54f5&thumb
@@ -231,8 +229,8 @@ KT스퀘어,서울 종로구,1577-5599,"['KT스퀘어', '가족여행', '관광�
 살곶이체육공원,서울 성동구,02-2286-6090,"['걷기길', '관광지', '남녀노소', '산책길', '산책하기', '산책하기좋은곳', '살곶이체육공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0dc41229-56a9-4927-bcb0-0e7936ff1e1e&thumb
 관악산 호수공원,서울 관악구,02-879-6520,"['관광지', '관악산호수공원', '데이트코스', '도심여행', '산책길', '산책하기', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a6557607-ea1a-4611-9dab-3d41ab2f81dd&thumb
 강변스파랜드,서울 광진구,02-455-3737,"['강변스파랜드', '관광지', '불한증막', '사우나', '수도권', '연인과함께', '연중무휴']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2dcc0a23-29ea-4018-875b-81609ecc22cf&thumb
-미타사(성동),서울 성동구,02-2298-3377,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0ff93c17-cd19-4bdd-aa55-b1aa3f66943a&thumb
 서울 암사동 유적,서울 강동구,02-3425-6520,"['가족여행', '관광지', '교과서속여행', '당일치기여행', '서울근교여행', '서울암사동유적']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4be508ff-1e04-4419-b49d-e7e9c86bdd5c&thumb
+미타사(성동),서울 성동구,02-2298-3377,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0ff93c17-cd19-4bdd-aa55-b1aa3f66943a&thumb
 용마산,서울 중랑구,02-2094-2344,"['관광지', '나홀로여행', '등산', '용마산', '자연', '자연&숲', '친구와함께', '트레킹']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=404e5de9-e540-4a7a-b697-dd9bb923b51c&thumb
 국제음식문화거리(INTERNATIONAL FOOD STREET),서울 구로구,,"['가족과함께', '관광지', '맛집', '먹거리여행', '먹거리타운', '먹자골목', '문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9e63c156-a1f7-40d9-8015-430482447a71&thumb
 상수동 카페거리,서울 마포구,02-3153-8353,"['관광지', '데이트', '분위기좋은카페', '서울카페', '연인과함께', '이색카페', '체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7039d686-cecb-4d32-9bc7-9776ae4a8c81&thumb
@@ -241,7 +239,7 @@ KT스퀘어,서울 종로구,1577-5599,"['KT스퀘어', '가족여행', '관광�
 천도교중앙대교당,서울 종로구,02-3396-5842,"['관광지', '교과서속여행', '나홀로여행', '도심여행', '역사', '역사공부', '역사관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f85b2682-35f4-4b8c-afcf-1160819f39c7&thumb
 "아리수 정수센터 (암사,뚝섬,영등포)",서울 강동구,02-3146-5714,"['견학', '관광지', '뚝도아리수정수센터', '산업관광', '산업관광지', '수도권', '아리수']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d0d3b98d-ba56-4007-abaf-9226f657627d&thumb
 인왕산,서울 종로구,02-2148-2834,"['관광지', '등산', '수도권', '인왕산', '자연', '트레킹']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e28e2037-9eeb-4382-a174-8529318238f3&thumb
-오동근린공원,서울 강북구,02-901-6923,"['관광지', '근린공원', '문화시설', '산책길', '산책코스', '산책하기', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=72ea945c-8428-45f7-a530-82951338ba8a&thumb
+오동근린공원,서울 강북구,02-901-6923,"['관광지', '근린공원', '산책길', '산책코스', '산책하기', '산책하기좋은곳', '실내운동']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=72ea945c-8428-45f7-a530-82951338ba8a&thumb
 대한성공회 서울주교좌성당,서울 중구,02-730-6611,"['가족여행', '관광지', '대한성공회서울주교좌성당', '성당', '수도권', '역사공부']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=dafe61a1-4987-4bbf-8357-81da0abb58a2&thumb
 청량사(서울),서울 동대문구,02-962-7390,"['관광지', '도심속', '불교', '불교문화', '사찰', '사찰여행', '역사', '전통사찰', '종교']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=214027cb-29a5-478e-9f99-d17f91fe5281&thumb
 자생식물학습장,서울 종로구,02-762-4868,"['가족여행', '고궁', '관광지', '교과서속여행', '꽃여행', '사계절', '수도권', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=13290218-10dc-49e8-924e-9754df14bdd8&thumb
@@ -273,15 +271,15 @@ KT스퀘어,서울 종로구,1577-5599,"['KT스퀘어', '가족여행', '관광�
 아차산성,서울 광진구,02-450-7593,"['가족여행', '관광지', '교과서속여행', '당일치기여행', '등산', '등산로', '서울근교여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ce97805f-54f2-48a2-9586-84c48f28b783&thumb
 미타사(강서),서울 강서구,02-2662-4736,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3ba5ff09-b01f-4d6b-864b-82d680395f80&thumb
 창경궁 홍화문,서울 종로구,02-762-4868,"['19_20한국관광100선', '가족여행', '고궁', '관광지', '교과서속여행', '사계절']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f9e03ca4-519f-4898-b72f-0bb53b1af952&thumb
-경국사(서울),서울 성북구,02-914-2828,"['가족여행', '경국사', '관광지', '도심여행', '불교', '불교문화', '사찰', '사찰&산사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=00ad75c2-8b44-4598-b504-5fd4936fc406&thumb
-사가정공원,서울 중랑구,02-2094-0000,"['걷기길', '관광지', '나들이', '문화시설', '사가정공원', '산책길', '산책하기', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d9fcd045-f1df-4738-932e-7f2455c154fb&thumb
 DMC 홍보관,서울 마포구,02-309-7067,"['DMC', 'DMC홍보관', '관광지', '복합문화공간', '산업관광', '산업관광지', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=256626e5-62a8-4401-a308-3b788c5e8f9b&thumb
+경국사(서울),서울 성북구,02-914-2828,"['가족여행', '경국사', '관광지', '도심여행', '불교', '불교문화', '사찰', '사찰&산사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=00ad75c2-8b44-4598-b504-5fd4936fc406&thumb
+사가정공원,서울 중랑구,02-2094-0000,"['걷기길', '관광지', '나들이', '사가정공원', '산책길', '산책하기', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d9fcd045-f1df-4738-932e-7f2455c154fb&thumb
 마포전차종점 3·1운동 만세 시위지,서울 마포구,02-3153-8372,"['3·1운동_100주년_여행지추천', '관광지', '마포전차종점3·1운동만세시위지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8eded65c-2011-476e-9aa4-1e028fd2c205&thumb
 광희문,서울 중구,02-3700-3900,"['관광지', '역사', '역사공부', '역사관광', '역사관광지', '역사문화', '역사문화재']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d849c0b6-f33a-48f4-ac05-636235a6685b&thumb
 이탈리아의무부대 6.25전쟁 참전기념비,서울 영등포구,1577-0606,"['관광지', '국가보훈처', '기념비', '역사', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=21aaf62c-4461-4af7-9cc9-8f3154256131&thumb
 진관사(서울),서울 은평구,02-359-8410,"['관광지', '불교', '불교문화', '불교사찰', '사찰', '사찰여행', '역사', '자연속으로']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4bd7c64d-2387-4fbe-9884-872cc143fcbf&thumb
 방이동 생태경관 보전지역,서울 송파구,02-2147-3380,"['관광지', '방이동생태경관보전지역', '생태', '수도권', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=07f5e04f-d09a-4722-8cbe-5f1ad214457c&thumb
-청담패션거리,서울 강남구,02-3445-0111,"['관광지', '남녀노소', '문화예술', '복합문화공간', '쇼핑', '수도권', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c6bff3ac-0a82-4046-afd1-31dc5801d75a&thumb
+청담패션거리,서울 강남구,02-3445-0111,"['관광지', '남녀노소', '문화예술', '복합문화공간', '수도권', '연인과함께', '영도해양문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c6bff3ac-0a82-4046-afd1-31dc5801d75a&thumb
 보신각 터,서울 종로구,02-2133-2641,"['가족여행', '관광지', '교과서속여행', '당일치기여행', '보신각터', '서울근교여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=70ec7801-b83a-4265-8a59-02dfb4acfadf&thumb
 양화진외국인선교사묘원(외인묘지),서울 마포구,02-332-9174,"['관광지', '수도권', '양화진외국인선교사묘원', '역사', '역사공부', '역사관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8a2eb10e-72a2-49c4-a3bb-9cec34fb8268&thumb
 서울 살곶이 다리,서울 성동구,02-2286-5202,"['걷기길', '관광지', '교과서속여행', '산책길', '산책하기', '산책하기좋은곳', '서울살곶이다리']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=85e77f00-5bd5-4635-96c5-17946fb16bea&thumb
@@ -289,15 +287,15 @@ DMC 홍보관,서울 마포구,02-309-7067,"['DMC', 'DMC홍보관', '관광지',
 장충단공원,서울 중구,02-3396-5856,"['가족여행', '걷기여행', '관광지', '나들이', '당일치기여행', '사계절', '서울근교여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fa587e89-97e8-4727-85a7-92620a453b27&thumb
 봉화산근린공원,서울 중랑구,02-2094-2361,"['공원', '관광지', '근린공원', '산책길', '산책코스', '산책하기좋은곳', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8067911d-6d3e-4ae5-9f77-13b3cff65934&thumb
 연세로,서울 서대문구,02-120,"['관광지', '맛집탐방', '쇼핑거리', '숨은맛집', '연세대학교', '연인과함께', '우수쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8b859ac4-c140-4fc5-a571-b8d19a1d0d5d&thumb
-백인제가옥,서울 종로구,02-724-0200,"['관광지', '근대한옥', '문화재', '백인제가옥', '수도권', '역사', '역사공부', '역사관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=013c646a-8349-4e4e-ad02-60e2ec511c67&thumb
 용산성당,서울 용산구,02-719-3301,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cda0764b-5d9c-4541-9b2f-23d8049045d1&thumb
+백인제가옥,서울 종로구,02-724-0200,"['관광지', '근대한옥', '문화재', '백인제가옥', '수도권', '역사', '역사공부', '역사관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=013c646a-8349-4e4e-ad02-60e2ec511c67&thumb
 도봉서원,서울 도봉구,02-2091-2262,"['관광지', '교과서속여행', '기념물', '도봉서원', '서원', '수도권', '역사', '역사공부']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a4d45562-a7fe-4bc1-9bd2-9f39cceb3f5e&thumb
 흥천사,서울 성북구,02-929-6611,"['관광지', '불교', '불교사찰', '사찰', '사찰여행', '역사', '자연속으로', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c5114254-8032-414f-8e50-5003e7a53879&thumb
 황학정,서울 종로구,02-738-5785,"['관광지', '궁술', '서울여행', '역사', '역사공부', '역사관광지', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3335e6c0-40ad-457e-afc5-c4f2b823100b&thumb
 승가사(서울),서울 종로구,02-379-2996,"['관광지', '불교', '불교사찰', '사찰', '사찰여행', '역사', '자연속으로', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
 잠실 관광특구,서울 송파구,02-2147-2105,"['관광지', '놀이동산&테마파크', '문화행사', '복합문화공간', '산책길', '산책하기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=83176cd3-a04a-4e45-8634-2271e3adcd91&thumb
 우이동계곡,서울 강북구,02-909-0497,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=dfa6074f-96a0-4927-83b8-f0f000cae95d&thumb
-천호공원,서울 강동구,02-489-2776,"['공원', '관광지', '근린공원', '문화시설', '산책길', '산책코스', '산책하기', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=edbdbbce-369c-4b56-8f88-9529a8234d77&thumb
+천호공원,서울 강동구,02-489-2776,"['공원', '관광지', '근린공원', '산책길', '산책코스', '산책하기', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=edbdbbce-369c-4b56-8f88-9529a8234d77&thumb
 서울 호암산성(한우물 및 주변산성지),서울 금천구,02-2627-1451,"['관광지', '사적', '수도권', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1070c86f-249e-4e0b-b57d-72916efc80da&thumb
 서울새활용플라자,서울 성동구,02-2153-0400,"['관광지', '도시재생', '산업관광', '산업관광지', '서울재활용플라자', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=81193131-7c11-43e4-bec9-53b626fca3d8&thumb
 전주이씨광평대군파묘역,서울 강남구,02-459-4733,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b0e70080-706a-4363-8d4f-449bb74781c5&thumb
@@ -315,10 +313,10 @@ DMC 홍보관,서울 마포구,02-309-7067,"['DMC', 'DMC홍보관', '관광지',
 삼청동오위장김춘영가옥,서울 중구,02-3396-5842,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8b0444cf-97b2-44f9-9a13-ee84e016bd95&thumb
 낙선재,서울 종로구,02-2148-1822,"['가족여행', '고궁', '관광지', '교과서속여행', '낙선재', '사계절', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7d80669e-cd20-4635-8f8a-701d335edfc1&thumb
 천간사,서울 은평구,02-355-7430,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '수도권', '역사', '전통사찰', '종교']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=be66af79-f7c3-4174-9ac7-ddf0808c8c83&thumb
+새남터기념성당,서울 용산구,02-716-1791,"['가족여행', '관광지', '근대문화유산', '당일치기여행', '새남터기념성당', '서울근교여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3d56414f-fb62-4096-af14-fe24923c1548&thumb
 용왕산근린공원,서울 양천구,02-2620-3579,"['가족여행', '걷기길', '관광지', '나들이', '서울도심여행', '아이와함께', '용왕산근린공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1410352a-c467-4086-8b6a-1a7027ade180&thumb
 맥아더 사령관 한강방어선 시찰지,서울 영등포구,02-2670-3717,"['관광지', '맥아더사령관한강방어선시찰지', '수도권', '역사', '역사공부', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ca8e3d55-732d-4a1b-ab42-27f62b3753f9&thumb
 유니버설아트센터,서울 광진구,070-7124-1740,"['가족여행', '공연장', '관광지', '나들이', '데이트코스', '문화시설', '수도권', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fd8ae02e-5133-4438-a69d-71f3b0632e21&thumb
-새남터기념성당,서울 용산구,02-716-1791,"['가족여행', '관광지', '근대문화유산', '당일치기여행', '새남터기념성당', '서울근교여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3d56414f-fb62-4096-af14-fe24923c1548&thumb
 MBC WORLD(견학홀),서울 마포구,02-789-3705,"['관광지', '산업관광', '산업관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d0409671-0ff3-4575-9609-62af572b53f1&thumb
 경의선책거리,서울 마포구,02-3153-8353,"['경의선', '경의선책거리', '관광지', '복합문화', '복합문화공간', '복합시설', '산책하기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=764c1158-3749-4db8-911e-c39f9d1fde55&thumb
 명성황후 조난지,서울 종로구,02-3700-3900,"['경복궁', '관광지', '명성황후', '역사', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3c8efc26-c036-4403-8f2e-10527f8fc9ee&thumb
@@ -360,16 +358,16 @@ VRZONE CINEMA(브이알존 시네마),서울 강남구,02-545-3394,"['관광지'
 소림사(서울),서울 종로구,02-394-2145,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '역사속으로', '역사이야기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7c668d9f-96de-46ab-9eff-ae19df958936&thumb
 궁동저수지 생태공원,서울 구로구,02-860-3097,"['가족과함께', '공원', '관광지', '산책하기좋은곳', '생태공원', '연인과함께', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=05da15be-aaeb-40b7-82eb-19c1abf46916&thumb
 대한제국군 서울시가 전투지,서울 중구,02-3396-5842,"['관광지', '대한제국군서울시가전투지', '수도권', '역사', '역사공부', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9b4820bc-b604-4a79-b61d-a70f2cc043e2&thumb
-달마사(서울),서울 동작구,02-813-7425,"['관광지', '불교', '불교문화', '사찰여행', '역사', '원불교', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
 서울생활사박물관,서울 노원구,02-3399-2970,"['관광지', '서울생활사박물관', '이색체험', '전통&역사체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d42accee-2eba-458a-a9d2-475494e20575&thumb
+달마사(서울),서울 동작구,02-813-7425,"['관광지', '불교', '불교문화', '사찰여행', '역사', '원불교', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
 서울 방이동 고분군,서울 송파구,02-2147-2800,"['관광지', '사적', '서울방이동고분군', '수도권', '역사', '역사공부', '역사관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8af6e012-3a2c-4523-bc85-19f542cb12a5&thumb
 아차산봉수대터,서울 중랑구,02-2094-1817,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bc1fb0e2-1281-4843-a551-b95855c76b46&thumb
 경희궁 흥화문,서울 종로구,02-724-0274,"['19_20한국관광100선', '가족여행', '경희궁흥화문', '고궁', '관광지', '교과서속여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=38c4c05f-8ad5-4b97-bcdc-564cdecbc968&thumb
 서울 연세대학교 언더우드관,서울 서대문구,02-330-1121,"['관광지', '근대문화유산', '서울연세대학교언더우드관', '역사', '역사공부', '역사관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e6e6f7af-b79f-4f12-8645-fcd7766cdb54&thumb
+서빙고동 부군당,서울 용산구,02-2199-7245,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=33e07d64-2087-4399-94ef-2cf1725a11a8&thumb
 오휘스파논현,서울 강남구,02-3446-5157,"['관광지', '부모님과함께', '뷰티&스파', '뷰티투어', '스킨케어', '스파', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6e9b2887-c2a3-43be-9d26-36cbd76a1167&thumb
 백련사(서울),서울 강북구,02-990-7058,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=672ee705-ef3b-44d7-8431-2293503c43b6&thumb
 영등포공원,서울 영등포구,02-2670-3715,"['가족여행', '걷기길', '관광지', '데이트코스', '도심여행', '사계절', '산책길', '산책하기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=964049bf-d7c4-4b72-abea-999a2d6d2774&thumb
-서빙고동 부군당,서울 용산구,02-2199-7245,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=33e07d64-2087-4399-94ef-2cf1725a11a8&thumb
 한국유림독립운동파리장서비,서울 중구,1577-0606,"['관광지', '독립운동', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=845694b1-7c9d-44e7-b6c5-863437d352da&thumb
 신선경과 류인호 묘역,서울 송파구,02-2147-2002,"['관광지', '교과서속여행', '신선경과류인호묘역', '아이와함께', '역사', '역사공부']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0bb4693b-43b7-4c6c-8b09-ec1215d48ebb&thumb
 울라스튜디오,서울 용산구,02-795-4282,"['관광지', '반려견과함께', '반려견동반', '반려견동반여행지', '사진촬영', '애견동반']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=65bfef69-cc32-4bf4-a76d-9f39af7eff4f&thumb
@@ -379,7 +377,6 @@ VRZONE CINEMA(브이알존 시네마),서울 강남구,02-545-3394,"['관광지'
 서울 동관왕묘,서울 종로구,02-2148-1842,"['관광지', '교과서속여행', '동관왕묘', '문화재', '사당', '수도권', '역사', '역사공부']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=94657332-ddc6-4c55-be9a-870260bd0f9f&thumb
 양천구 어린이교통공원,서울 양천구,02-2652-1582,"['겨울방학가볼만한곳', '관광지', '교육여행', '도심여행', '산책길', '산책하기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4ca6c45c-0f86-4d54-9579-0e9ecd804357&thumb
 유심사,서울 종로구,02-2148-1842,"['관광지', '교과서속여행', '수도권', '역사', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=716f35bd-0a7b-456e-9130-56225ba65a60&thumb
-밀리오레 (동대문점),서울 중구,02-3393-0293,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5c226d3f-af3d-4ce4-b077-48be4785764b&thumb
 독립관,서울 서대문구,02-365-4388,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ae70fc8e-73c7-4c0d-814a-73cda673cab2&thumb
 양재천 생태공원,서울 서초구,02-2155-6114,"['관광지', '나들이', '당일치기여행', '도심여행', '양재천생태공원', '자연', '자연&숲']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=162d660e-e7bc-4d2e-88eb-d00dbbc3fd53&thumb
 브이알존 큐브 강남점,서울 서초구,02-591-0770,"['VR체험', '관광지', '남녀노소', '실내데이트', '실내레포츠', '실내여행지', '아이가_좋아하는_여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2f017751-0d4d-46c4-8f97-d5efe89324a1&thumb
@@ -406,10 +403,9 @@ VRZONE CINEMA(브이알존 시네마),서울 강남구,02-545-3394,"['관광지'
 세종로공원,서울 종로구,02-2148-2841,"['걷기여행', '관광지', '도심여행', '사계절', '산책길', '산책하기', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=028b8da2-4048-4565-a97f-13caab578e60&thumb
 정정공강사상묘역,서울 관악구,02-879-5618,"['관광지', '서울특별시유형문화재', '수도권', '역사', '역사공부', '역사관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bac74dab-9024-4aa1-97e8-634985fb5e83&thumb
 올림픽대교,서울 송파구,02-120,"['건축물', '관광지', '다리', '드라이브코스', '서울야경', '서울올림픽', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8e042301-691b-4e23-9bbb-dd70591b6555&thumb
-서울 고려대학교 중앙도서관,서울 성북구,02-3290-1492,"['건축사', '건축여행', '고려대학교', '관광지', '국내건축물', '근대건축', '근대문화유산']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=914ad2a0-b84f-41c9-b470-346b40fd0c63&thumb
 보광사(서울),서울 용산구,02-793-6261,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '역사속', '역사여행', '역사이야기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b447da69-b3c7-49b6-9d8a-a038a49a8a25&thumb
+서울 고려대학교 중앙도서관,서울 성북구,02-3290-1492,"['건축사', '건축여행', '고려대학교', '관광지', '국내건축물', '근대건축', '근대문화유산']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=914ad2a0-b84f-41c9-b470-346b40fd0c63&thumb
 정암사,서울 노원구,02-930-1995,"['관광지', '도심여행', '불교', '불교문화', '사찰', '사찰여행', '산사', '역사', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5610af83-3178-4f49-b488-f78f7d04c69f&thumb
-디타워 (replace 광화문),서울 종로구,02-2251-8111,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e83bdfa0-74df-4351-9a7a-204eddad5bd8&thumb
 적조사(서울),서울 성북구,02-924-5362,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d504f7ea-e921-4a4f-9d28-dc783ae5b1fc&thumb
 내원사(서울),서울 성북구,02-941-2011,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b0d96284-5bc6-4bfa-87cc-df3e04808bbc&thumb
 서울 대한의원,서울 종로구,02-2148-1842,"['관광지', '교과서속여행', '문화재', '서울대한의원', '수도권', '역사', '역사공부']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=076792c9-ac3e-4834-8246-b57ddcb747bf&thumb
@@ -427,7 +423,6 @@ VRZONE CINEMA(브이알존 시네마),서울 강남구,02-545-3394,"['관광지'
 북악산,서울 종로구,02-765-0297 02-747-2152 02-730-9924,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8b06c5c5-b606-4491-9ce9-dd4cbf9f82fe&thumb
 탄천,서울 강남구,02-3423-6254,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ddaa3585-44d3-495b-95c2-58ec60537350&thumb
 토성산성 어울길,서울 송파구,031-777-7500,"['걷기길', '걷기여행', '관광지', '남한산성길', '생태관광', '생태관광지', '성내천']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6859d761-fa60-4142-8b6a-876a606a01d3&thumb
-남대문 메사 (MESA),서울 중구,02-2128-7800,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=94e22e5d-bcd5-4a22-b24f-2f8923cba386&thumb
 봉천동 마애미륵불좌상,서울 관악구,02-879-5618,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cd7d81f2-cef9-431d-9658-6df933225d54&thumb
 "서울교통공사 차량기지 (도봉, 모란기지)",서울 성동구,02-6311-3966,"['견학프로그램', '관광지', '교육여행', '교육체험', '교육프로그램', '서울교통공사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d7b32026-a1e8-4322-a4e9-a7524a7050b1&thumb
 생명보험교육문화센터,서울 종로구,02-2262-6549,"['관광지', '산업관광', '산업관광지', '생명보험교육문화센터', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=998c46ef-bbdb-47f0-b91d-a5b8bf6046ef&thumb
@@ -451,8 +446,6 @@ K-Taekwon school 태권도체험,서울 강동구,- 1599-7308,"['건강여행', 
 용굴암(서울),서울 노원구,02-937-8206,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=01ae26ca-4da8-46de-8269-b5096d70cf48&thumb
 탑골공원 팔각정,서울 종로구,02-2148-1822,"['관광지', '서울특별시유형문화재', '수도권', '역사', '역사공부', '역사관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b4c83423-567d-4a10-915c-30cb94b32d55&thumb
 경희궁공원,서울 종로구,02-2148-2841,"['가족여행', '경희궁공원', '고궁', '관광지', '교과서속여행', '사계절', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c5607a65-d58a-4528-a33a-c5d1e5001e77&thumb
-마장 축산물시장,서울 성동구,02-2281-4446,"['가족여행', '관광지', '마장축산물시장', '사계절', '쇼핑', '수도권', '시장맛집']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e6997d7a-794a-4651-9fd6-4f6381b36821&thumb
-프리스비 (Frisbee) 건대점,서울 광진구,02-2218-3195,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1287bb9f-b892-4c1a-9ae0-3db9fedcf38f&thumb
 순국선열추념탑,서울 서대문구,1577-0606,"['관광지', '사계절', '수도권', '순국선열추념탑', '아이와함께', '역사공부', '역사관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e12a66ca-28ac-4826-8331-541d438461bd&thumb
 경찰혼,서울 영등포구,1577-0606,"['경찰', '경찰서', '경찰혼', '관광지', '사계절', '수도권', '아이와함께', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a9a4c2f4-ed1f-4937-8c76-b37bb2a3995f&thumb
 고척동 고인돌,서울 구로구,02-860-2278,"['관광지', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속', '역사속으로']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f30b9b25-efcc-443d-9cf0-da1a2ab37837&thumb
@@ -463,7 +456,6 @@ AHC스파,서울 강남구,02-541-8239,"['관광지', '남녀노소', '부모님
 봉국사(서울),서울 성북구,02-919-021,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fc2e85ea-f81f-4e11-9507-3102624fde86&thumb
 사자암(서울),서울 동작구,02-825-1046,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
 북악산생태탐방로,서울 종로구,02-730-9924,"['걷기길', '관광지', '북악산', '북악산생태탐방로', '생태관광', '생태관광지', '트레킹']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7bd16971-e1dd-4edc-b4bf-6ffcfd9a2c47&thumb
-테크노마트 강변점,서울 광진구,02-3424-0114,"['강변테크노마트', '관광지', '복합쇼핑몰', '쇼핑', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d1ad0ff3-7d40-4afb-81b1-1c0cc0ef6aab&thumb
 동십자각,서울 종로구,02-2148-1842,"['관광지', '교과서속여행', '동십자각', '문화재', '수도권', '역사', '역사공부', '역사관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=580c7ac6-d50a-4b8e-a1d4-b78f25289232&thumb
 안중근의사 동상,서울 용산구,1577-0606,"['관광지', '사계절', '수도권', '아이와함께', '안중근의사동상', '역사공부', '역사관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5f4388a7-83ee-4a1f-8061-56554a140644&thumb
 서울 관상감 관천대,서울 종로구,02-2148-1842,"['관광지', '관상감관천대', '문화재', '수도권', '역사', '역사공부', '역사관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2bd906a9-41d6-4dd2-af01-2564bd629f64&thumb
@@ -471,10 +463,8 @@ AHC스파,서울 강남구,02-541-8239,"['관광지', '남녀노소', '부모님
 호국충혼위령비,서울 강서구,02-2125-0848,"['관광지', '역사공부', '역사관광지', '역사를품은곳', '역사속', '역사속으로', '역사여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=58b63193-0ec7-453e-a752-9917366896a7&thumb
 이재명 의거지,서울 중구,02-3396-5842,"['관광지', '수도권', '역사', '역사공부', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4cd9c988-d724-42e5-bbd6-2804814426d0&thumb
 아띠인력거,서울 종로구,1666-1693,"['관광지', '서울가볼만한곳', '서울놀기', '서울여행코스', '서울핫플', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c6c41d23-65ef-41e0-9421-8da72ab0a7b7&thumb
-백악미술관,서울 종로구,02-734-4205,"['관광지', '문화시설']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b8cb31a1-2705-4846-ab4f-4b429d95bc65&thumb
 tbs교통방송,서울 마포구,02-311-5603,"['TBS', 'tbs교통방송', '견학', '관광지', '교통방송', '방송국', '산업관광', '산업관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4d36fde4-29db-4e6a-aaa2-a0f1519c4734&thumb
 서울 삼전도비,서울 송파구,02-2147-2002,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=beecfa18-b2c7-4524-88d9-5e55cc314419&thumb
-영풍문고 스타필드코엑스몰점,서울 강남구,02-6002-2718,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=06641880-dc12-4d55-8ce9-d05104b6868f&thumb
 백마고지 3용사의 상,서울 광진구,02-450-9327,"['관광지', '백마고지3용사의상', '수도권', '역사', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2b349939-f660-4112-9310-c1bb18e4d0b3&thumb
 훈련원공원,서울 중구,02-3396-5857,"['관광지', '산책길', '산책하기', '산책하기좋은곳', '역사공부', '역사관광지', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=172d20b7-5a1e-4dd3-827b-cd20ed59eb17&thumb
 반공 청년운동 순국 열사 기념비,서울 중구,02-2238-2172,"['관광지', '반공청년운동순국열사기념비', '수도권', '역사', '역사공부', '역사관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=06fcbd99-d712-459c-8ca0-395574a378e4&thumb
@@ -487,13 +477,13 @@ tbs교통방송,서울 마포구,02-311-5603,"['TBS', 'tbs교통방송', '견학
 온수도시 자연공원(잣절공원),서울 구로구,02-860-2396,"['가족과함께', '가족체험', '가족체험학습', '공원', '관광지', '도시자연공원', '반딧불이']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b02c76cb-45dc-47fc-872d-9d9ab573ed18&thumb
 "계남공원(유아숲체험장, 우렁바위)",서울 양천구,02-2620-3573,"['걷기길', '관광지', '산책코스', '산책하기좋은곳', '아이와함께', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=13e071d0-fa20-47fe-b832-48b76d9e8d5a&thumb
 개봉 유수지,서울 구로구,02-860-3114,"['가족과함께', '공원', '관광지', '산책로', '산책하기좋은곳', '아침운동', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ce856a95-066a-4265-9782-3d01f766b939&thumb
+서울학도병참전기념비,서울 용산구,1577-0606,"['관광지', '애국심', '애국정신', '애국지사', '역사', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=539dcf17-0b4e-4bd4-839d-9cf579faccfc&thumb
 연필로 명상하기,서울 중구,02-318-4564,"['견학', '관광지', '산업관광', '산업관광지', '수도권', '아이와함께', '애니메이션']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9d8fc6ac-d66b-48e7-8e0e-73669a3f1f1c&thumb
 순정효황후윤씨친가,서울 중구,02-3396-5842,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=06f38617-8e3f-4024-89f1-c51cf7cf5888&thumb
 여계묘역,서울 구로구,02-860-2278,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사속', '역사속으로']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f940d876-958a-4dd6-b4e4-9532beaaa018&thumb
 도시농업공원,서울 양천구,02-2620-3578,"['가족과함께', '관광지', '남녀노소', '산책길', '산책코스', '산책하기좋은곳', '서울산책']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6e4358ce-8118-41af-9447-0757c9e95bc2&thumb
 녹사평역 지하예술정원,서울 용산구,02-794-5579,"['가족과함께', '관광지', '녹사평', '문화공간', '문화예술공간', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fe7a215a-0dd9-412e-8619-12d839d7c09d&thumb
 구공업전습소본관,서울 종로구,02-2148-1842,"['관광지', '교과서속여행', '구공업전습소본관', '문화재', '사적지', '수도권', '역사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=09c8240e-338f-4dc6-8890-bd8dde8ded32&thumb
-서울학도병참전기념비,서울 용산구,1577-0606,"['관광지', '애국심', '애국정신', '애국지사', '역사', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=539dcf17-0b4e-4bd4-839d-9cf579faccfc&thumb
 올리바인 스파,서울 종로구,02-730-1719,"['건강여행', '관광지', '부모님과함께', '뷰티&스파온천&스파', '연인과함께', '올리바인스파']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6aa9ae2f-8d46-4bf4-bcbd-94844064997e&thumb
 현대원서공원,서울 종로구,02-2148-2841,"['공원', '관광지', '도시공원', '도심공원', '산책하기좋은곳', '약속의장소', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cf9ba910-951c-4f38-b700-aadbfb2f8525&thumb
 창덕궁 향나무,서울 종로구,02-3668-2300,"['관광지', '수도권', '자연', '창덕궁', '창덕궁향나무', '천연기념물']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=31bc2eae-8167-4f06-b828-0c89c94c57a3&thumb
@@ -506,7 +496,6 @@ tbs교통방송,서울 마포구,02-311-5603,"['TBS', 'tbs교통방송', '견학
 양천생활안전체험교육관,서울 양천구,02-2620-4397,"['관광지', '교육여행', '교육장', '교육체험', '아이와함께', '아이와함께가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=59d87e3f-c699-4bdb-beab-f1404084315a&thumb
 류순정류홍부자 묘역,서울 구로구,02-860-2278,"['관광지', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속', '역사속으로']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2877a7d0-faa0-45cd-b7b6-211071b9127d&thumb
 청룡사(서울),서울 종로구,02-763-2145,"['관광지', '도심속', '불교', '불교문화', '사찰', '사찰여행', '수도권', '역사', '전통사찰']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=de86c31b-0a6f-40aa-89b8-25439c11e91e&thumb
-눈스퀘어,서울 중구,02-3783-5005,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e02d2ef0-bb23-46f1-ae2f-2acd41379b79&thumb
 서울월드컵경기장 스타디움 투어,서울 마포구,02-2128-2002,"['가족과함께', '관광지', '교육여행', '남녀노소', '서울월드컵경기장', '스타디움투어']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3c2bf7fb-1c66-4d3b-a70b-c8765bc2e1e3&thumb
 이봉창의사동상,서울 용산구,02-2125-0848,"['관광지', '사계절', '수도권', '아이와함께', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0af962a7-1684-4fc6-b49a-336a39c99757&thumb
 유관순열사상,서울 광진구,02-2125-0848,"['관광지', '사계절', '수도권', '아이와함께', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a4f50792-dba4-4ac3-8722-d938209b6e69&thumb
@@ -516,9 +505,7 @@ tbs교통방송,서울 마포구,02-311-5603,"['TBS', 'tbs교통방송', '견학
 YTN,서울 마포구,02-398-8183,"['YTN', '견학', '관광지', '방송국', '사업관광지', '산업관광', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fdd2ebbb-8c5f-4123-bd31-c9c73d12e6fd&thumb
 목멱산봉수대터,서울 중구,02-3396-5842,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d68c24e3-f32c-478b-bb97-b28446405793&thumb
 충주 정토사지 홍법국사탑,서울 용산구,02-2077-9000,"['관광지', '역사', '역사공부', '역사관광', '역사관광지', '역사를품은곳', '역사문화재']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=745bd379-c1d8-4341-8cb1-0f9efe3286b1&thumb
-금강제화 (강남본점),서울 강남구,02-541-8081,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bdc432fb-7f07-401a-9822-4d9029592a53&thumb
 "신트리공원(농촌체험,자연학습장)",서울 양천구,02-2620-4566,"['가족과함께', '관광지', '산책로', '산책하기좋은곳', '서울산책', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=35b15a5a-b50f-4d74-a613-d769f68827ac&thumb
-충무공사,서울 종로구,02-737-9700,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=02fb550d-0338-42d6-b72e-4539b4443a93&thumb
 감로암(서울),서울 종로구,02-762-5861,"['관광지', '역사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=89a8c860-7548-4c95-80bb-1ee6a406ecd6&thumb
 본원정사(서울),서울 강북구,02-902-7337,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f5c4311e-72a3-4f33-9360-8b3333d427ee&thumb
 율곡로,서울 종로구,02-2148-1842,"['가로수길', '관광지', '돌담길', '산책코스', '산책하기좋은곳', '수도권', '역사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=260c9c74-97f2-4c76-9d82-e58b22f28a48&thumb
@@ -529,40 +516,34 @@ YTN,서울 마포구,02-398-8183,"['YTN', '견학', '관광지', '방송국', '�
 경운동민병옥가옥,서울 종로구,02-120,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=83d1833f-ee99-4a33-8982-b38555d4abfb&thumb
 충익공신경진묘역,서울 중랑구,02-2094-1822,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7598ca2d-891a-4084-bcdc-419c05ade123&thumb
 학도암(서울),서울 노원구,02-930-6611,"['관광지', '도심속', '불교', '불교문화', '사찰', '사찰여행', '역사', '전통사찰', '종교']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=799803da-08a0-4f91-9927-3fd0f3254f09&thumb
-신라아이파크면세점,서울 용산구,1688-8800,"['관광지', '면세점', '서울', '쇼핑', '용산']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=53be3504-3962-4b77-a3e4-1a75329c684b&thumb
 존비코올터장군상,서울 광진구,1577-0606,"['관광지', '사계절', '수도권', '아이와함께', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9e1536e7-23a1-405f-b64b-327784ff9317&thumb
 서울도시건축전시관,서울 중구,02-736-8050,"['관광지', '도시건축전시관', '중구']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=38ef4031-59ae-461e-b83f-c070ad9102d3&thumb
 광장시장 한복문화 체험관,서울 종로구,02-2267-0291,"['관광지', '광장시장', '아이와함께', '이색체험', '전통한복', '체험프로그램', '한국전통']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cca7f55c-c085-46c0-8c9d-3e075b22ea07&thumb
-TRAVELIGHT (트래블라이트),서울 중구,02-318-5662,"['관광쇼핑', '관광지', '남대문시장', '서울남대문시장', '쇼핑', '외국인이많이찾는']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0f359fe2-86a4-49fe-8017-7948e9108770&thumb
 서울 경모궁지,서울 종로구,02-2148-1842,"['경모궁지', '고택', '관광지', '교과서속여행', '문화재', '수도권', '역사', '역사공부']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=36b10b45-6dae-43be-9cb6-3294e1520a2f&thumb
 고당조만식선생동상,서울 광진구,1577-0606,"['관광지', '독립', '독립운동', '역사', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c9bd2fdf-a602-408b-9118-28c17e43ac3b&thumb
-신세계백화점 (본점),서울 중구,1588-1234,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=68158d3d-495a-4689-9b57-a19407cf71f1&thumb
 송재서재필선생상,서울 서대문구,1577-0606,"['3·1운동_100주년_여행지추천', '관광지', '독립공원', '독립신문', '독립운동']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7bc4fba0-d73e-4fe8-bee4-3877057503bd&thumb
 엘크레,서울 강남구,02-547-3485,"['감성사진', '관광지', '메이크업', '분위기좋은카페', '뷰티', '뷰티투어', '사진찍기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c854a3c1-7ba6-4cdb-b298-29dd7d8e6ac1&thumb
 대각사,서울 종로구,02-744-4502,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8661b9bc-b79a-411b-bbb3-39f24799045d&thumb
 수암사,서울 노원구,02-939-3414,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연좋은곳', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4a21cbd3-e335-4942-9a9b-1043db25d14b&thumb
-고척근린공원,서울 구로구,02-2619-6640,"['가족과함께', '공원', '관광지', '산책길', '산책하기좋은곳', '연인과함께', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1e1cb618-4bd3-4131-ab41-2de469b14153&thumb
 무궁화동산,서울 종로구,02-2148-2841,"['공원', '관광지', '무궁화', '무궁화공원', '산책길', '산책코스', '산책하기', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6c64aa77-58f9-45f3-8371-d6d090c6be43&thumb
+고척근린공원,서울 구로구,02-2619-6640,"['가족과함께', '공원', '관광지', '산책길', '산책하기좋은곳', '연인과함께', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1e1cb618-4bd3-4131-ab41-2de469b14153&thumb
 신검사(서울),서울 강북구,02-992-8288,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
 일선사(서울),서울 종로구,02-379-8697,"['관광지', '도심속', '불교', '불교문화', '사찰여행', '역사', '자연환경', '전통사찰']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
 우당 이회영 선생 흉상,서울 중구,02-734-8851,"['관광지', '수도권', '아이와함께', '역사', '역사공부', '역사를품은곳', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=205485fc-c45d-4cd3-a180-1feb2e4eb4ac&thumb
 삼성암(서울),서울 강북구,02-988-1996,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
 고하송진우선생동상,서울 광진구,1577-0606,"['관광지', '독립운동', '아이와함께', '역사공부', '역사관광지', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b5718b1b-6ea0-4d00-b0f1-90abb409707f&thumb
-용산전자랜드,서울 용산구,02-707-4700,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=58c611aa-ace0-428f-8155-2220996b7fef&thumb
 서울 연세대학교 아펜젤러관,서울 서대문구,02-330-1121,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사문화재', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=77d03a68-4016-443d-abe8-5f63ee7ae67c&thumb
 익선동,서울 종로구,02-737-7885,"['가족과함께', '관광지', '남녀노소', '데이트명소', '데이트장소추천', '산책하기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1f7efd57-913b-4bcf-a0a9-bacb715566a1&thumb
 용덕사(서울),서울 강북구,02-901-6209,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
 안양천 사계절 테마원,서울 양천구,02-2620-3592,"['공원', '관광지', '도심공원', '사진찍기좋은곳', '산책로', '산책하기좋은곳', '서울산책']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a1f0bc0d-86ff-4f30-a6d0-a0fb3b1f4b6b&thumb
 일성이준열사동상,서울 중구,02-3783-5922,"['3·1운동_100주년_여행지추천', '관광지', '독립', '독립운동', '애국계몽', '역사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=12a562f9-c74f-47d2-b966-f67ec94b9cad&thumb
+푸드뱅크마켓 신월점&50스타트센터,서울 양천구,02-2644-1377,"['관광지', '문화복지향상', '복합문화공간', '복합문화시설', '상담', '열린문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2dc4182a-10b1-419f-9922-eca44d7b5e66&thumb
 안양암(서울),서울 종로구,02-744-6923,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=faba6def-42c2-45f9-82e3-2e52f267ced6&thumb
 곰달래꿈마을,서울 양천구,02-2620-3578,"['SNS감성사진', '골목여행', '골목투어', '관광지', '사진찍기좋은곳', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=06536f22-978c-48b1-85db-beaa1e7a593f&thumb
 용산공원 갤러리,서울 용산구,02-3785-2590,"['갤러리', '관광지', '용산공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b5dc25a7-3f72-4aef-ace9-ef0362d4f5ee&thumb
-행복한백화점,서울 양천구,02-6678-9000,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f8f00e8a-d5b0-4771-9f3f-ae27775087a0&thumb
-맥스타일 (maxtyle),서울 중구,02-2218-6789,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4f1f95d0-1c3d-4f60-858b-b2709993c5b1&thumb
-구로기계공구단지,서울 구로구,02-2676-9381,"['공구', '관광지', '산업관광', '산업관광지', '산업단지', '산업용품', '상가', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ff85c896-1cad-4796-a09d-d6e5a4adda5e&thumb
-양천나눔누리센터,서울 양천구,02-2644-4750,"['관광지', '남녀노소', '문화시설', '문화프로그램', '복합문화공간', '복합문화시설']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=74898546-dec6-452c-ac1c-01de7bb59e0a&thumb
+구로기계공구단지,서울 구로구,02-2676-9381,"['공구', '관광지', '산업관광', '산업관광지', '산업단지', '산업용품', '상가', '이색거리']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ff85c896-1cad-4796-a09d-d6e5a4adda5e&thumb
+양천나눔누리센터,서울 양천구,02-2644-4750,"['관광지', '남녀노소', '문화프로그램', '복합문화공간', '복합문화시설', '열린문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=74898546-dec6-452c-ac1c-01de7bb59e0a&thumb
 용암사(서울),서울 은평구,02-387-3216,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
-자라 (영플라자점),서울 중구,02-2118-5270,"['관광지', '쇼핑']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=771236fd-4226-4e8c-978e-75dedfaf48f6&thumb
 만월암(서울),서울 도봉구,02-955-3719,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
 150년 수령 느티나무,서울 양천구,02-2620-3405,"['관광지', '느티나무', '수호신', '양천구', '역사속으로', '역사이야기', '자연여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=73155fdd-4caa-4086-925a-4dc52cd83dd1&thumb
 장수공원(열녀문),서울 양천구,02-2603-0203,"['관광지', '남녀노소', '산책하기좋은곳', '아이와함께', '역사문화재', '역사이야기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=df774262-8a77-49b4-b712-08248328b6d2&thumb
