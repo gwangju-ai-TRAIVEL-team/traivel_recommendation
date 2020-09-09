@@ -27,11 +27,11 @@ html,body{height:100%;}
 #container #headcontainer {display: flex; flex-direction: row; align-items: flex-end; width: 960px; margin-top: 24px;}
 #container #headcontainer #logo {color: black; font-size: 48px; font-weight: 900;}
 #container #headcontainer #logo:hover {color: #ed4147;}
-#container #headcontainer #title {color: black; font-size: 24px; font-weight: 400; margin-left: 24px; margin-bottom: 10px;}
-#container #headcontainer .link {color: black; font-size: 20px; font-weight: 400;}
+#container #headcontainer #title {color: black; font-size: 24px; font-weight: 500; margin-left: 24px; margin-bottom: 10px;}
+#container #headcontainer .link {color: black; font-size: 20px; font-weight: 500;}
 #container #headcontainer .link:hover {color: #ed4147;}
 #container #headcontainer #link_login {margin-left: 200px;}
-#container #headcontainer #logout {border: 0; color: black; font-size: 20px; font-weight: 400; margin-left: 260px; cursor: pointer; margin-bottom: 10px;}
+#container #headcontainer #logout {border: 0; color: black; background-color: white; font-size: 20px; font-weight: 400; margin-left: 260px; cursor: pointer; margin-bottom: 10px;}
 #container #headcontainer #logout:hover {color: #ed4147;}
 #container header:after {content: ""; display: block; width: 100%; height: 2px; background: #ed4147;}
 

@@ -27,7 +27,7 @@ html,body{height:100%;}
 #container #headcontainer {display: flex; flex-direction: row; align-items: flex-end; width: 960px; margin-top: 24px;}
 #container #headcontainer #logo {color: black; font-size: 48px; font-weight: 900;}
 #container #headcontainer #logo:hover {color: #ed4147;}
-#container #headcontainer #title {color: black; font-size: 24px; font-weight: 400; margin-left: 24px; margin-bottom: 10px;}
+#container #headcontainer #title {color: black; font-size: 24px; font-weight: 500; margin-left: 24px; margin-bottom: 10px;}
 #container #headcontainer .link {color: black; font-size: 20px; font-weight: 400;}
 #container #headcontainer .link:hover {color: #ed4147;}
 #container #headcontainer #link_login {margin-left: 200px;}
@@ -36,6 +36,7 @@ html,body{height:100%;}
 #container header:after {content: ""; display: block; width: 100%; height: 2px; background: #ed4147;}
 
 #container #content {display: flex; flex-direction: column;}
+#container #content .error {color: black; font-size: 24px; font-weight: 500; width: 960px; text-align: center;}
 #container #content h1 {color: black; font-size: 36px; font-weight: 700; margin-top: 36px; margin-bottom: 48px;}
 #container #content #form {display: flex; flex-direction: column; justify-content: space-between;}
 #container #content #form fieldset {margin-bottom: 48px; padding: 16px;}
@@ -45,7 +46,7 @@ html,body{height:100%;}
 #container #content #form fieldset ul .form_group label {color: black; font-size: 24px; font-weight: 400; text-align: right; width: 150px;}
 #container #content #form fieldset ul .form_group input {width: 700px; height: 36px; border: 2px solid #ed4147; margin-right: 50px; color: black; padding-left: 8px;}
 #container #content #form fieldset ul .form_group input::placeholder {color: black; padding-left: 8px; font-size: 20px; font-weight: 400;}
-#container #content #form fieldset ul .form_group select {width: 200px; height: 36px; color: black; margin-left: 26px; border: 2px solid #ed4147;}
+#container #content #form fieldset ul .form_group select {width: 200px; height: 36px; color: black; margin-left: 25px; padding-left: 10px; border: 2px solid #ed4147;}
 #container #content #form fieldset ul #select_group {display: flex; justify-content: flex-start;}
 #container #content #form #button {width: 960px; display: flex; justify-content: center;}
 #container #content #form #button .submit {width: 100px; border: 0px; color: black; font-size: 24px; cursor: pointer; background-color: white;}
