@@ -60,9 +60,13 @@ button{background-color:white; border:none;}
     border-top: solid 2px black;
     border-bottom: solid 2px black;
     margin : 50px 20px;
+}
+.keyword_box form{
     display : flex;
     flex-wrap : wrap;
     flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
 }
 .key_btn{
     width : 100px;
@@ -107,6 +111,11 @@ button{background-color:white; border:none;}
     justify-content: center;
     align-items : center;
 }
+.input_box form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
 .keyword_label{
     width : 350px;
     height : 30px;
@@ -149,6 +158,7 @@ button{background-color:white; border:none;}
     margin : 0px 10px;
 }
 
+#container #content .footer_box .picture_box .arrow {cursor: pointer;}
 
 
 #container footer:before {content: ""; display: block; width: 100%; height: 2px; background: blue;}
