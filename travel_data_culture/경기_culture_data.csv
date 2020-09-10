@@ -1,97 +1,282 @@
 ﻿name,region,tel,keyword,photo
-남양주 물의정원,경기 남양주시,031-590-2783,"['걷기길', '걷기여행', '관광지', '남녀노소', '반려견과함께', '반려견동반여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1c45478d-d898-4249-8576-9391055b846d&thumb
-광릉숲길,경기 남양주시,031-540-1061,"['경치여행', '국립수목원광릉숲', '남양주광릉', '레포츠', '트레킹', '포천국립수목원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2e90e233-c531-4818-ba76-873e95ac8455&thumb
-축령산자연휴양림,경기 남양주시,031-8008-6690,"['관광지', '나홀로여행', '산책하기좋은곳', '생태관광지', '숲치유', '자연', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=eb586fa3-7291-48b5-ab30-f764c40f0742&thumb
-산들소리수목원,경기 남양주시,031-574-3252,"['가족여행', '관광지', '기념품판매', '데이트코스', '브런치카페', '사계절', '산들소리수목원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=de3f7838-1187-4de5-b24e-5040cb71a2aa&thumb
-다산유적지(남양주),경기 남양주시,031-590-4242,"['가족여행', '관광지', '교과서속여행', '다산유적지', '수도권', '아이와함께', '역사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b4cea613-ce94-48ec-9b1b-c47d250ce144&thumb
-몽골문화촌,경기 남양주시,031-559-8018,"['가족체험여행', '관광지', '당일치기여행', '몽골문화촌', '무더위_피해_실내여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e7bc4210-1341-47da-9e0c-3ed9d5c22416&thumb
-화도하수처리장 피아노폭포,경기 남양주시,031-590-8224,"['경치좋은곳', '관광지', '당일치기여행', '산책하기좋은곳', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e1c223f4-9ae0-4fa4-8fa7-94fc1d7688c0&thumb
-봉선사(경기),경기 남양주시,031-527-1956,"['가족여행', '관광지', '교과서속여행', '당일치기여행', '봉선사(경기)', '사찰']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5c4a706e-0973-4b8e-9caf-ba4882de91c4&thumb
-미음매운탕,경기 남양주시,031-566-3564,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=08c6ae2b-311e-4989-8313-1c6ae8265d1a&thumb
-다산생태공원,경기 남양주시,031-590-8634,"['가볼만한축제', '걷기길', '관광지', '다산생태공원', '산책길', '산책하기', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c980d293-71c5-430d-96ad-757de20c599e&thumb
-남한강 자전거길,경기 남양주시,031-590-4338,"['남한강', '레포츠', '자연풍경', '자연환경', '자전거코스', '자전거투어', '힐링&여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=681eac5f-4365-4a4e-9c9e-5f4ede48d1b5&thumb
-"남양주 홍릉(고종과 명성황후)과 유릉(순종과 순명,순정 황후) [유네스코 세계문화유산]",경기 남양주시,031-591-7043,"['가족여행', '관광지', '교과서속여행', '나들이', '남양주홍릉과유릉', '당일치기여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e7fc3f98-1afd-48ea-8494-f4c880f4bc16&thumb
-수동국민관광지,경기 남양주시,031-590-2793,"['가족과함께', '계곡', '관광지', '몽골문화촌', '수도권', '수동국민관광지', '숲']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=10a22553-1403-42a2-8407-2008559eb5b3&thumb
-다산길1코스,경기 남양주시,031-590-2416,"['걷기길', '걷기좋은길', '레포츠', '산책로', '산책코스', '산책하기좋은곳', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8009af78-d3f4-40b5-8e7c-71c7ca43bf20&thumb
-수종사,경기 남양주시,031-576-8411,"['가족여행', '경기권', '관광지', '불교', '불교문화', '서울근교여행', '수종사', '역사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=56eb05e6-e092-453c-9885-5573e2d93bfa&thumb
-"남양주 광릉(세조,정희왕후) [유네스코 세계문화유산]",경기 남양주시,031-527-7105,"['가족여행', '관광지', '교과서속여행', '나들이', '남양주광릉', '당일치기여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=50e62c65-167d-4e1d-a463-a7799c2bee63&thumb
+유리섬박물관,경기 안산시,032-885-6262,"['가족체험여행', '남녀노소', '문화시설', '사계절', '수도권', '아이와함께', '안산가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6626a1a9-6006-4887-9f1e-93736d6cc512&thumb
+돼지박물관(돼지보러오면돼지),경기 이천시,031-641-7540,"['가족체험여행', '농촌체험', '돼지박물관', '마을축제', '문화시설', '박물관', '사계절']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a4c82bab-8e1e-4231-8fe6-934fa8fb75a6&thumb
+아쿠아플라넷 일산,경기 고양시,031-960-8500,"['당일치기여행', '데이트코스', '문화시설', '미세먼지_피하는_실내여행', '사계절']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e2a8bda8-46b4-4b62-8146-86a9e184b88c&thumb
+조명박물관,경기 양주시,070-7780-8911,"['교과서속여행', '문화시설', '박물관', '복합문화공간', '사계절', '상설공연', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=04084d57-5cbe-4850-a018-b0418f05d781&thumb
+한국잡월드,경기 성남시,1644-1333,"['경상남도과학교육원', '교육여행', '남녀노소', '문화시설', '사계절', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b5f71425-ee73-4a4c-b0dc-f3e9fb55e3ce&thumb
+한국근현대사박물관,경기 파주시,031-957-1125,"['근현대사여행', '문화시설', '박물관', '수도권', '안보관광', '역사공부', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2fdab79e-86f3-4474-8e01-c992b3c124c0&thumb
+경기도미술관,경기 안산시,031-481-7000,"['경기도미술관', '남녀노소', '문화시설', '문화예술', '미술관', '미술작품', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8812d329-b4de-4b2a-b423-463b9730ac41&thumb
+해우재,경기 수원시,031-271-9777,"['가족여행', '가족체험여행', '당일치기여행', '똥도서관', '문화시설', '박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9cd038b3-ecf5-427c-8ddb-9d2ce5ed91c4&thumb
+미메시스 아트 뮤지엄,경기 파주시,031-955-4100,"['문화공간', '문화시설', '문화예술창작공간', '문화예술활동', '미메시스아트뮤지엄']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=90cf7334-7fd9-45b8-9f74-eca45bbba0c2&thumb
+목아박물관,경기 여주시,031-885-9952,"['나들이', '목아박물관', '문화시설', '미세먼지_피하는_실내여행', '박물관', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=012813fe-1ca3-4065-ad10-f4f25d400b13&thumb
+국립과천과학관,경기,02-3677-1500,"['가족과함께', '겨울방학가볼만한곳', '과천가볼만한곳', '국립과천과학관', '남녀노소']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d1fce5dd-69bd-4723-8cc3-330f0fe7a0ca&thumb
+경기도자박물관,경기 광주시,031-799-1500,"['가족여행', '경기도자박물관', '문화시설', '서울근교여행', '아이와함께', '예술']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=329b617f-ea11-46b6-8ca0-6d502d7f2c7f&thumb
+청암민속박물관,경기 양주시,031-855-5100,"['기차여행', '문화시설', '박물관', '서울근교여행', '수도권', '아이와함께', '이색체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=464014a8-8941-4d96-a109-56ebe7ead2b6&thumb
+수원화성박물관,경기 수원시,031-228-4242,"['문화공간', '문화시설', '박물관', '복합문화공간', '수도권', '수원화성박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3b1c372a-ab86-48c5-84ca-5c3065283310&thumb
+여주박물관,경기 여주시,031-887-3583,"['교과서속여행', '문화시설', '미세먼지_피하는_실내여행', '박물관', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a71e90cb-fb0f-491e-8866-b2fe5bd866b8&thumb
+구하우스미술관,경기 양평군,031-774-7460,"['건축여행', '구하우스', '기획전시', '문화시설', '미술관', '수도권', '양평가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cad82fbf-a791-4ceb-a7fa-be4bdcae06b3&thumb
+C 아트뮤지엄(숲속의 미술공원),경기 양평군,031-775-6945,"['C아트뮤지엄', '당일치기여행', '문화공간', '문화시설', '미술관', '미술작품']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=94daf80d-ff43-4c09-8efc-ce26fe7a06a4&thumb
+경기도박물관,경기 용인시,031-288-5300,"['가족여행', '경기도박물관', '무료관람', '문화시설', '박물관', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=157b0d55-4dd9-46a5-8eeb-4d1b1facc513&thumb
+경기도어린이박물관,경기 용인시,031-270-8600,"['가족여행', '경기도어린이박물관', '교과서속여행', '문화시설', '박물관', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=31d6e42d-979b-4649-afd5-1f089a490a04&thumb
+안산 어촌민속박물관,경기 안산시,032-886-0126,"['가족여행', '가족체험여행', '문화시설', '박물관', '수도권', '아이와함께', '안산가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8e415e31-bd91-4de9-9deb-6d260fac3103&thumb
+박물관 얼굴,경기 광주시,031-765-3522,"['가족여행', '경기권', '경기도 광주', '문화시설', '박물관얼굴', '서울근교', '체험학습']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a79b87d4-c251-4b42-a708-c59daaf10e86&thumb
+부천자연생태공원,경기 부천시,032-320-3000,"['나들이', '문화시설', '박물관', '부천자연생태공원', '서울근교여행', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=80a216cc-3f06-401b-a76d-c2d6a862cee5&thumb
+더 파크 아프리카뮤지엄,경기 포천시,031-543-3600,"['교과서속여행', '더파크아프리카뮤지엄', '문화시설', '박물관', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b4291a81-f3fd-46f9-a314-3d50585f4900&thumb
+전곡선사박물관,경기 연천군,031-830-5600,"['가족여행', '문화시설', '박물관', '수도권', '아이와함께', '전곡선사박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ab0986f3-2f0b-417d-8ea5-c43bc735608d&thumb
+백남준아트센터,경기 용인시,031-201-8500,"['문화시설', '문화예술', '미세먼지_피하는_실내여행', '미술관', '백남준아트센터']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=58055fa4-ed5f-4245-a8e1-6193f3c028e2&thumb
 모란미술관,경기 남양주시,031-594-8001,"['나들이', '데이트코스', '모란미술관', '문화시설', '미술관', '수도권', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3ca6ffc9-68e9-4ec8-a467-0a0aa1b20483&thumb
+광명업사이클아트센터,경기 광명시,02-2680-6952,"['가족과함께', '광명업사이클아트센터', '문화시설', '복합문화공간', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0e6a3ba5-4892-48d7-a5fc-c691a7e85317&thumb
+추억의 청춘뮤지엄,경기 양평군,031-775-8907,"['SNS감성사진', '감성사진', '문화시설', '복합문화공간', '사진찍기', '사진찍기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e7a0b1b9-891e-402e-b228-d91e141faf07&thumb
 프라움악기박물관,경기 남양주시,031-521-6043,"['남양주가볼만한곳', '데이트코스', '문화공간', '문화시설', '복합문화공간', '사계절']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9e5a026d-d0b3-4516-9e59-f228db38d1c7&thumb
+부천시립심곡도서관,경기 부천시,032-625-4588,"['남녀노소', '도서관', '독서교육', '문화공간', '문화시설', '부천시립심곡도서관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2ebf3bd2-0e70-43d5-a4f4-3264cd792100&thumb
 왈츠와 닥터만 커피박물관,경기 남양주시,031-576-0020,"['가족여행', '경기권', '문화시설', '서울근교여행', '왈츠와닥터만커피박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a1b08438-933e-442f-952c-5e00679765d6&thumb
-천마산군립공원,경기 남양주시,031-590-2733,"['관광지', '등산', '수도권', '자연', '천마산군립공원', '트레킹']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=465deb29-2cba-41f9-81fc-93948d7949ec&thumb
-미음나루터(미음나루 풍속마을),경기 남양주시,031-590-8136,"['관광지', '미음나루터', '미음나루풍속마을', '수도권', '자연마을', '자연풍경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f94e0ddb-b682-425c-95a1-acc54782da5f&thumb
+수원시립아이파크미술관,경기 수원시,031-228-3800,"['문화시설', '문화예술공간', '미술관', '복합문화공간', '수도권', '수원시립아이파크미술관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3aeedfbf-d58a-4740-812c-d03d21624b9e&thumb
+안산문화원,경기 안산시,031-415-0041,"['가족여행', '경기권', '무장애', '문화시설', '서울근교여행', '안산문화원', '안산시']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6aa68e80-5a33-496d-8334-dbd0db4fa594&thumb
+국립수목원 산림박물관,경기 포천시,031-540-2000,"['국립수목원', '문화시설', '박물관', '산림박물관', '수도권', '수목원', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=489bc826-2926-4fd9-96c6-afbbf4f21799&thumb
+기형도문학관,경기 광명시,02-2621-8860,"['문학관', '문화시설', '복합문화공간', '시문학', '아이와함께', '열린문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6360782c-0a72-4bac-8693-4b6d95d9b6e1&thumb
+수원광교박물관,경기 수원시,031-228-4175,"['문화시설', '박물관', '수도권', '수원광교박물관', '아이와함께', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=24d44390-1633-4ff4-aef2-cf81f4c06218&thumb
 남양주시립박물관,경기 남양주시,031-590-8600,"['가족과함께', '남녀노소', '남양주시립박물관', '문화공간', '문화시설', '박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6287129e-815e-48d0-a559-bcdd30c08a17&thumb
-비루개,경기 남양주시,031-841-7612,"['남양주카페', '남양주카페추천', '맛집', '식물원카페', '음식', '카페', '테마카페']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8829ce0b-f6f8-4fe2-9b1f-06e9a1aa08f3&thumb
-봉바위,경기 남양주시,031-563-6772,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ecefb584-e7ac-43bc-ac58-09d79b063574&thumb
-어린이비전센터 사계절썰매장,경기 남양주시,031-560-1560,"['겨울 스포츠', '레포츠', '사계절썰매장', '아이와함께', '어린이비전센터', '어린이비전센터 사계절썰매장']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8f0bb445-31a6-4027-941f-bb214e3c1f83&thumb
-남양주 사릉(정순왕후) [유네스코 세계문화유산],경기 남양주시,031-573-8124,"['관광지', '교과서속여행', '남양주사릉', '서울근교여행', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4e2309d1-868d-4171-8cb5-93daeaeb31da&thumb
-경기 남양주시,경기 남양주시,031-590-8861,"['11월추천가볼만한곳', '걷기길', '걷기여행', '관광지', '남양주유기농테마파크']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d5844b1e-6f27-42f7-b6bc-942c42746410&thumb
-경기 남양주 조안 [슬로시티],경기 남양주시,031-521-5686,"['가족과함께', '걷기길', '걷기여행', '관광지', '남한강', '북한강', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4e91fce7-cebb-48bd-9254-8601bfc89187&thumb
+경기아트센터,경기 수원시,031-230-3200,"['경기도문화의전당', '단체관람', '문화시설', '서울근교여행', '아이와함께', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=82705d2e-71c0-47fd-b9cf-0c157f7b8430&thumb
+안성맞춤박물관,경기 안성시,031-676-4352,"['나들이', '문화시설', '박물관', '서울근교여행', '아이와함께', '안성맞춤박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0c8320d1-2ba8-4d28-8028-c8a8ecf6ffdf&thumb
+경기북부어린이박물관,경기 동두천시,031-860-2860,"['겨울방학가볼만한곳', '경기북부어린이박물관', '문화공간', '문화시설', '박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=46d3669f-0ce3-4f89-91c8-b031ea0fcc4e&thumb
+한국 초콜릿연구소뮤지엄,경기 가평군,031-585-4691,"['가족과함께', '가족체험', '가평가볼만한곳', '문화시설', '복합문화공간', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c25d1a61-82de-4880-a831-01423c18aa21&thumb
+안성 3.1운동기념관,경기 안성시,31 031-678-2478,"['3·1운동_100주년_여행지추천', '가족여행', '교과서속여행', '기념관', '문화시설']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fcbccdce-018f-4419-822c-0006cd61b43e&thumb
+여주세계생활도자관,경기 여주시,031-884-8644,"['가족여행', '도자기박물관', '문화시설', '미세먼지_피하는_실내여행', '반달미술관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fdeae97a-ed9e-4541-854e-9e006c170665&thumb
+양평군립미술관,경기 양평군,031-775-8515,"['경기도', '기념품판매', '문화시설', '문화행사', '미술관', '아이와함께', '양평군립미술관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fd5c5fa6-fe68-4b04-9baf-3fc3a61ce707&thumb
+일본군'위안부'역사관,경기 광주시,031-768-0064,"['경기도 광주', '나눔의 집', '문화시설', '위안부', '일본군위안부역사관', '전쟁범죄']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b58322c7-4796-4985-83c6-1b3926b158f5&thumb
+한국미술관,경기 용인시,031-283-6418,"['데이트코스', '문화시설', '미술관', '수도권', '아이와함께', '연인과함께', '예술']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c1085628-915e-4411-90a3-db68d09f8ad9&thumb
+김포독립운동기념관,경기 김포시,031-996-6270,"['교과서속여행', '기념관', '김포독립기념관', '무장애', '문화시설', '미세먼지_피하는_실내여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e80dffb4-830d-4341-bba3-e64eee98a4cb&thumb
+지앤아트스페이스,경기 용인시,031-286-8500,"['남녀노소', '당일치기여행', '도예가', '도예체험', '문화시설', '미술관', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0039c7b1-e6b4-480b-8199-4dfd0ceecfec&thumb
+만해기념관,경기 광주시,031-744-3100,"['가족여행', '근대문화유산', '만해기념관', '문화시설', '박물관', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b79f4094-a994-4431-9271-9fdf8a9da7cf&thumb
+이천시립월전미술관,경기 이천시,031-637-0033,"['나들이', '데이트코스', '문화시설', '미술관', '수도권', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=547ec234-c663-4bcc-93f0-d072d565b5dd&thumb
+과천시민회관,경기,02-504-7300,"['공연장', '과천시민회관', '데이트코스', '문화시설', '복합문화공간', '상설공연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=179cb158-1b18-41c0-ad0a-7b35f61c201c&thumb
+용인 포은아트홀,경기 용인시,031-260-3300,"['가족여행', '데이트코스', '문화공간', '문화시설', '문화행사', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=81321c14-4be2-43ed-b797-ef8623ee805a&thumb
+부천시립원미도서관,경기 부천시,032-625-4723,"['남녀노소', '독서교육', '문화공간', '문화시설', '부천시립원미도서관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6885cbb6-2347-453a-8ac4-bf63dca13051&thumb
+고양 아람누리,경기 고양시,1577-7766,"['고양아람누리', '문화시설', '문화행사', '복합문화공간', '상설공연', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=48f272ba-f2ad-4259-8f59-63e906e0aa82&thumb
+고양 선인장전시관,경기 고양시,031-908-4525,"['고양선인장전시관', '당일치기여행', '문화시설', '서울근교여행', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c9f1784b-9cea-419b-908c-bf664c9f7b03&thumb
+남한산성아트홀(광주시문화스포츠센터 공연장),경기 광주시,031-760-4480,"['가족여행', '남한산성아트홀', '데이트코스', '문화공간', '문화시설', '문화행사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a81337bf-eb1f-4fbf-aa7c-83fbc1a4deb7&thumb
+재미있는 추억 박물관,경기 파주시,031-943-2552,"['가족과함께', '골동품', '남녀노소', '문화시설', '박물관', '아이와함께', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0aa89924-c8b9-4d3d-b355-4e2e28c6de8f&thumb
 우석헌자연사박물관,경기 남양주시,031-572-9555,"['교과서속여행', '문화시설', '박물관', '사계절', '수도권', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8a6d6c1f-dd1c-4381-b545-d830c32e6a14&thumb
-가든갤러리,경기 남양주시,031-566-7777,"['가든갤러리', '남양주맛집', '남양주카페', '맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c06f947f-37f7-4c16-ae7b-f05646d676cb&thumb
-불암사(남양주),경기 남양주시,031-527-8345,"['관광지', '불교', '불교문화', '불암사', '사찰', '사찰여행', '수도권', '역사', '연중무휴']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ab06beff-1ed2-42df-93fe-847bf28d8f5e&thumb
+성호박물관,경기 안산시,031-481-2574,"['기념관', '무장애', '문화시설', '박물관', '서울근교여행', '성호기념관', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=19cf9afd-7052-458a-8ab1-fad2d5176053&thumb
+국립현대미술관(과천관),경기,02-2188-6000,"['과천관', '국립현대미술관', '나들이', '데이트코스', '문화시설', '미술관', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3714fee5-3884-4159-8ebf-b69d7e8d713e&thumb
+경기도국악당,경기 용인시,031-289-6400,"['가족여행', '경기도국악당', '단체관람', '문화시설', '아이와함께', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e2a5bde6-d18d-4c99-8cbf-54cf28d01e2d&thumb
+일산밤가시초가,경기 고양시,031-8075-3388,"['가족여행', '경기권', '문화시설', '서울근교여행', '역사', '일산밤가시초가', '전통가옥']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=26e9da51-e54b-47d9-831f-044f3a2f21ae&thumb
+수원박물관,경기 수원시,031-228-4150,"['가족과함께', '교과서속여행', '남녀노소', '문화시설', '미세먼지_피하는_실내여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4aa9a7aa-6fd7-4b15-8377-3575dc8e63d3&thumb
+와동 생태곤충 체험관,경기 안산시,031-481-2629,"['가볼만한축제', '문화시설', '생태관', '생태테마', '아이와함께', '와동생태곤충체험관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e9a13341-bd20-4051-b96d-d6a5c6335238&thumb
+뮤지엄그라운드,경기 용인시,031-265-8200,"['남녀노소', '문화공간', '문화시설', '문화예술', '문화예술공간', '미술관', '미술작품']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=78d69bd2-2f9d-4b6e-bc6c-1490cf46970b&thumb
+호암미술관,경기 용인시,031-320-1801,"['가족여행', '경기권', '문화시설', '서울근교여행', '호암미술관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5d473405-a72b-4d87-b79a-38000133ae7f&thumb
+부천 물 박물관,경기 부천시,032-625-3399,"['나들이', '문화시설', '박물관', '부천물박물관', '서울근교여행', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4b261d1d-f45a-4457-a9f5-f5a129abff9c&thumb
 남양주 어린이비전센터,경기 남양주시,031-560-1560,"['겨울방학가볼만한곳', '남양주어린이비전센터', '문화시설', '서울근교여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a8f303a8-5008-4989-8d43-a792d323b90f&thumb
-흥국사(남양주),경기 남양주시,031-527-9557,"['관광지', '불교', '불교문화', '불교사찰', '사찰', '사찰여행', '역사', '자연속으로']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c6fb0f33-9dc6-4aa3-88b6-a31bfdc6d029&thumb
-남양주 구 팔당역,경기 남양주시,031-590-4721,"['관광지', '남양주시', '아이와함께', '역사', '역사를품은곳', '역사속', '역사속으로']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b5e31ccd-3f1a-4610-8317-f03445d5f1d5&thumb
-징기즈칸 옛고향,경기 남양주시,031-592-8801,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cbfbe558-1811-4104-b23e-0b7018c9596e&thumb
-셰프의하늘정원,경기 남양주시,031-521-7777,"['남양주시', '맛집', '음식', '퓨전요리', '한식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=61f31bb9-0f5f-453d-ba7c-50dde4cbfacf&thumb
-비금계곡,경기 남양주시,031-590-2608,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=79db619a-5373-4b14-b53d-30e6eafd4eeb&thumb
-대가농원,경기 남양주시,010-2225-6641,"['가족과함께', '관광농원', '관광지', '교육프로그램', '남양주가볼만한곳', '농촌체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=41ff573c-dd47-4164-8466-7802984299ba&thumb
-아라크노피아 생태수목원·주필거미박물관,경기 남양주시,031-576-7908,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=adcfb96b-37f4-4c55-ac1e-3cddc7c6c750&thumb
-스타힐리조트,경기 남양주시,031-594-1211,"['가족과함께', '겨울 스포츠', '레포츠', '복합레저스포츠', '수도권', '스키장', '스타힐리조트']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2cc43a24-cb1a-421f-b38e-3f584dc23703&thumb
-축령산,경기 남양주시,031-590-2416,"['관광지', '등산', '수도권', '자연', '축령산', '트레킹']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a6cc64b7-0b02-4642-ad5e-de18e31a02f4&thumb
-본가제주밥상,경기 남양주시,031-569-5553,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a1adbd3a-5beb-4dee-b06d-465f43d871c3&thumb
-정약용선생묘,경기 남양주시,031-590-2481,"['관광지', '역사', '역사공부', '역사관광지', '역사를품은곳', '역사속', '역사속으로']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f973156b-6303-40cc-aeb4-c163041146ae&thumb
-묘적사,경기 남양주시,031-577-1761,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9e82c202-27fb-46d7-a546-f215ad958ae8&thumb
-천보사(경기),경기 남양주시,031-528-8780,"['관광지', '남양주천보사', '불교', '불교문화', '사찰', '사찰여행', '수도권', '역사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=dcd20143-b1d3-4132-b95b-af6583669adc&thumb
-핸드앤몰트,경기 남양주시,031-593-6258,"['관광지', '더핸드앤몰트', '산업관광', '수도권', '양조장', '연인과함께', '이색체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ce2989bb-24be-4dd7-b39b-35b0edb4b2c1&thumb
-기와집순두부,경기 남양주시,031-576-9009,"['남양주맛집', '두부요리', '맛집', '순두부맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e9202379-c14f-4632-ba81-fab478529e84&thumb
-석천암(남양주),경기 남양주시,031-590-4924,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '석천암', '수도권', '역사', '연중무휴']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=79a6695f-a801-4a3a-82f4-ff4d57f4d572&thumb
-강북 아리수 정수센터,경기 남양주시,02-3146-5818,"['강북아리수정수센터', '견학', '관광지', '산업관광', '수도권', '아리수정수센터']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=063a9a61-eefb-4138-9d87-0394a09dee3c&thumb
-목향원,경기 남양주시,031-527-2255,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c2da9908-e4ee-4657-a696-92ec8ace252e&thumb
-봉인사(경기),경기 남양주시,031-574-5585,"['관광지', '봉인사', '불교', '불교문화', '사찰', '사찰여행', '수도권', '역사', '역사유적지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ecf5ad73-8050-4e4b-9c37-1aa2efaa4df5&thumb
-감나무집,경기 남양주시,031-576-8263,"['감나무집', '남양주맛집', '맛집', '수도권', '음식', '한식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=60acac0b-b2f0-4875-8281-818b103a182a&thumb
-봉우리 한정식,경기 남양주시,031-576-8808,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f3381b09-3bfe-4ff3-92c2-b045bcfe7a5f&thumb
-서정가든,경기 남양주시,031-592-3308,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7344279a-b9a5-47b8-bee3-a4680dc5dc3b&thumb
-봉영사(남양주),경기 남양주시,031-571-0555,"['관광지', '봉영사', '불교', '불교문화', '사찰', '사찰여행', '수도권', '역사', '연중무휴']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ca224cbf-1ac8-4153-9388-9bdb1ca1c2b9&thumb
-버드나무집,경기 남양주시,031-554-1140,"['남양주맛집', '맛집', '생선요리', '음식', '해물']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=37b10afe-b820-48d1-a252-6a192d76812d&thumb
-토방촌,경기 남양주시,031-555-5575,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=01ee9eff-a09d-40ba-8000-9838597c956a&thumb
-시가올비빔국수,경기 남양주시,031-576-7100,"['맛집', '수도권', '시가올비빔국수', '음식', '한식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ebf37ade-68c6-4f01-afa2-52254d74db1b&thumb
-사랑방,경기 남양주시,031-527-7241,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e4363b8e-f63f-4fbe-9a2f-c36f1368fbdc&thumb
-물맑음수목원,경기 남양주시,031-590-4076,"['가족과함께', '관광지', '남녀노소', '아이와함께', '자연속으로', '자연여행', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0a057b47-d795-4a38-842f-c9e74b6d8f39&thumb
-백봉산,경기 남양주시,031-590-2344,"['관광지', '등산', '백봉산', '수도권', '자연', '트레킹']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ad6516e1-0831-4609-bea0-bb26b8599cf4&thumb
-운길산,경기 남양주시,031-590-2416,"['관광지', '등산', '수도권', '운길산', '자연', '트레킹']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a9ee9626-7e07-4015-a7db-f1b0641e89d5&thumb
-광릉돌솥밥,경기 남양주시,031-527-3334,"['남양주시', '맛집', '영양솥밥', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=96038df4-c354-435c-af69-3b34bb2b3d9f&thumb
-초대한정식,경기 남양주시,031-557-7318,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3e0dea0e-12b9-4c98-9e59-e368a5702d1b&thumb
-다산생태공원,경기 남양주시,031-590-8634,"['9월추천가볼만한곳', '걷기길', '관광지', '다산문화관', '다산생태공원', '다산유적지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d48df15b-9455-4bc2-ac15-8df9f38efd34&thumb
-개성집,경기 남양주시,031-576-6497,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e40abc2b-34c4-4f30-bc52-670ba352e588&thumb
-와뚠지,경기 남양주시,031-593-4942,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=dd970a38-4ead-4b9e-8efa-c0dad713ea0d&thumb
-고당,경기 남양주시,031-576-8090,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=475f29a1-fb2c-4367-b558-e9df6e8befbd&thumb
-조안 슬로시티,경기 남양주시,031-590-8862,"['걷기길', '걷기여행', '관광지', '남한강', '북한강', '생태관광', '생태관광지', '슬로시티']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=dc7691e2-d172-481c-8730-8adaaa0fac54&thumb
-수진사(경기),경기 남양주시,031-591-7710,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bcf60076-e35c-4631-a4ff-1a094d8097da&thumb
-삼봉리 한식마을,경기 남양주시,031-590-2237,"['가족과함께', '건강식맛집', '경치좋은곳', '관광지', '맛집', '맛집탐방', '삼봉리한식마을']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7cb8059f-7cf3-406c-85d9-e824409a8033&thumb
-"마석 5일장(3, 8일)",경기 남양주시,031-594-1179,"['가족여행', '기차여행', '나들이', '나홀로여행', '데이트코스', '마석오일장', '먹거리']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=16965b51-873d-476a-86a4-3d4f7f49d201&thumb
-더늘봄,경기 남양주시,031-572-4447,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b9f72ee0-b4b3-4ef2-9e9a-11e4a39afebf&thumb
-금남멧돼지,경기 남양주시,031-591-0921,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=af88715d-5cfc-4ee2-a3cc-118f52d64060&thumb
-리치플러스 스파,경기 남양주시,031-559-6200,"['가족과함께', '가족휴양', '관광지', '목욕탕', '뷰티&스파온천&스파', '스파', '휴식공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+김포 아트빌리지,경기 김포시,031-996-6836,"['문화시설', '복합문화공간', '아이와함께', '연인과함께', '열린문화공간', '이색체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=060d66ca-dcdc-4e9e-bd08-67466a91e048&thumb
+남송미술관,경기 가평군,031-581-0772,"['남송미술관', '명지산', '문화시설', '미술관', '수도권', '예술', '전망', '주말추천여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d2186c0a-d175-441e-bdf4-6dc89dda97a7&thumb
+판교박물관,경기 성남시,031-729-4535,"['교과서속여행', '문화시설', '박물관', '수도권', '아이와함께', '역사공부', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5914969e-cf4a-48b7-bd95-4186c3315224&thumb
+광주문화원(경기),경기 광주시,031-764-0686,"['광주문화원', '문화시설', '문화원', '사계절', '서울근교여행', '수도권', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=18a265ed-906e-4089-ab69-d61d6a983685&thumb
+수원시미술전시관,경기 수원시,031-243-3647,"['가족여행', '문화시설', '미술관', '사계절', '수도권', '수원시미술전시관', '예술']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=104addec-5ce3-4086-98f1-11285dc553d5&thumb
+서울액션스쿨 (마샬아트센터),경기 파주시,031-946-6746,"['남녀노소', '마샬아트센터', '문화시설', '서울액션스쿨', '수도권', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0ee822cc-198d-4998-8666-b2a3a9738864&thumb
+최용신기념관,경기 안산시,031-481-3040,"['교과서속여행', '근대문화유산', '기념관', '문화시설', '수도권', '애국계몽', '애국심']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d6055cc3-927b-4e8c-ac58-b9d8083dbf9b&thumb
+포천 반월아트홀,경기 포천시,031-540-6213,"['가족여행', '문화시설', '상설공연', '수도권', '아이와함께', '연인과함께', '예술']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=91f7d377-55f2-444f-8f04-8551bbfb967a&thumb
+용인시여성회관,경기 용인시,1577-1122,"['문화공간', '문화시설', '문화행사', '복합문화공간', '사계절', '상설공연', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=aaa62baf-d5e1-488e-a8b7-a1dc297e6299&thumb
+한국항공대학교 항공우주박물관,경기 고양시,02-300-0466,"['문화시설', '박물관', '수도권', '아이와함께', '전시관', '체험학습', '친구와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d43f029f-bb4f-4150-a6fe-e76f0211a5f8&thumb
+고양 어린이박물관,경기 고양시,031-839-0300,"['가족과함께', '문화시설', '미세먼지_피하는_실내여행', '복합문화공간', '아이가_좋아하는_여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0b574fb7-f5ca-446a-a03f-fb187685e0e3&thumb
+파주 나비나라박물관,경기 파주시,031-955-3727,"['가족과함께', '공예품', '나비전시관', '문화시설', '박물관', '서울근교여행', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8068eb36-8a17-4e37-aae8-527dd906678f&thumb
+배다골테마파크 고양민속박물관,경기 고양시,031-970-7339,"['가족과함께', '고양시', '데이트', '문화시설', '아이와함게']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=57c8ea1b-821e-4483-be63-050e3dfdf499&thumb
+의왕조류생태과학관,경기 의왕시,031-8086-7490,"['교과서속여행', '무더위_피해_실내놀이', '문화시설', '박물관', '사계절', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4abe289e-aa37-4e07-8ea2-0301b264285f&thumb
+여주곤충박물관,경기 여주시,031-885-1400,"['가족과함께', '곤충류', '곤충박물관', '곤충생태관', '곤충체험학습', '남녀노소']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e0ac3f64-abaa-460d-ad2f-00e8b54b5cc3&thumb
+중남미문화원,경기 고양시,031-962-9291,"['나들이', '데이트코스', '문화시설', '미술관', '박물관', '수도권', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cd0f4b56-1249-4971-94a6-2ceaac2b7ff9&thumb
+고양 화장실전시관,경기 고양시,031-8075-4351,"['가족과함께', '고양가볼만한곳', '문화시설', '미세먼지_피하는_실내여행', '산책하기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=236416f4-830d-4053-9034-1740d4cd0147&thumb
+현대어린이책미술관,경기 성남시,031-5170-3700,"['가족과함께', '문화시설', '미술관', '수도권', '아이와함께', '전시관', '체험학습']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7d30f5c1-bd20-4efe-bb40-c20125f163a3&thumb
+죽포미술관,경기 여주시,031-881-5905,"['남녀노소', '문화시설', '문화예술', '문화예술활동', '미술관', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c3cc4254-1643-43d7-abdc-0b91d664ca0c&thumb
+갤러리박영,경기 파주시,031-955-4071,"['갤러리박영', '문화시설', '문화예술', '미술관', '수도권', '열린문화공간', '이색체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3352cf9a-8918-49e3-834b-be3fc118e5ee&thumb
+한과문화박물관 한가원,경기 포천시,031-533-8121,"['가족체험여행', '문화시설', '박물관', '서울근교여행', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1ec52d4d-c297-4da4-8d7c-f11461811ff2&thumb
+용인시문예회관,경기 용인시,031-335-0455,"['가족여행', '데이트코스', '문화공간', '문화시설', '문화행사', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9f19f38f-f08d-46e0-8d9d-21736fbfa264&thumb
+평택남부문화예술회관,경기 평택시,031-8024-5415,"['공연장', '데이트코스', '문화시설', '복합문화공간', '아이와함께', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f19e4341-e9aa-493b-bbc9-51453f83fb61&thumb
+연천수레울아트홀,경기 연천군,031-834-3770,"['가족여행', '데이트코스', '문화공간', '문화시설', '문화행사', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=be875192-5bec-4b82-ba83-220048df9aad&thumb
+동화나라,경기 파주시,031-942-1956,"['당일치기여행', '독서여행', '독서회', '동화나라', '문화공간', '문화시설', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5016451e-8b87-41b3-b679-bb50b072e833&thumb
+성남문화원,경기 성남시,031-756-1082,"['경기도', '무장애', '문화시설', '문화원', '성남시', '지방문화원', '지역문화']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=06cf3344-5258-420b-828d-d3ac807cfd8d&thumb
+오산문화예술회관,경기 오산시,031-379-9900,"['가족과함께', '공연/전시', '문화공간', '문화시설', '문화예술', '문화예술공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=deaa35f5-3234-4ab9-b393-e7ecfc9690ef&thumb
+인터렉티브아트뮤지엄,경기 가평군,070-8899-4251,"['문화시설', '수도권', '연중무휴', '인터렉티브아트뮤지엄']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=29c80d49-7618-4a4a-a3d5-f73f8051280d&thumb
+보름산미술관(김포),경기 김포시,031-985-0005,"['문화시설', '문화예술', '문화예술공간', '문화예술활동', '미술자료', '미술작품']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=95535a78-e643-4852-88e6-d38a7e041357&thumb
+안성 남사당 공연장,경기 안성시,031-678-2518,"['가족여행', '문화시설', '서울근교여행', '안성남사당공연장', '연인과함께', '음악회']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=838bd420-aebd-40fd-8ed7-7f3b3d2cc53b&thumb
+지도박물관,경기 수원시,031-210-2667,"['교과서속여행', '문화시설', '박물관', '사계절', '수도권', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d825f882-afb9-4d2a-a497-dd414779be82&thumb
+이천아트홀,경기 이천시,031-644-2100,"['가족여행', '데이트코스', '문화공간', '문화시설', '문화예술', '문화예술활동']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d384aa11-f7be-4a25-9efb-c7d591a69dc8&thumb
+한국등잔박물관,경기 용인시,031-334-0797,"['당일치기여행', '문화시설', '박물관', '수도권', '실내여행지', '아이와함께', '이색체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=219145af-7f2b-4e59-9df6-9d416a39b11f&thumb
+의정부문화원,경기 의정부시,031-872-5678,"['문화강좌', '문화시설', '열린문화공간', '의정부문화원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a4f3c478-841f-4e05-b958-3e0227930186&thumb
+말박물관,경기,02-509-1287,"['나들이', '말박물관', '문화시설', '박물관', '수도권', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bcdb62df-0c6c-49db-8c8c-007c253c50fa&thumb
+하남역사박물관,경기 하남시,031-790-7990,"['교과서속여행', '문화시설', '박물관', '사계절', '수도권', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6987f3a8-6053-4fd9-9c39-739706cbc47f&thumb
+양평 친환경농업박물관,경기 양평군,070-7715-3796,"['가족과함께', '가족여행', '농업박물관', '문화시설', '박물관', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=645f11f8-8dc5-4bd4-bf25-559fd6b7ca60&thumb
+킨텍스,경기 고양시,031-810-8114,"['문화시설', '복합문화공간', '수도권', '열린문화공간', '전시관', '컨벤션', '킨텍스']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5466e110-f401-4a06-9322-035185c81ea1&thumb
+김포인삼쌀맥주갤러리,경기 김포시,031-996-0021,"['김포가볼만한곳', '김포인삼쌀맥주갤러리', '문화시설', '수도권', '수제맥주']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=293c0d08-2406-4438-a1b6-f1dbaf55c319&thumb
+평택북부문화예술회관,경기 평택시,031-8024-7391,"['공연장', '데이트코스', '문화시설', '복합문화공간', '아이와함께', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c2573ab2-fbb8-437f-ae49-e4ac1df6f452&thumb
+광명문화원,경기 광명시,02-2618-5800,"['광명문화원', '문화시설', '서울근교여행', '수도권', '아이와함께', '예술', '전통&역사문화체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=35df2a1d-cd9c-4018-a817-094db6a6a880&thumb
+가평현암농경유물박물관,경기 가평군,031-581-0612,"['가평현암농경유물박물관', '교과서속여행', '문화시설', '박물관', '수도권', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2d20226c-f459-49e1-bccc-aa2891a7a383&thumb
+양주시립 회암사지박물관,경기 양주시,031-8082-4187,"['건축', '문화시설', '양주시', '역사유물', '전통&역사문화체험', '회암사', '회암사지박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=880828fb-e214-4141-9369-ecd9b010cb86&thumb
+활판공방,경기 파주시,031-955-0084,"['가족과함께', '근대문화', '근대문화예술', '근대사', '근대역사', '남녀노소', '문화시설']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8b4d0c0e-4f8f-4523-9eee-308d66f7eafe&thumb
+성남아트센터,경기 성남시,031-783-8000,"['가족여행', '문화시설', '문화행사', '사계절', '상설공연', '성남아트센터', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c083b65b-d404-404f-b98d-e0fe4cd22f80&thumb
+창조자연사박물관,경기 시흥시,031-435-1009,"['교과서속여행', '문화시설', '박물관', '사계절', '수도권', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9c27cd88-8f9d-4161-93f8-ce3951dc7046&thumb
+명필름아트센터,경기 파주시,031-930-6600,"['명필름아트센터', '문화공간', '문화시설', '문화콘텐츠산업', '미술관', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4923c0a9-e06c-4299-a0fa-66a62852d729&thumb
+경기과천교육도서관,경기,02-3677-0371,"['과천시', '독서교육', '문화시설', '아이와 함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fbf97664-cd32-40f6-ba0c-e4ff2e96eaec&thumb
+영은미술관,경기 광주시,031-761-0137,"['가족여행', '단체관람', '데이트코스', '문화시설', '미술관', '서울근교여행', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=eac2f96c-7142-44fe-9864-f15e076a4044&thumb
+예아리박물관,경기 용인시,031-323-7277,"['교과서속여행', '문화시설', '사계절', '수도권', '아이와함께', '여름방학가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a61cfc8c-0668-4255-9861-69076661b31a&thumb
+아지동테마파크(헤이리마을),경기 파주시,031-947-0677,"['가족과함께', '가족체험', '문화시설', '아이와함께', '역사공부', '역사속으로']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=883c5b43-4ce2-4919-9b0a-1a029374b052&thumb
+평촌아트홀,경기 안양시,031-687-0525,"['가족여행', '공연장', '문화시설', '문화예술', '복합문화공간', '사계절', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=571b2a6c-f023-46ae-93dc-b621141df984&thumb
+시흥문화원,경기 시흥시,031-317-0827,"['문화시설', '문화원', '사계절', '상설전시', '서울근교여행', '수도권', '시흥문화원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0fd5e574-597b-415b-8e65-3742471b37cc&thumb
+가평문화예술회관,경기 가평군,031-8078-8076,"['가평문화예술회관', '공연장', '데이트코스', '문화시설', '문화행사', '상설공연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2b01fbe4-86fc-421b-974b-dd0eb139aaaa&thumb
+태평무 전수관,경기 안성시,031-676-0141,"['가족여행', '문화시설', '서울근교여행', '수도권', '태평무전수관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2fd2e116-1500-420c-b78c-0828ed5f1aab&thumb
+유엔군 초전기념관,경기 오산시,031-377-1625,"['가족여행', '교과서속여행', '문화시설', '사계절', '수도권', '아이와함께', '역사공부']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=11d396c4-82ac-4338-8863-1eb970cf4b8f&thumb
+부천문화원,경기 부천시,032-651-3739,"['문화강좌', '문화시설', '부천문화원', '열린문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f91aa26c-cd04-4ebc-bfe1-d243f1a5baf2&thumb
+안양아트센터,경기 안양시,031-687-0500,"['공연장', '데이트코스', '문화시설', '상설공연', '수도권', '아이와함께', '안양아트센터']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=55f4dcdd-e318-4c43-a7ff-d99a65d4cad5&thumb
+지혜샘어린이도서관,경기 수원시,031-225-5566,"['경기도', '도서관', '무장애', '문화시설', '수원시', '어린이']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b0885f0d-45a8-4368-968c-e2b10464b3eb&thumb
+군포문화원,경기 군포시,031-397-0195,"['군포문화원', '무형문화재', '문화시설', '서울근교여행', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ea4afb29-3b5b-41e4-a014-7a3b764d1896&thumb
+아시아출판문화정보센터,경기 파주시,031-955-0050,"['문화시설', '복합문화공간', '수도권', '실내여행지', '아시아출판문화정보센터']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f5039f19-bbcc-4cc7-9d5f-3835647b1ca7&thumb
+성포예술광장(성포예술공원),경기 안산시,031-481-5415,"['데이트코스', '문화시설', '서울근교여행', '성포예술공원', '성포예술광장', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=015b49b5-f865-4582-a96b-437d6fff750e&thumb
+한국기독교역사박물관,경기 이천시,031-632-1391,"['교과서속여행', '문화시설', '박물관', '사계절', '수도권', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=eda9418d-bfb3-4e91-a9bb-dadda7dc4fe1&thumb
+풀짚공예박물관,경기 광주시,031-717-4538,"['공예체험', '공예품', '문화시설', '복합문화공간', '열린문화공간', '예술창작']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1f02a570-2b23-4772-8d09-f070cd91c868&thumb
+부천수석박물관,경기 부천시,032-655-2900,"['나들이', '문화시설', '박물관', '부천수석박물관', '서울근교여행', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=920958f9-4038-4a10-8bd1-d12bfe924446&thumb
+충현박물관,경기 광명시,02-898-0505,"['문화시설', '서울근교여행', '수도권', '충현박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b6087114-9dec-42d6-94c9-285b6a23b080&thumb
+석장리미술관,경기 연천군,031-835-2859,"['가족여행', '문화시설', '미술관', '사계절', '석장리미술관', '수도권', '예술', '이색체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=aaca8a26-1235-4bba-9e90-46e6b359362f&thumb
+수원 청소년 문화센터,경기 수원시,031-218-0400,"['경기권', '교육공간', '문화복합시설', '문화시설', '수원청소년문화센터']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+93뮤지엄,경기 파주시,031-948-6677,"['문화시설', '복합문화공간', '사진찍기', '사진찍기좋은곳', '사진촬영', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4de08111-3d6d-4a30-a1db-e48ba160558a&thumb
+추사박물관(과천),경기,02-2150-3650,"['가족체험여행', '교과서속여행', '문화시설', '박물관', '사계절', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e5bdbd16-4973-40e6-9b08-1e223da1e90e&thumb
+화성시어린이문화센터,경기 화성시,031-5183-3200,"['문화강좌', '문화생활', '문화시설', '아이와 함께', '어린이', '화성시']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=da98e48e-e887-41a0-b054-81a7f87ad1c5&thumb
+파주시립중앙도서관,경기 파주시,031-940-5661,"['도서관', '독서', '독서회', '무장애', '문화시설', '시립', '파주시']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=57f815f8-ab51-40a4-9dd4-520c36adc113&thumb
+평택문화원,경기 평택시,031-655-2002,"['문화시설', '복합문화공간', '아이와 함께', '열린문화공간', '평택문화원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f948587c-2f1f-4dcd-8eec-ffb466a253cd&thumb
+수원 영통도서관,경기 수원시,031-228-4758,"['도서관', '문화시설', '수도권', '영통도서관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9849eb9a-1e1b-4561-aab0-d22f8e266d67&thumb
+열화당책박물관,경기 파주시,031-955-7020,"['가족과함께', '문화공간', '문화시설', '문화행사', '박물관', '복합문화공간', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=df660ef8-977b-4e7f-83e2-6657868d45ad&thumb
+통진두레문화센터,경기 김포시,031-983-7225,"['가족여행', '데이트코스', '문화공간', '문화시설', '문화예술활동', '문화행사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f9202e01-6c0b-42f2-a7f3-e3d63f033723&thumb
+노작홍사용문학관,경기 화성시,031-8015-0880,"['교과서속여행', '노작홍사용문학관', '문화시설', '수도권', '아이와함께', '전시관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=77e5df75-ea33-41e8-98ca-abee0ddad04f&thumb
+미누현대미술관,경기 성남시,031-754-9696,"['문화공간', '문화시설', '문화예술', '문화예술공간', '문화예술활동', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=37e6c5ac-4863-480d-9b2e-0f27c8cd7ff2&thumb
+자유수호평화박물관,경기 동두천시,031-860-3330,"['교과서속여행', '문화시설', '박물관', '아이와함께', '자유수호평화박물관', '전통&역사문화체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bc6808f5-72a5-45f9-bd23-240b6f092968&thumb
+아티누스,경기 파주시,031-948-6225,"['당일치기여행', '독서여행', '독서회', '문화시설', '복합문화공간', '브런치카페']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ef5c3226-c6f9-4d5a-8ecd-eb5576f72f20&thumb
+헤이리 커피박물관,경기 파주시,070-4176-1212,"['남녀노소', '데이트', '문화공간', '문화시설', '박물관', '수제커피', '원두커피']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b1c61b85-a88c-4a4c-a428-c5fa75f75812&thumb
+죽전야외음악당,경기 용인시,031-896-7595,"['가족여행', '공연장', '데이트코스', '문화공간', '문화시설', '문화행사', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=567eaab2-f8de-4379-b4cc-317263ec7303&thumb
+안산문화예술의전당,경기 안산시,080-481-4000,"['가족여행', '문화시설', '박물관', '서울근교여행', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=69d9062d-93d5-4423-ae76-b3326ebd96db&thumb
+세종대왕 역사문화관,경기 여주시,031-885-3123,"['가족과함께', '문화시설', '세종대왕릉', '세종대왕역사문화관', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0dfbe38d-d060-41c2-aac9-c5c8a3264a92&thumb
+고양시립 주엽어린이도서관,경기 고양시,031-8075-9170,"['고양시립주엽어린이도서관', '도서관', '문화시설', '사계절', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f94470fa-35ed-4e25-9889-ef37ab20bdeb&thumb
+옛생활 체험박물관 타임캡슐,경기 파주시,031-949-9408,"['남녀노소', '문화시설', '역사를품은곳', '역사속', '역사속으로', '역사여행', '역사이야기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e2650117-b186-4253-8e38-3d4509c9eaba&thumb
+양주문화원,경기 양주시,031-836-6467,"['경기도', '광적면', '문화발전', '문화시설', '문화원', '양주시', '지역문화']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e13be6c3-4be5-4f51-b111-b2680465e046&thumb
+의정부예술의전당,경기 의정부시,031-828-5841,"['가족여행', '문화시설', '아이와함께', '연인과함께', '예술', '음악회', '의정부예술의전당']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=95beb4d8-a827-4bd8-ba2e-a3bf68845d57&thumb
+부천활박물관,경기 부천시,032-614-2678,"['가족여행', '가족체험여행', '경상권', '교과서속여행', '문화시설', '부천활박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a3550b1b-23fc-4392-8728-2f6143e0a2f1&thumb
+고양 어울림누리,경기 고양시,1577-7766,"['고양어울림누리', '문화시설', '서울근교여행', '아이와함께', '체험학습']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=90f3ab41-7da7-40ea-bc35-10f2e5a29c0e&thumb
+수원시민회관,경기 수원시,031-244-2161,"['공연장', '데이트코스', '문화시설', '수도권', '수원시민회관', '아이와함께', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=57784769-2215-4a64-aff0-7348be3e3cfd&thumb
+파주문화원,경기 파주시,031-941-2425,"['문화시설', '복합문화공간', '열린문화공간', '파주문화원', '파주시']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=37069980-4c7c-4458-8106-ab1461a66e72&thumb
+김포문화원,경기 김포시,031-982-1110,"['경기권', '교육프로그램', '김포문화원', '문화시설']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fe0f63b4-adac-4931-8b2a-314f4f0a11af&thumb
+헌책방 보물섬,경기 파주시,031-955-0077,"['독서여행', '독서회', '문화공간', '문화시설', '복합문화공간', '아이와함께', '열린문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6721ae8e-d1e5-4ecb-a7fe-43e638bddf1c&thumb
+부천아트벙커B39,경기 부천시,070-4238-2433,"['남녀노소', '문화공간', '문화시설', '문화예술공간', '문화예술활동', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=06ef2cba-8fa6-45b1-a0e9-6748ea43ece1&thumb
+출판도시 활판인쇄박물관,경기 파주시,031-955-7955,"['문화시설', '박물관', '서울근교여행', '수도권', '아이와함께', '이색체험', '주말추천여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6acd5c5c-124b-4022-affc-7697d8028db4&thumb
+동두천문화원,경기 동두천시,031-865-2923,"['동두천문화원', '문화시설', '복합문화공간', '아이와 함께', '열린문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=890122e1-785c-4dca-949e-cc6c0746e004&thumb
+지영희국악관,경기 평택시,031-8024-8689,"['기념관', '문화시설', '문화예술', '문화예술공간', '복합문화공간', '수도권', '열린문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=61e8058a-b8f8-40bc-9df1-3621c942f927&thumb
+한향림옹기박물관,경기 파주시,070-4161-7271,"['당일치기여행', '문화시설', '박물관', '서울근교여행', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d10bbd84-5868-4b99-91cd-2e8da084cc04&thumb
+구삼뮤지엄,경기 파주시,031-948-6677,"['구삼뮤지엄', '당일치기여행', '데이트코스', '문화시설', '박물관', '서울근교여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=045c1d77-c9dd-4b51-838f-79b0b16b231a&thumb
+슬기샘어린이도서관,경기 수원시,031-242-6633,"['경기권', '문화시설', '수원어린이도서관', '슬기샘어린이도서관', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=02d3b1e2-8903-4b58-b1ee-e93dc73ae991&thumb
+수원문화원,경기 수원시,031-244-2161,"['경기권', '교육프로그램', '문화시설', '수원문화원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2c0a1bde-9dca-49ae-8f10-656b19d8fd1b&thumb
+하남문화예술회관,경기 하남시,031-790-7979,"['문화공간', '문화시설', '문화예술', '문화예술공간', '문화예술활동', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e6f8d7e4-d718-40ca-87aa-219ba970772e&thumb
+나폴레옹갤러리,경기 성남시,031-606-8525,"['나폴레옹갤러리', '남녀노소', '문화공간', '문화시설', '박물관', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9bef50aa-e113-490e-804f-126db77ac1ce&thumb
+수원야외음악당,경기 수원시,031-238-5740,"['공연장', '데이트코스', '문화시설', '수도권', '수원야외음악당', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9ce50cc4-6c5f-4c9c-bf36-c028cb6e5307&thumb
+시흥오이도박물관,경기 시흥시,031-310-3052,"['경기권', '문화시설', '아이와함께', '역사체험', '오이도']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d92630ee-ed99-4765-bd28-a086685fc386&thumb
+가평문화원,경기 가평군,031-582-2016,"['가평문화원', '문화시설', '복합문화공간', '열린문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=21bfd19e-6fc9-401a-ba0a-814f991938ee&thumb
+명지산생태전시관,경기 가평군,031-582-7426,"['겨울방학가볼만한곳', '당일치기여행', '명지산', '명지산생태전시관', '문화시설']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=02eec73d-b242-4146-bdb4-4d51fe10d3a7&thumb
+고양시문예회관,경기 고양시,031-965-2957,"['고양시문예회관', '데이트코스', '문화시설', '서울근교여행', '수도권', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ddd62f95-1bfa-4ccb-9748-8ddd7cb45618&thumb
+한얼테마과학·박물관,경기 여주시,031-881-6316,"['경기권', '문화시설', '서울근교여행', '한얼테마과학·박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+화성문화원,경기 화성시,031-353-6330,"['문화강좌', '문화시설', '열린문화공간', '화성문화원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0330e31e-1cdf-4b44-b85f-fb9601d8005b&thumb
+선바위미술관,경기,02-507-8588,"['가족여행', '문화시설', '미술관', '사계절', '선바위미술관', '수도권', '예술', '이색체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4b4d9f4e-790d-4343-89b8-20b1f25ae88c&thumb
+동두천꿈나무정보도서관,경기 동두천시,031-860-3281,"['독서여행', '동두천꿈나무정보도서관', '문화공간', '문화시설', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=61cd3804-359a-4147-8e10-03380ecf59cb&thumb
+지혜의 숲,경기 파주시,031-955-0050,"['남녀노소', '도서관', '독서여행', '독서회', '문화시설', '미세먼지_피하는_실내여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b00fb361-e524-4222-ad0d-64bc06c98379&thumb
+롯데갤러리(일산),경기 고양시,031-909-2688,"['당일치기여행', '데이트코스', '롯데갤러리', '문화시설', '서울근교여행', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e20fa116-2714-44bb-9ebb-9bd69d034ec2&thumb
+수원 중앙도서관,경기 수원시,031-228-4788,"['경기권', '문화시설', '수원시', '수원중앙도서관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=47ed03bd-e3ec-4493-8155-33e79790c140&thumb
+구리문화원,경기 구리시,031-557-6383,"['구리문화원', '문화시설', '복합문화공간', '아이와 함께', '열린문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6ab64194-4ea9-4264-a37a-7d2689f33340&thumb
+용인문화원,경기 용인시,031-324-9600,"['문화시설', '문화예술', '용산문화원', '친구와 함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=af798c55-da19-4e75-a220-1fc269ee96cc&thumb
+성남시 야외공연장,경기 성남시,031-711-7762,"['가족여행', '데이트코스', '문화시설', '사계절', '서울근교여행', '성남시야외공연장']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ae14b2eb-5d9b-4c7b-843f-4a2ad6eef456&thumb
+문화예술원 마루홀,경기 용인시,031-323-6342,"['가족여행', '데이트코스', '문화공간', '문화시설', '문화예술원마루홀', '문화행사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1fe7fcd4-bbd1-45b8-99a7-2c38f965b00e&thumb
 서호미술관,경기 남양주시,031-592-1864,"['경기도', '남양주시', '문화시설', '미술관', '실내여행지', '친구와함께', '화도읍']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=05f00505-c774-43ae-ab97-7d41a5ddac7b&thumb
-문안산,경기 남양주시,031-590-2416,"['관광지', '등산', '문안산', '수도권', '자연', '트레킹']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=44106cc9-94c1-42cc-9e27-86e53661c67d&thumb
-천마산곰탕,경기 남양주시,031-591-3657,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6e7ab78a-00ce-4228-9bb4-5c9140190dbc&thumb
-은행나무가든,경기 남양주시,031-553-8200,"['남양주맛집', '맛집', '삼겹살', '오리요리', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=85f64102-546a-45bc-99dd-fdb72b58b0a3&thumb
+아주대학교박물관,경기 수원시,031-219-2907,"['교과서속여행', '문화시설', '박물관', '수도권', '실내여행지', '아이와함께', '아주대학교박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0d4ba3c0-b195-4fa9-91e9-e3ba02e425a8&thumb
+명지대학교 박물관,경기 용인시,031-330-6074,"['교과서속여행', '명지대학교박물관', '문화시설', '박물관', '수도권', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bae5a6aa-d282-4bc3-a96f-0836b0583ba7&thumb
+마가미술관,경기 용인시,031-334-0365,"['가족여행', '기념품판매', '마가미술관', '문화시설', '미술관', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1e720be8-6c9b-4d68-a71c-d237b2d767fe&thumb
+서수원도서관,경기 수원시,031-228-4747,"['도서관', '문화시설', '사계절', '서수원도서관', '수도권', '체험학습', '친구와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b11abd13-4696-4656-86ba-379d0fdc75de&thumb
+안성시립도서관,경기 안성시,031-676-7941,"['남녀노소', '독서공간', '문화시설', '안성시립도서관', '힐링']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ffaf745d-bd8d-43de-95d7-b62079948044&thumb
+경기성남교육도서관,경기 성남시,031-730-3500,"['경기도', '독서', '문화시설', '아이와함게']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c054aa0e-c9c6-43c9-9259-1cf890a82a19&thumb
+분원백자자료관,경기 광주시,031-766-8465,"['가족여행', '교과서속여행', '문화시설', '분원백자자료관', '서울근교여행', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fcd92ee3-f6a8-49ba-a6ef-5fbdc8125dba&thumb
+수원 선경도서관,경기 수원시,031-228-4728,"['경기권', '문화시설', '수원선경도서관', '수원시', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b45d33b4-157c-48cf-879e-3a3dd590a2ce&thumb
+양주시문화예술회관,경기 양주시,031-828-9738,"['데이트코스', '문화시설', '수도권', '아이와함께', '양주시문화예술회관', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b9d6a4ab-502d-4fd5-bfa8-b4cb2b4315c4&thumb
+부천시립꿈빛도서관,경기 부천시,032-625-4622,"['문화공간', '문화시설', '부천시', '부천시립꿈빛도서관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=54222b65-5833-4f11-9d2e-673fce7bc8de&thumb
+고양문화원,경기 고양시,031-963-0600,"['고양문화원', '교육프로그램', '문화시설']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b494e65e-8587-4475-8a1d-0e0464f9f0f7&thumb
+유럽자기박물관,경기 부천시,032-661-0238,"['나들이', '문화시설', '박물관', '서울근교여행', '아이와함께', '유럽자기박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=45e35853-c7cf-49d3-b91c-155f3858cf5f&thumb
+이천문화원,경기 이천시,031-635-2316,"['문화시설', '문화원', '수도권', '이천문화원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8b395553-0b51-4490-b6f1-939f800e88e9&thumb
+국립여성사전시관,경기 고양시,031-819-2288,"['국립여성사전시관', '문화시설', '박물관', '사계절', '수도권', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=89e192c4-a54f-4884-8feb-74369198c5b3&thumb
+평택서부문화예술회관,경기 평택시,031-8024-8321,"['공연장', '데이트코스', '문화시설', '서울근교여행', '수도권', '아이와함께', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6df90ae2-7ae0-42c3-b6c2-edd141031673&thumb
+두루뫼박물관,경기 파주시,031-958-6101,"['가족과함께', '문화공간', '문화시설', '박물관', '수집품', '아이와함께', '전통&역사']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=723e2e19-1ebf-44d4-b28d-abc0c5b044c2&thumb
+한국카메라박물관,경기,02-502-4123,"['교과서속여행', '기념품판매', '문화시설', '박물관', '수도권', '아이와함께', '이색체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=656eed08-ca74-44c1-98bd-5db78bc3db00&thumb
+부천시립북부도서관,경기 부천시,032-625-4605,"['독서공간', '문화시설', '부천시립북부도서관', '아이와 함께', '친구와 함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a9b71b1a-fd2e-4232-926c-e187ba373619&thumb
+안성문화원,경기 안성시,031-673-2625,"['문화시설', '수도권', '아이와 함께', '안성문화원', '열린문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2cbde79e-6424-4c6e-9123-1e1f1a2fb921&thumb
+농경유물전시관,경기 파주시,031-940-4801,"['교과서속여행', '농경유물전시관', '문화시설', '박물관', '사계절', '수도권', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9bf3acca-29b4-4670-a9f8-7505760a21ea&thumb
+부천시민회관,경기 부천시,032-320-6481,"['데이트코스', '문화시설', '복합문화공간', '부천시민회관', '서울근교여행', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=771dd882-1fce-4149-a549-e9500f5a7dc7&thumb
+한국민속촌 옹기전시관,경기 용인시,031-274-3335,"['가족여행', '문화시설', '박물관', '서울근교여행', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2b1c8996-d14d-4446-aa8d-ffe755b35aba&thumb
+마나스아트센터,경기 양평군,031-774-5121,"['남녀노소', '문화시설', '문화예술', '미술작품', '복합문화공간', '아트센터', '양평가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=418cb3ac-887c-4425-8239-ef152cfe9eaa&thumb
 남양주문화원,경기 남양주시,031-592-0667,"['경기도', '남양주시', '다산문화제', '무장애', '문화시설', '문화원', '지역문화']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0198b835-77a8-4a7d-adf8-3c978bf74f62&thumb
-풍차수상레저,경기 남양주시,031-576-8903,"['가족여행', '경기권', '레포츠', '서울근교여행', '이색체험', '풍차수상레저']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
-현대태권도디펜스,경기 남양주시,031-511-7600,"['관광지', '남녀노소', '남양주가볼만한곳', '문화활동', '실내운동', '외국인친구에게추천']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e14cc852-f7f3-4746-884e-f06f44707c83&thumb
-해넘이 숲속마을(머치골원조매운탕),경기 남양주시,010-9104-6780,"['맛집', '음식']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fd337ae5-8965-435d-b676-e2219aeba4d7&thumb
-내원암(경기),경기 남양주시,031-841-8794,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
+경기대학교박물관,경기 수원시,031-249-9114,"['경기대학교박물관', '교과서속여행', '문화시설', '박물관', '수도권', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=30fa0b17-c5b1-444f-808c-10a6e793bc63&thumb
+이영미술관,경기 용인시,031-213-8223,"['문화시설', '실내데이트', '연인과 함께', '이영미술관', '전시관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7732cb30-3dad-4dca-9d21-bfaf1bbd777c&thumb
+여주문화원,경기 여주시,031-883-3450,"['문화시설', '복합문화공간', '여주문화원', '열린문화공간', '친구와 함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ed5066d5-dc92-4f01-be75-494c76123357&thumb
+해움미술관,경기 수원시,031-252-9194,"['문화시설', '문화예술', '문화예술활동', '미술관', '미술작품', '미술품', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d7113c55-1a80-447a-baf1-1705f4010199&thumb
+가일미술관,경기 가평군,031-584-4722,"['가일미술관', '가족여행', '문화시설', '미술관', '서울근교여행', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=94f68f04-80c1-4b7d-a362-f6284c03bcfd&thumb
+안양문화원,경기 안양시,031-449-4451,"['교육프로그램', '문화시설', '안양문화원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0bd51887-0a1b-4e03-baa1-44ddd22ac5a4&thumb
+의왕문화원,경기 의왕시,031-456-4994,"['문화시설', '복합문화공간', '열린문화공간', '의왕문화원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=da1a21f0-a988-4cbe-927c-2630ff4ab493&thumb
+성남시 중원도서관,경기 성남시,031-752-3913,"['공공시설', '문화시설', '수도권', '중원도서관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bb71a7cf-bc05-403e-9095-983725f0d4da&thumb
+중앙대학교박물관,경기 안성시,031-670-3446,"['문화시설', '박물관', '수도권', '실내여행지', '아이와함께', '예술', '전시관', '전통&역사문화체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=880fb62b-9354-4113-8019-41acb3f59dd5&thumb
+단원미술관,경기 안산시,031-481-0505,"['문화공간', '문화시설', '문화예술공간', '미술관', '복합문화공간', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a8d64eec-4bc1-4cda-852d-642698991acf&thumb
+성남시 분당도서관,경기 성남시,031-729-4800,"['공공시설', '문화시설', '분당도서관', '수도권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3bd1dfaf-928c-4ca4-b0d4-161579d3adb4&thumb
+단국대학교 석주선기념박물관,경기 용인시,031-8005-2389,"['단국대학교석주선기념박물관', '무료관람', '문화시설', '박물관', '수도권', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4c60915f-4f6f-4eea-b8b2-e61f5734f01a&thumb
+영집 궁시박물관,경기 파주시,031-944-6800,"['경기도', '국가무형문화재', '문화시설', '영집궁시박물관', '파주시', '활·화살박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=29db3d26-a53f-4701-875d-b1504604cb88&thumb
+부천교육박물관,경기 부천시,032-661-1282,"['나들이', '문화시설', '박물관', '부천교육박물관', '서울근교여행', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e7fd7117-ae5b-4034-9146-3064508add3a&thumb
+김내현화랑,경기 고양시,031-963-3262,"['경기도', '고양시', '덕양구', '문화시설', '미술', '작품', '판화']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c713e702-3ecb-470f-8410-43ea2f8bb679&thumb
+군포시문화예술회관,경기 군포시,031-390-3500,"['문화공간', '문화시설', '문화예술공간', '문화예술활동', '문화예술회관', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+성남시 중앙도서관,경기 성남시,031-729-4500,"['남녀노소', '독서', '문화공간', '문화시설', '성남시', '중앙도서관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=09754357-116c-423f-b23e-8f90335a6423&thumb
+세계민속악기박물관,경기 파주시,031-946-9838,"['문화시설', '세계문화', '세계민속악기박물관', '안보관광', '이색체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fb234ca5-e36b-4f66-8c8b-f1919a7b90b6&thumb
+명성황후 기념관,경기 여주시,031-881-9731,"['가족여행', '교과서속여행', '기념관', '명성황후기념관', '문화시설', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2e162f3f-edd9-4345-81f0-90e5556ff970&thumb
+갤러리 와,경기 양평군,031-771-5454,"['문화시설', '문화예술', '문화예술공간', '문화예술활동', '미술작품', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4c255719-6c5f-4046-8023-24a216a42d98&thumb
+과천문화원,경기,02-504-6513,"['과천', '문화강좌', '문화시설', '친구와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d4655c0c-0121-4556-8cee-9188181d5535&thumb
+성남시 수정도서관,경기 성남시,031-743-9600,"['독서', '문화시설', '성남시', '아이와함게']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c3d8e4f3-6813-4b97-ab73-38539c69afbe&thumb
+다도박물관,경기 김포시,031-998-1000,"['공연', '문화시설', '문화행사', '복합문화시설', '전시/공연', '조각공원', '차문화']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=619f7530-41ac-4cc8-b596-25603f167642&thumb
+포천아트밸리 천문과학관,경기 포천시,031538-3488,"['가족과함께', '문화시설', '아이와함께', '천문관', '포천아트밸리', '포천아트밸리천문과학관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2142e029-7fd3-434a-9837-ecfe8d7cedca&thumb
+양평문화원,경기 양평군,031-771-3866,"['문화강좌', '문화시설', '복합문화공간', '양평문화원', '열린문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e51bcb49-bfd5-4f3b-b9fe-b97a033da10c&thumb
+탄탄스토리하우스,경기 파주시,031-955-7660,"['남녀노소', '문화공간', '문화시설', '문화예술', '문화예술공간', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d9c6181d-6613-4581-81c7-ee58146303c1&thumb
+연천문화원,경기 연천군,031-834-2350,"['문화시설', '복합문화공간', '연천문화원', '열린문화공간', '친구와 함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6657980f-65ed-4023-ae22-a0d5c54d6b82&thumb
+행복한 마음(김영사 북아울렛),경기 파주시,031-955-3100,"['김영사북아울렛', '독서여행', '문화시설', '서울근교여행', '수도권', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f4a97023-7047-4e6d-bc73-cc5b433c35ff&thumb
+경기중앙교육도서관,경기 수원시,031-240-4064,"['경기권', '경기중앙교육도서관', '교육도서관', '문화시설', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0c4a2590-e4c6-4236-9071-2f5ad8a731c2&thumb
+이경순 소리박물관,경기 안성시,031-670-6538,"['교과서속여행', '문화시설', '박물관', '사계절', '수도권', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4226a918-fb6a-4936-9b57-a62da8f9a6c2&thumb
+한국학중앙연구원 한국학학술정보관.장서각,경기 성남시,031-709-8111,"['도서관', '문화시설', '문화재자료', '수도권', '아이와함께', '역사공부', '역사를품은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=87273821-e54d-4c46-894a-74513a0c37d5&thumb
+갤러리 서종,경기 양평군,031-774-5530,"['갤러리', '갤러리서종', '문화공간', '문화시설', '문화예술', '복합문화공간', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d454385d-fe93-46c9-8083-dcf7b4f2e3ab&thumb
+드림갤러리,경기 성남시,02-720-4988,"['문화공간', '문화시설', '복합문화공간', '소통쉼터', '열린문화공간', '전시', '휴식공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cbeefd27-1f65-4a07-8f16-6705807bae9d&thumb
+코오롱 스페이스K,경기,02-3677-3119,"['기획전시', '문화공간', '문화시설', '문화예술', '복합문화공간', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6a302c2b-c51f-4fad-bacf-950475380b03&thumb
+바른샘어린이도서관,경기 수원시,031-216-9373,"['가족과함께', '경기권', '문화시설', '수원어린이도서관', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a8dc41dd-8355-43b7-bd6e-9944d7c3d95f&thumb
+대교 트라움벨트,경기 파주시,031-940-3910,"['교육여행', '교육체험', '문화시설', '문화예술', '미세먼지_피하는_실내여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7216cc6f-1026-46a8-8659-f8c6bf8143c6&thumb
+벽봉한국장신구박물관,경기 파주시,031-949-0848,"['가족과함께', '남녀노소', '문화시설', '복합문화공간', '아이와함께', '열린문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=85761489-6ef7-46b7-bfd3-a768463765e5&thumb
+도자기체험미술관 비즘,경기 양평군,031-771-0469,"['교과서속여행', '기념품판매', '도자기체험', '도자기체험미술관비즘', '문화시설']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6c1376d9-c011-4a39-9435-9aa31e2a1e7e&thumb
+덕포진교육박물관,경기 김포시,031-989-8580,"['경기도', '덕포진교육박물관', '문화시설', '사립박물관', '파주시']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=213d834d-f399-4884-b621-f7092619fc5e&thumb
+박두진 문학관,경기 안성시,031-678-2466,"['가족과함께', '교육여행', '문학', '문학관', '문학기행', '문화공간', '문화시설']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ec464c90-3bd3-49c3-a85d-69c683dd4a0f&thumb
+미리내마술극단 은하수홀,경기 수원시,031-241-1238,"['가족과함께', '공연관람', '공연여행', '공연장', '남녀노소', '마술공연', '문화시설']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=be04e71d-a44b-41d5-8420-50b55cba20ae&thumb
 두물워크샵,경기 남양주시,010-5297-3336,"['공연', '문화공간', '문화시설', '복합문화공간', '열린문화공간', '음악회', '전시/공연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=247f25be-4853-4100-ae06-bbf4ce62482c&thumb
-그램호텔,경기 남양주시,031-575-2211,"['남양주숙소', '숙박']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=86a6b318-9dd4-46f5-ad4f-4da583167e0a&thumb
-화이트,경기 남양주시,031-511-2901,"['겨울스포츠', '레포츠', '복합레저스포츠', '스키대여', '스키렌탈', '스키샵', '익스트림스포츠']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bcd5cc28-caeb-4fce-9c18-b7f6fd6c1cdd&thumb
-에어타임,경기 남양주시,031-511-9959,"['겨울스포츠', '레포츠', '복합레저스포츠', '스키대여', '스키렌탈', '스키샵', '익스트림스포츠']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1434a935-f0fd-4bc0-995c-4c275a0f6bd1&thumb
-골드 관광호텔,경기 남양주시,031-841-7070,"['관광호텔', '남양주숙소', '숙박']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
-비전힐스 컨트리클럽,경기 남양주시,031-595-3355,['레포츠'],https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
-한강레포츠,경기 남양주시,031-591-3376,"['겨울스포츠', '레포츠', '복합레저스포츠', '스키대여', '스키렌탈', '스키샵', '익스트림스포츠']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=36ef0002-eec4-4b5c-9fbb-9e5a6df7c8d9&thumb
-스키아이,경기 남양주시,031-511-3432,"['겨울스포츠', '레포츠', '복합레저스포츠', '스키 강습소', '스키대여', '스키렌탈']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8b0d3aad-0521-4892-882d-efa50cd832ff&thumb
-보광사(남양주),경기 남양주시,031-594-1316,"['관광지', '불교', '불교문화', '사찰', '사찰여행', '역사', '자연속으로', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
-남양주컨트리클럽,경기 남양주시,031-529-6060,['레포츠'],https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
-광릉컨트리클럽,경기 남양주시,031-528-7001,['레포츠'],https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
-양주컨트리클럽,경기 남양주시,031-592-6060,['레포츠'],https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+포천문화원,경기 포천시,031-532-5015,"['경기권', '교육프로그램', '문화시설', '포천문화원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+설미재미술관,경기 가평군,031-585-6276,"['가족과함께', '교육체험', '문화시설', '복합문화공간', '열린문화공간', '예술창작']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d2c60739-a5f9-41e8-b5b2-7190ee7bed6d&thumb
+잔아문학박물관,경기 양평군,031-771-8577,"['문화시설', '복합문화공간', '열린문화공간', '잔아문학박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d32f1534-c5b0-4a3e-8448-ed821b5f7d2e&thumb
+테라,경기 파주시,031-949-7879,"['도예가', '문화공간', '문화시설', '미술작품', '미술품', '복합문화공간', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c4eb19d3-1dcd-4308-8d8c-d4f8e969af52&thumb
+한향림 현대도자미술관,경기 파주시,070-4161-7275,"['문화시설', '연인과 함께', '전시관', '한향림', '현대도자기미술관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5d49742c-f773-479b-9ff5-a356f7ad82df&thumb
+앤갤러리,경기 성남시,070-7430-3323,"['문화시설', '문화예술', '문화예술공간', '미술관', '미술작품', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ec391215-d4c5-4fd9-a65a-350a9a95755e&thumb
+여성생활사 박물관,경기 여주시,031-882-8100,"['교과서속여행', '문화시설', '박물관', '사계절', '수도권', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=92b1f8ed-8175-4730-bfb1-a480a102414d&thumb
+아해박물관,경기,02-3418-5501,"['가족과함께', '기획전시', '무더위_피해_실내여행', '문화시설', '박물관', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=47efb7ef-6271-4eb0-8227-b8f7e1b9f5bc&thumb
+세종국악당,경기 여주시,031-887-2854,"['데이트코스', '문화시설', '세종국악당', '수도권', '아이와함께', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=04dbca03-a81c-4ac4-856c-445f6225abab&thumb
+성남시수정청소년수련관,경기 성남시,031-729-9200,"['레포츠', '문화시설', '수도권', '수정청소년수련관', '청소년수련관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e2cba128-e263-43bf-8289-5b3fce70d27a&thumb
+조병화문학관,경기 안성시,031-674-0307,"['문학기념관', '문화시설', '수도권', '조병화문학관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b97cd6e9-d4bb-421e-ac71-d2fea54516f0&thumb
+포네티브 스페이스,경기 파주시,031-949-8056,"['기획전시', '문화공간', '문화시설', '문화예술', '문화예술공간', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a0289ea5-a2e1-49b6-89c0-3f9e48e4e04b&thumb
+동아방송예술대학교 DIMA아트센터,경기 안성시,031-670-6938,"['남녀노소', '문화시설', '문화예술', '문화예술활동', '미술관', '미술품', '복합문화공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=736f92c1-6af7-4e4e-89f8-4e428eade6d1&thumb
+CICA 미술관,경기 김포시,031-988-6363,"['남녀노소', '문화공간', '문화시설', '문화예술', '문화예술공간', '문화예술활동']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b399644b-c755-4ed3-bf3b-9d5aa92df4e7&thumb
+하남문화원,경기 하남시,031-795-1020,"['문화강좌', '문화시설', '아이와함게', '하남']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
+용인 농경문화전시관,경기 용인시,031-324-4054,"['농경문화전시관', '문화시설', '아이와함께', '이색체험', '전통&역사체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=627fa77a-d15f-4df3-911e-f6b1bbec128f&thumb
+오산문화원,경기 오산시,031-375-7755,"['문화시설', '복합문화공간', '열린문화공간', '오산문화원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
+김포아트홀,경기 김포시,031-996-1603,"['가족과함께', '김포아트홀', '문화시설', '아이와함께', '예술문화']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c8608e7b-9b54-4f6c-a16b-524e9622a3fc&thumb
+대안미술공간 소나무,경기 안성시,031-673-0904,"['문화공간', '문화시설', '문화예술', '복합문화공간', '열린문화공간', '전시', '현대미술']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+현대모터스튜디오 고양,경기 고양시,1899-6611,"['가족과함께', '교육여행', '문화시설', '아이와함께', '열린문화공간', '예술공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=db4d84c7-536f-41dc-a333-2330f66540a7&thumb
+솔가람 아트홀,경기 파주시,031-950-1958,"['경기권', '공연장', '문화시설', '솔가람아트홀', '클래식공연장']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5dddcfd8-a3da-42b3-ae59-7ca34535f1b5&thumb
+헤이리시네마,경기 파주시,031-942-1031,"['문화시설', '예술문화체험', '파주가볼만한곳', '헤이리시네마']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6a41d87a-c84e-4ec8-8552-c8281fb3c7ea&thumb
+벗이미술관,경기 용인시,031-333-2114,"['가족과함께', '경기권', '문화시설', '벗이미술관', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fce16d3a-31e7-461b-8614-07a731073482&thumb
+외할머니의 부엌,경기 김포시,031-984-1993,"['가족과함께', '문화시설', '아이와함께', '이색체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7d1f4f33-e391-436e-9090-71368a7d09e1&thumb
+박명선 갤러리,경기 파주시,010-9968-5878,"['문화시설', '문화예술공간', '박명선갤러리', '예술공간']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4e258efa-d9d4-4ab2-81e2-343047274edd&thumb
+갤러리 MOA,경기 파주시,031-949-3272,"['갤러리MOA', '문화시설', '예술문화체험', '파주가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f5e1e90d-b1d3-4a58-bb66-9d7fdb54a08f&thumb

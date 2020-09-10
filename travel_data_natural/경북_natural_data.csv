@@ -1,26 +1,264 @@
 ﻿name,region,tel,keyword,photo
-문경에코랄라,경북 문경시,054-572-6854,"['가족휴양', '관광지', '드라마세트장', '미세먼지_피하는_실내여행', '박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1ea1898d-ca98-40c5-ad63-7b7a7f3c9198&thumb
-테디베어뮤지엄 경주,경북 경주시,054-742-7400,"['경상권', '데이트코스', '문화시설', '박물관', '사계절', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fd89871d-4d34-467d-85db-f1932876693b&thumb
-안동 온뜨레피움,경북 안동시,054-823-8850,"['경상권', '관광지', '미세먼지_피하는_실내여행', '식물원', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=40aca15a-eeaf-4afc-b682-483b0ff42eaf&thumb
-유교랜드,경북 안동시,054-820-8800,"['경상권', '관광지', '미세먼지_피하는_실내여행', '실내관광지', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=420b83ec-065f-4f62-9679-0cd4d171da64&thumb
-민물고기생태체험관,경북 울진군,054-783-9413,"['경상권', '교과서속여행', '문화시설', '민물고기생태체험관', '사계절', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c758fc19-19c6-4b37-901f-bfb7d751afb2&thumb
-김천부항댐 물 문화관,경북 김천시,054-420-2635,"['가족과함께', '경상권', '관광지', '김천부항댐물문화관', '물문화관', '미세먼지_피하는_실내여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7570291a-e838-474c-900e-a0bdc6e00804&thumb
-경상북도독립운동기념관,경북 안동시,054-820-2600,"['3·1운동_100주년_여행지추천', '경상권', '경상북도독립운동기념관', '교과서속여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fba00d61-66d4-4324-ae79-33db77701a74&thumb
-사일온천,경북 영천시,054-332-4141,"['가족여행', '경상권', '관광지', '사일온천', '실내여행지', '아이와함께', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d0c37e82-6dea-4924-a821-bcbcf0f82044&thumb
-안동민속박물관,경북 안동시,054-821-0649,"['가족여행', '경상권', '기차여행', '문화시설', '박물관', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cab09f77-349c-4bb6-8be0-7e3afe46857c&thumb
-소수박물관,경북 영주시,054-639-7691,"['경상권', '교과서속여행', '문화시설', '박물관', '사계절', '소수박물관', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cd94e2de-d87c-4c59-935a-e33071fd4690&thumb
-군립 청송야송미술관,경북 청송군,054-870-6536,"['가족여행', '경상권', '군립청송야송미술관', '문화시설', '미술관', '사계절', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1d6b675f-7014-49ff-a3dc-3303b35a8c60&thumb
-청송민속박물관,경북 청송군,054-874-9321,"['경상권', '교과서속여행', '문화시설', '박물관', '사계절', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b1bdc932-d453-46e1-9d6f-37c5dde95e5b&thumb
-하회세계탈박물관,경북 안동시,054-853-2288,"['교과서속여행', '문화시설', '박물관', '실내여행지', '아이와함께', '이색체험']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1f2d6a64-50d8-4a5b-8d8e-50a4f0dd97d8&thumb
-구미시문화예술회관,경북 구미시,054-480-4560,"['경상권', '공연장', '구미시문화예술회관', '기차여행', '나들이', '데이트코스']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ce58794c-d6f1-4efc-b781-8be2b4a8a2d8&thumb
-전통문화콘텐츠박물관,경북 안동시,054-843-7900,"['가족여행', '겨울방학가볼만한곳', '경상권', '문화시설', '박물관', '사계절', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2f16b756-6b41-4fb8-a2f6-584d6aa0608e&thumb
-경주예술의전당,경북 경주시,1588-4925,"['가족여행', '경상권', '경주예술의전당', '공연장', '나들이', '데이트코스', '문화시설']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6e48b3ce-20a1-4e2b-a500-850871a394f5&thumb
-영남대학교박물관,경북 경산시,053-810-1707,"['경상권', '기차여행', '무료관람', '문화시설', '박물관', '실내여행지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fb0c34b9-4495-4e3b-aa2f-247528334f07&thumb
-대구대학교 중앙박물관,경북 경산시,053-850-5624,"['대구대학교중앙박물관', '무료관람', '문화시설', '박물관', '수도권', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4c6846c1-9b30-4154-8d30-2b4292fad6c0&thumb
-영덕어촌민속전시관,경북 영덕군,054-730-6790,"['경상권', '교과서속여행', '문화시설', '사계절', '실내여행지', '아이와함께', '영덕어촌민속전시관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c3b98ff0-1241-4652-9d00-a6d268653ed5&thumb
-의성문화체육회관,경북 의성군,054-830-6931,"['가족여행', '경상권', '문화시설', '복합문화공간', '사계절', '실내여행지', '실내체육관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9c255aca-31e3-440d-8e15-c7dd982b55bd&thumb
-성주문화예술회관,경북 성주군,054-933-6912,"['가족여행', '경상권', '기차여행', '나들이', '문화시설', '사계절', '성주문화예술회관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=209d3f8e-bd19-450d-88e3-d8b7cc798ffc&thumb
-국립안동대학교박물관,경북 안동시,054-820-7421,"['경상권', '국립안동대학교박물관', '무료관람', '문화시설', '박물관', '실내여행지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=46686d05-006d-40fa-bab2-0973dfcd157b&thumb
-동국대학교 경주캠퍼스박물관,경북 경주시,054-770-2462,"['경상권', '동국대학교경주캠퍼스', '동국대학교박물관', '무료관람', '문화시설']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ff41935d-8b92-4cff-bd5b-ed1a55b863da&thumb
-대구가톨릭대학교 역사박물관,경북 경산시,053-850-3283,"['경상권', '기차여행', '대구카톨릭대학교역사박물관', '무료관람', '문화시설']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=672edb89-a05b-4221-b72f-a8a51509d54f&thumb
-상주시 문화회관,경북 상주시,054-532-1059,"['경상권', '공연장', '기차여행', '나들이', '데이트코스', '문화시설', '상주시문화회관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1398af97-7906-444e-9cb3-823c3a971e09&thumb
+하옥계곡,경북 포항시,054-270-5837,"['가족과함께', '관광지', '여름여행', '여름피서지', '여름휴양', '자연', '자연속으로']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+월영교,경북 안동시,054-852-6800,"['가족여행', '경상권', '관광지', '봄꽃여행', '산책하기', '산책하기좋은곳', '야경좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8c720abb-4cca-4faa-a788-bf04f524499f&thumb
+진남교반,경북 문경시,054-550-6393,"['가족여행', '경북팔경', '경상권', '경치좋은곳', '관광지', '언택트관광지_100선']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2b4f74f4-53a7-4816-8711-c039a15d5124&thumb
+국립백두대간수목원,경북 봉화군,054-679-1000,"['걷기길', '경상권', '관광지', '국립백두대간수목원', '수목원', '아이와함께', '언택트관광지_100선']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=435695fc-4c54-473b-af89-3a56b7c1c174&thumb
+성주 경산리 성밖숲,경북 성주군,054-930-8371,"['걷기길', '경산리성밖숲', '경상권', '관광지', '언택트관광지_100선', '자연', '힐링']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a52595cd-5ca0-49b2-aaf8-5181c4358523&thumb
+울릉도,경북 울릉도,054-790-6454,"['2020_휴가철찾아가고싶은_33섬', '가족과함께', '경상권', '관광지', '섬', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3b5cecb2-d99d-48e7-9eb5-6f76c7e99149&thumb
+독도,경북 울릉도,054-790-6644,"['경상권', '관광지', '독도', '섬', '자연', '천연기념물']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=50793bc7-4b6a-4247-84c3-16b31c0933c5&thumb
+주왕산국립공원,경북 청송군,054-870-5300,"['가족여행', '관광지', '꽃여행', '등산', '등산로', '아이와함께', '연인과함께', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=33f7a666-1c1e-4ec2-8204-8f595bfa1824&thumb
+행남 해안산책로,경북 울릉도,054-790-6394,"['경상권', '관광지', '바다', '언택트관광지_100선', '자연', '해안산책로', '행남해안산책로']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cd3dc73a-d914-48af-8685-a3e875a423cf&thumb
+청송 얼음골 (청송 국가지질공원),경북 청송군,054-870-6111,"['경치좋은곳', '관광지', '국가지질공원', '자연', '자연관광지', '자연발생', '자연속으로']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=629b2ba5-60d8-47b4-8683-04713dca13ad&thumb
+울진 금강소나무 숲길,경북 울진군,054-781-7118,"['2012', '가족과함께', '가족여행', '걷기길', '경상권', '관광지', '생태관광자원 부문']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=247dff5b-fc27-472a-be56-29f80fc8adfe&thumb
+부용대,경북 안동시,054-852-6800,"['경상권', '관광지', '부용대', '안동여행', '안동하회마을', '역사공부', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=11d2f103-ed3a-4794-acfe-9234b35d7060&thumb
+주산지 (청송 국가지질공원),경북 청송군,054-870-6111,"['가족여행', '관광지', '국가지질공원', '아이와함께', '연인과함께', '인생샷', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fb6f84fc-3f6d-47aa-8b41-bfdde9dfba8d&thumb
+경상북도수목원,경북 포항시,054-260-6100,"['가족여행', '경상권', '경상북도수목원', '관광지', '꽃여행', '생태관광지', '수목원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6eb48bae-d3af-4f29-917a-e9aaaf3bd962&thumb
+문경새재도립공원,경북 문경시,054-571-0709,"['가족여행', '경상권', '관광지', '꽃여행', '등산', '등산로', '문경새재도립공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bd64984d-0951-457d-a325-7439606e644a&thumb
+죽변항,경북 울진군,054-789-6864,"['가족여행', '경상권', '경치좋은곳', '관광지', '드라마촬영지', '바다경치', '바다내음']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=83bed843-9768-4cb4-bdf0-97e0136b5b87&thumb
+군위 장곡자연휴양림,경북 군위군,054-380-6317,"['가족여행', '경상권', '관광지', '군위장곡자연휴양림', '자연', '휴양여행', '힐링']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f9c80a07-a5fb-4027-8f62-2ec9cfd0ccb1&thumb
+안동호반자연휴양림,경북 안동시,054-840-8265,"['경상권', '관광지', '안동호반자연휴양림', '연중무휴', '자연', '자연&숲치유']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a37c88a9-d7c5-4d3b-a223-0846d089f4f8&thumb
+고래불해수욕장,경북 영덕군,054-730-6651,"['가족여행', '고래불해수욕장', '관광지', '바다경치', '바다내음', '바다풍경', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=bf148462-ec2e-42a0-9c69-ca1cabd0ff35&thumb
+빙계계곡,경북 의성군,054-830-6952,"['가족과함께', '가족여행', '경상권', '경치좋은곳', '관광지', '빙계계곡', '여름가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=43d6a0f4-da3a-4fd6-9ca0-255f1ca11ba8&thumb
+울진 후포항,경북 울진군,054-789-6862,"['경상권', '관광지', '자연', '후포항', '후포해수욕장']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9057870c-9b28-45c4-91c3-09093c44e13d&thumb
+팔공산도립공원(갓바위지구),경북 경산시,054-335-8031,"['가족여행', '갓바위지구', '경상권', '경치좋은곳', '관광지', '자연', '자연속으로']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=92d6fd75-bf15-4b32-95c3-16d2814e243d&thumb
+구산해수욕장,경북 울진군,054-789-6862,"['가족여행', '관광지', '구산해수욕장', '바다풍경', '아이와함께', '여름방학가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=54e5e26d-9926-4273-8e61-de5386228a44&thumb
+국립 검마산자연휴양림,경북 영양군,054-682-9009,"['가족여행', '걷기길', '검마산', '경상권', '관광지', '국립검마산자연휴양림', '등산']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=daa1b4b8-b62c-429b-a2ce-9a255b09aa55&thumb
+성류굴 (경북 동해안 국가지질공원),경북 울진군,053-950-7996,"['가족여행', '가족체험여행', '경북_동해안_국가지질공원', '관광지', '국가지질공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a1685d1e-af9f-42b2-bda4-b2bdb5324cef&thumb
+경주국립공원,경북 경주시,054-778-4100,"['관광지', '역사속으로', '역사이야기', '자연', '자연좋은곳', '자연풍경', '자연환경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2e2e130b-790f-4f44-8b42-9454182f2d88&thumb
+국립산림치유원,경북 영주시,054-639-3400,"['경상권', '관광지', '국립산림치유원', '숲체험원', '자연', '자연&숲치유', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e66628e4-e77b-40fd-899c-65509e078997&thumb
+"봉래폭포 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '관광지', '국가지질공원', '울릉도_독도_국가지질공원', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3faf364b-6979-4a4b-aa14-21e5f05c3927&thumb
+금오산도립공원,경북 구미시,054-480-4605,"['가족여행', '관광지', '금오산도립공원', '꽃여행', '등산', '등산로', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b4ec5eb1-9172-45ea-a098-84782934dd32&thumb
+"코끼리바위 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경상권', '공암', '관광지', '국가지질공원', '기암괴석', '울릉도_독도_국가지질공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fd5c1dc4-bd3d-49dc-8fa0-46abb8bc114d&thumb
+치산계곡,경북 영천시,053-602-5900,"['가족여행', '경상권', '경치좋은곳', '관광지', '눈꽃&설경여행', '단풍여행', '등산']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=dadded42-f83c-4284-b4e4-0e15538fc762&thumb
+독도전망대 케이블카,경북 울릉도,054-790-6427,"['경상권', '관광지', '독도박물관', '독도전망대케이블카', '연중무휴', '일출일몰명소']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=02c706b7-3c79-4fae-9c83-793875d24888&thumb
+국립 운문산자연휴양림,경북 청도군,054-373-1327,"['경상권', '관광지', '국립운문산자연휴양림', '등산', '숲치유', '자연', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=532a2fe3-b9ec-44c7-a88e-de4366ad2d4e&thumb
+강구항,경북 영덕군,054-730-6114,"['강구항', '경상권', '관광지', '드라마촬영지', '자연', '항구']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=39c78ecb-3f18-407a-a8b7-56adb1cfeed3&thumb
+절골협곡 (청송 국가지질공원),경북 청송군,054-870-6111,"['가족여행', '경상권', '관광지', '국가지질공원', '여름가볼만한곳', '자연', '자연관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6d70447a-7bff-465a-98b6-40f4c385de06&thumb
+영일대해수욕장,경북 포항시,054-240-7853,"['관광지', '바다풍경', '여름휴가', '영일대해수욕장', '자연', '친구와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f3b200fb-fc64-4b23-bd0f-7ef271bd4071&thumb
+영덕대게마을,경북 영덕군,054-730-6682,"['경상권', '관광지', '영덕대게마을', '이색체험', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6fa11014-c38b-4acb-8cf3-8eeeedd2c134&thumb
+수도산자연휴양림,경북 김천시,054-435-5128,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=920b3e7f-95c5-4d77-850c-431165819535&thumb
+관성솔밭해변,경북 경주시,054-722-3843,"['가족여행', '경상권', '관광지', '관성솔밭해변', '바다풍경', '여름방학가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0d0db242-c218-491b-bc8b-0eea2e7c46d7&thumb
+대가천계곡(무흘구곡),경북 성주군,054-930-8371,"['가족여행', '경상권', '경치좋은곳', '관광지', '대가천계곡', '드라이브여행', '무흘구곡']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3b5a7dc4-f874-47c6-bddc-7ddba9021a2c&thumb
+감포항,경북 경주시,054-744-3002,"['감포항', '경상권', '관광지', '나홀로여행', '바다풍경', '연중무휴', '일출일몰명소']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=da9e8bc8-2564-419a-9dd0-7a42b3b3ff17&thumb
+영천 별빛마을,경북 영천시,054-338-0377,"['경상권', '관광지', '아이와함께', '영천별빛마을', '자연', '자연마을', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a306a07e-b30e-4309-8215-067538093268&thumb
+후포해수욕장,경북 울진군,054-789-6862,"['가족여행', '경상권', '관광지', '바다풍경', '여름방학가볼만한곳', '여름여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a39422ad-9700-4213-9eba-9e5b2fc7f55b&thumb
+국립 통고산자연휴양림,경북 울진군,054-783-3167,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a9d811ae-9725-4db8-bd29-3b758fb06c16&thumb
+토함산,경북 경주시,054-774-7615,"['경상권', '관광지', '자연', '자연관광지', '자연여행', '자연좋은곳', '자연풍경']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f33bbcf5-c962-438b-897c-0968f923ec0f&thumb
+청도 남산계곡,경북 청도군,054-370-2376,"['경상권', '계곡', '관광지', '산', '자연', '청도남산계곡']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8517907e-40c9-4678-b74d-bc421908e270&thumb
+가야산 야생화식물원,경북 성주군,054-931-1264,"['가야산야생화식물원', '가족여행', '경상권', '관광지', '기차여행', '나들이', '데이트코스']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a0d93f95-a28a-43a6-92d0-b6f293d2bdfe&thumb
+달기약수탕 (청송 국가지질공원),경북 청송군,054-870-6111,"['가족여행', '경상권', '관광지', '국가지질공원', '달기약수탕', '연중무휴', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=39542bc6-1fde-4317-ab02-75d67fb763f0&thumb
+성주봉자연휴양림,경북 상주시,054-541-6512,"['가족여행', '경상권', '관광지', '성주봉자연휴양림', '자연', '자연속으로', '자연여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=af41179c-aded-4423-bd47-7d2a167ca6c5&thumb
+대야산 용추계곡,경북 문경시,054-550-6414,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6d430a7d-7809-49f4-bdaa-5988cd32b1c5&thumb
+보경사 12폭포 (상생폭포),경북 포항시,054-240-7630,"['가족여행', '관광지', '보경사12폭포', '아이와함께', '여름방학가볼만한곳', '여름여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=121630fb-45d5-4127-a537-eef6e34294a8&thumb
+구룡포해수욕장,경북 포항시,054-270-2842,"['경상권', '관광지', '구룡포해수욕장', '바다풍경', '자연', '피서여행', '해돋이']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d7785bdc-9247-41c7-a6f0-05b56b4b41c1&thumb
+영천댐,경북 영천시,054-330-6580,"['걷기길', '경상권', '경치좋은곳', '관광지', '데이트코스', '드라이브여행', '봄꽃여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e3e9fbe0-1319-4a79-bac8-3adb6d2ae2d2&thumb
+장각폭포,경북 상주시,043-542-5297,"['가족여행', '경상권', '관광지', '여름가볼만한곳', '여름여행', '자연', '자연관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=053008fa-88dd-4b0c-804b-502ea15401e4&thumb
+대게원조 차유어촌체험마을,경북 영덕군,054-732-4967,"['가족여행', '경상권', '관광지', '대게원조차유어촌체험마을', '자연', '체험학습']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a4b37927-d892-425f-8f79-99db83633ff6&thumb
+내연산 군립공원,경북 포항시,054-270-5562,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=78c6a04d-6e5f-4950-837b-c8f0a6db5a57&thumb
+태하향목 관광모노레일,경북 울릉도,054-790-6638,"['가족여행', '경상권', '관광지', '바다풍경', '섬여행', '아이와함께', '여름여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=79e9a9af-4c51-4362-8fa4-fd75a14abeaa&thumb
+회룡포,경북 예천군,054-653-6696,"['가족과함께', '경치좋은곳', '관광지', '이색체험', '자연', '자연마을', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=34bafbe8-4124-4207-a3ae-a525b16f731b&thumb
+주왕산 1. 2. 3 폭포,경북 청송군,054-870-5300,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1b952e0a-86fd-476d-b59f-453be1e7c8a5&thumb
+청량산도립공원,경북 봉화군,054-679-6651,"['가족여행', '관광지', '꽃여행', '등산', '등산로', '아이와함께', '연인과함께', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a114387b-a9b8-4f04-bb16-1fbf1be93102&thumb
+국립 대야산자연휴양림,경북 문경시,054-571-7181,"['가족여행', '걷기길', '경상권', '관광지', '국립대야산자연휴양림', '나들이', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9662bd10-909e-4d4f-b0ee-18c17fa77a5e&thumb
+나리분지,경북 울릉도,054-790-6423,"['경상권', '관광지', '나리분지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8560456a-cf38-4960-a1c8-6be504e87ef2&thumb
+예천천문우주센터,경북 예천군,054-654-1710,"['가족과함께', '경상권', '관광지', '아이가_좋아하는_여행', '아이와함께', '예천가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=964c4065-8987-4c84-bb09-5cd58534fb87&thumb
+칠곡 송정자연휴양림,경북 칠곡군,054-979-6600,"['경상권', '관광지', '자연', '자연속으로', '자연환경', '자연휴양림', '칠곡송정자연휴양림']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=353eca37-1f78-470f-bcda-55147bd8e759&thumb
+경주 남산,경북 경주시,054-777-7142,"['경상권', '경주남산', '관광지', '생태관광지', '숲치유', '자연', '자연좋은곳', '전망좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fbc2d029-7c89-43c6-b126-a9de63bc6eb2&thumb
+운주산승마자연휴양림,경북 영천시,054-330-6287,"['가족여행', '걷기여행', '걷기좋은길', '경상권', '관광지', '데이트코스', '사계절']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=aea9dbec-b826-4fe7-82fa-13d1b14e3ca5&thumb
+성주댐(성주호),경북 성주군,054-930-0700,"['경상권', '관광지', '드라이브코스', '성주댐', '성주호', '자연', '풍경좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5a12a6aa-044e-48c1-9176-e51f5e8197e4&thumb
+보문호,경북 경주시,054-745-7601,"['가족여행', '관광지', '보문호', '아이와함께', '연인과함께', '인생샷', '자연', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=deda0290-2fe2-4b6c-8a69-a7c620f86bcb&thumb
+포천계곡,경북 성주군,054-930-8371,"['가족여행', '경상권', '계곡', '관광지', '여름피서지', '자연', '자연관광지', '자연여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=645b273e-15d2-4cd0-93e5-92d627cf7e96&thumb
+응봉산(울진),경북 울진군,054-783-9007,"['경상권', '관광지', '등산', '울진응봉산', '자연', '트레킹']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5b3e1ab8-54d0-4703-bcf2-217b495d4ca7&thumb
+백석탄 포트홀 (청송 국가지질공원),경북 청송군,054-870-6111,"['관광지', '국가지질공원', '자연', '자연관광지', '자연발생', '자연속으로', '자연여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=423f11d1-465c-4718-b727-1c6069874fa9&thumb
+영일 일월지,경북 포항시,9118 054-290-2652,"['경상권', '경상북도기념물', '관광지', '일월지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=dfc81e94-59e1-42ec-87ef-160d7b9f778b&thumb
+보현산 천문대,경북 영천시,054-330-1000,"['경치여행', '관광지', '교육여행', '보현산천문대', '아이와함께', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3cbfb914-dab6-4bbc-9a52-e1540bcdef5e&thumb
+오류고아라해변,경북 경주시,054-745-6701,"['경상권', '관광지', '바다풍경', '여름방학가볼만한곳', '여름여행', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7cf9b972-4164-4ec9-a945-c5946a6df138&thumb
+불영계곡 (경북 동해안 국가지질공원),경북 울진군,053-950-7996,"['경북_동해안_국가지질공원', '경상권', '경치좋은곳', '계곡', '관광지', '국가지질공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=57612631-857d-4403-b42c-4ba31e38ed6b&thumb
+축산항,경북 영덕군,054-730-6651,"['가족여행', '경상권', '관광지', '바다풍경', '사계절', '자연', '자연좋은곳', '전망좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=078fbe36-8c2a-461f-bf1d-355d8d5a7514&thumb
+안동 퇴계 오솔길 (녀던길),경북 안동시,054-840-6591,"['가족과함께', '걷기길', '경상권', '레포츠', '아이와함께', '자연', '퇴계오솔길']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0cc3b5b4-576c-40a3-9540-9be4aa5b234e&thumb
+죽계구곡,경북 영주시,054-639-6601,"['경상권', '경치좋은곳', '관광지', '여름여행', '자연', '자연&숲', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=57fb4c71-3c13-438b-967a-b09ba35d9610&thumb
+국립칠곡숲체원,경북 칠곡군,054-977-8773,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=309ace02-f60e-450c-840f-1fe90774ad9f&thumb
+망양정해수욕장,경북 울진군,054-789-6862,"['가족여행', '관광지', '망양정해수욕장', '바다풍경', '아이와함께', '여름방학가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3baa73ef-3ed7-4f10-8566-4822cdceb8ce&thumb
+문경새재 자연생태공원,경북 문경시,054-550-8383,"['가족여행', '걷기길', '걷기여행', '경상권', '관광지', '문경새재자연생태공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9fa273b7-595f-4b28-a93f-7730f1f5a36e&thumb
+보문정 (경주),경북 경주시,054-745-7601,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7026a9ef-d9fc-4416-90a4-dbb609800ddd&thumb
+경정해수욕장,경북 영덕군,054-730-6651,"['경상권', '경정해수욕장', '관광지', '드라이브여행', '바다낚시', '바다풍경', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=968e1bd5-e5e3-4855-86de-7e32a751795c&thumb
+봉화 금강소나무림,경북 봉화군,054-859-1114,"['경상권', '관광지', '봉화금강소나무림', '자연', '휴양여행', '힐링']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=65d0be54-ca5e-4d00-bac9-c6e7352fc8f2&thumb
+대야산,경북 문경시,054-571-7181,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c3bade8a-e2cb-4e28-ac2b-7f1914cda672&thumb
+의성 사촌리 가로숲,경북 의성군,054-830-6549,"['경상권', '관광지', '산책길', '산책코스', '산책하기', '산책하기좋은곳', '의성사촌리가로숲']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0431d077-2a19-47b1-ab98-136f17784beb&thumb
+장사해수욕장,경북 영덕군,054-730-7302,"['가족여행', '관광지', '바다경치', '바다내음', '바다풍경', '여름피서지', '여름휴가']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a29e7aff-fb81-4938-9cd1-a94d202e6ad5&thumb
+독도 등대,경북 울릉도,054-791-1161,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6476f69a-9701-42ee-8d9b-3655041f8e24&thumb
+울릉도 등대(태하등대),경북 울릉도,054-791-5334,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=60eee6b5-a5d4-48e6-b1fb-69a203308006&thumb
+선유동계곡(문경),경북 문경시,054-550-6414,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=80cfaf93-a996-4b45-b764-7a05487d249d&thumb
+도동항,경북 울릉도,054-790-6454,"['경상권', '관광지', '도동항', '자연', '항구']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=50cbd866-4a31-4635-8101-79cb17d28ede&thumb
+중평솔밭,경북 청송군,057-870-8705,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=29ba55bb-2887-423f-8002-7ddc38707153&thumb
+가야산국립공원(백운동 지구),경북 성주군,055-930-8000,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=32a5b7f2-4e0d-4a80-a703-1d450c91c1fa&thumb
+칠포해수욕장,경북 포항시,054-261-3001,"['가족여행', '관광지', '바다풍경', '아이와함께', '여름방학가볼만한곳', '여름여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a642c4e4-3957-44a6-ad62-a62c922e8db6&thumb
+"관음도 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '관광지', '국가지질공원', '바다경치', '산책하기좋은곳', '울릉도_독도_국가지질공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b9145ecf-16ce-4b10-a0c3-3421dd732206&thumb
+쌍룡계곡,경북 문경시,054-550-6414,"['경상권', '경치좋은곳', '계곡', '관광지', '쌍룡계곡', '자연', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c25ab051-cee9-4fa2-b110-bde595cd31f6&thumb
+덕구계곡 (경북 동해안 국가지질공원),경북 울진군,053-950-7996,"['경북_동해안_국가지질공원', '경치좋은곳', '관광지', '국가지질공원', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=01128975-99fa-4998-a71f-10c695f17a97&thumb
+경주 서출지,경북 경주시,054-779-8743,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f9435cec-bb2c-4af9-94fc-7e770d4f38ae&thumb
+구마계곡(고선계곡),경북 봉화군,054-673-4996,"['가족여행', '경상권', '경치좋은곳', '계곡', '고선계곡', '관광지', '구마계곡', '여름여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ed2e3abe-2eb4-4d52-8366-28d2c98b175f&thumb
+본신계곡,경북 영양군,054-680-6413,"['겨울여행', '경상권', '경치좋은곳', '관광지', '눈꽃&설경여행', '단풍여행', '본신계곡']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c8f1a5aa-3010-44b8-af80-162814af62fc&thumb
+"거북바위 및 향나무 자생지 (울릉도, 독도 국가지질공원)",경북 울릉도,033-791-2113,"['관광지', '국가지질공원', '울릉도_독도_국가지질공원', '자연', '자연관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b28630e4-0c56-437d-9232-4ae9c49a101b&thumb
+오전약수탕,경북 봉화군,054-672-2005,"['경상권', '관광지', '약수탕', '오전약수탕', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cc3fc061-616f-441a-bd22-2d82d3518237&thumb
+왕피천생태탐방로,경북 울진군,054-781-8897,"['가족과함께', '걷기길', '경상권', '관광지', '생태관광', '생태관광지', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=72f4f916-5707-40b8-a52a-5437fab862ac&thumb
+서벽 금강소나무 숲 (서벽 문화재용 목재생산림),경북 봉화군,054-630-4001,"['가족여행', '경상권', '관광지', '기차여행', '나들이', '데이트코스', '서벽금강소나무숲']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a23ca1c4-a3db-40c9-940c-2d44125a51ab&thumb
+소백산국립공원(경북),경북 영주시,054-638-6196,"['경상권', '관광지', '자연', '충청권']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=dd494b71-2749-443a-87dd-886b72b95178&thumb
+운문댐. 동창천,경북 청도군,054-370-2378,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4c91b3ae-3c34-489f-a6c2-ab277d3fc6c1&thumb
+의성 제오리 공룡발자국화석 산지,경북 의성군,054-830-6356,"['경상권', '관광지', '자연', '제오리공룡발자국화석산지', '천연기념물']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ea317a4d-8d8d-4872-ba06-d39e5bf244be&thumb
+기청산식물원,경북 포항시,054-232-4129,"['경상권', '관광지', '기념품판매', '기청산식물원', '꽃여행', '사계절', '생태관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=296fdc6f-7904-407f-9fa0-0ccdc8d2ea74&thumb
+금봉자연휴양림,경북 의성군,054-830-6001,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e8141607-d815-4b72-a275-4e7d040e928a&thumb
+석천계곡,경북 봉화군,054-679-6334,"['가족여행', '경상권', '경치좋은곳', '계곡', '관광지', '명승', '석천계곡', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5d3d42f3-993d-49a9-8e86-391e3bf9d2e5&thumb
+월포해수욕장,경북 포항시,054-232-9770,"['가족여행', '관광지', '바다풍경', '아이와함께', '여름방학가볼만한곳', '여름여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d81a7ffd-aa55-44f8-9367-8586a9f470de&thumb
+사미정계곡,경북 봉화군,054-673-4996,"['경상권', '경치좋은곳', '계곡', '관광지', '사미정계곡', '여름여행', '여름피서지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0d325606-a7b2-418b-ab46-2e385972b0e4&thumb
+청송 자연휴양림 퇴적층 (청송 국가지질공원),경북 청송군,054-870-6111,"['관광지', '국가지질공원', '자연', '자연관광지', '자연발생', '자연속으로', '자연여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0f24dd95-5067-4c81-a8f9-06b853f3b469&thumb
+폭풍속으로 촬영지,경북 울진군,054-789-6893,"['SNS감성사진', '가족과함께', '감성사진', '남녀노소', '드라마촬영지', '사진여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=038fbcad-96af-4690-9198-59bae22d9b45&thumb
+나정고운모래해변,경북 경주시,054-779-6324,"['경상권', '관광지', '나정고운모래해변', '바다풍경', '여름방학가볼만한곳', '여름휴가']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a63804ae-4496-4c56-bc7a-c8e9b6281515&thumb
+안동 장승공원,경북 안동시,054-854-5331,"['가족여행지', '걷기길', '경상권', '관광지', '나들이', '아이와함께', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=82ed2de2-c89a-47a4-b30c-f35c3536c515&thumb
+금강소나무생태경영림,경북 영양군,054-683-4455,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fb7aaa8f-af85-4141-84b4-71b2c8126aa6&thumb
+사자바위,경북 울릉도,054-790-6454,"['경상권', '관광지', '기암괴석', '사자바위', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7603074f-5f9e-4b10-bf5b-c67f27ff6eb2&thumb
+옥계계곡,경북 영덕군,054-730-6651,"['가족여행', '경상권', '계곡', '관광지', '옥계계곡', '자연', '피서']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=78afc9cb-f762-492e-99ad-5aeb7cf5c438&thumb
+고령 신촌숲,경북 고령군,054-955-4790,"['가족여행', '경상권', '관광지', '신촌숲', '아이와함께', '여름여행', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d51d1f59-a305-44a3-a014-b03b9a4dbfe2&thumb
+운제산,경북 포항시,054-270-5836,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
+송대말 등대,경북 경주시,054-744-3233,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e9125afe-b645-425c-818d-db6b33dbcf16&thumb
+마구령/고치령,경북 영주시,054-631-4762,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2ecd4e1b-9f4d-4afb-a7cb-84a8b3709a03&thumb
+비봉산,경북 의성군,054-830-6574,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+목계솔밭,경북 청송군,054-870-8705,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9a5a9284-6601-412e-a470-9c1e331db812&thumb
+도동등대(행남등대),경북 울릉도,054-791-2594,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a33f8c1c-3b25-4c55-825f-8b4840226488&thumb
+국립 칠보산자연휴양림,경북 영덕군,054-732-1607,"['경상권', '관광지', '국립칠보산자연휴양림', '나홀로여행', '생태관광', '숲치유']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=03c9d152-8b3d-407d-a5c7-91fedd2b56ec&thumb
+창수전시림,경북 영덕군,054-730-8130,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8f464bd4-0eb6-4314-9096-55082c5362cd&thumb
+양남 주상절리군 (경북 동해안 국가지질공원),경북 경주시,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '경치좋은곳', '관광지', '국가지질공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2943366c-4ce7-4216-813e-d4be7d9c0b0b&thumb
+예천 금남리 황목근(팽나무),경북 예천군,054-650-6395,"['경상권', '관광지', '예천금남리팽나무', '예천금남리황목근', '자연', '천연기념물']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=82a51531-626f-422a-8bb0-6a7f70ceedfd&thumb
+신성리 공룡발자국 (청송 국가지질공원),경북 청송군,054-870-6111,"['경상권', '관광지', '국가지질공원', '신성계곡', '역사공부', '역사를품은곳', '역사속']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7c6fa014-8735-4c81-9ae9-88bbbd3fccc3&thumb
+봉길대왕암해변,경북 경주시,054-779-6324,"['가족여행', '관광지', '바다풍경', '봉길대왕암해변', '아이와함께', '여름방학가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7ad12692-4b08-4435-b4f8-4f42f35c30e2&thumb
+신선계곡,경북 울진군,054-789-6903,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=05058068-8fac-43e0-8d37-cf3db9f06c20&thumb
+저동항,경북 울릉도,054-791-2191,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fa13efc8-c65f-4c5b-8f10-8d31171b45e7&thumb
+달전리 주상절리 (경북 동해안 국가지질공원),경북 포항시,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '관광지', '국가지질공원', '사진찍기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=af8b89dd-d9bf-43a1-a729-5fb631f11700&thumb
+유호연화,경북 청도군,054-370-6114,"['경상권', '관광지', '유호연화', '자연', '청도팔경', '힐링']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4edf4118-823b-4239-aff9-009fec372fd5&thumb
+국립 청옥산자연휴양림,경북 봉화군,054-672-1051,"['가족여행', '걷기길', '경상권', '관광지', '국립청옥산자연휴양림', '등산', '등산로']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ca8548a0-88fa-4990-b418-3d08ef052815&thumb
+경주 낭산 일원,경북 경주시,054-772-3843,"['경상권', '관광지', '교과서속여행', '낭산', '아이와함께', '역사유적지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=65fc9184-a435-4214-8923-2ca128c262c9&thumb
+"성인봉 원시림 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['관광지', '국가지질공원', '울릉도_독도_국가지질공원', '자연', '자연관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=85fbc819-ee71-41bc-8434-83b8b346cac2&thumb
+안동댐,경북 안동시,1577-0600,"['가족여행', '관광지', '아이와함께', '안동댐', '자연', '전망좋은곳', '친구와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=563c6b00-17ee-43d6-823b-ea982254b89c&thumb
+울릉도 신비로여행,경북 울릉도,1644-2923,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e924cdb5-b76f-424e-8455-71c29dd799e1&thumb
+소광리계곡,경북 울진군,054-789-6092,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+전촌솔밭해변,경북 경주시,054-745-9239,"['경상권', '관광지', '바다', '여름피서지', '자연', '전촌솔밭해변']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=250dfe85-6f5b-438a-be15-441f46fd608d&thumb
+일월산,경북 영양군,054-680-6413,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+대진해수욕장,경북 영덕군,054-730-7721,"['가족여행', '관광지', '대진해수욕장', '바다풍경', '아이와함께', '여름방학가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5fcf0a5e-c42d-4b31-8fa6-90ddc32123a8&thumb
+옥량폭포,경북 상주시,054-537-7517,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a2871de8-78bb-48df-a446-28100f0b1da2&thumb
+불정자연휴양림,경북 문경시,054-552-9443,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=37e1ab2b-dd1c-48fd-854d-d2def1f7807d&thumb
+"죽암 몽돌해안 (울릉도, 독도 국가지질공원)",경북 울릉도,033-791-2114,"['경치좋은곳', '관광지', '국가지질공원', '바다경치', '울릉도_독도_국가지질공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4e98a2e4-46b8-4ad4-a583-9cd01472ff51&thumb
+개천지 / 조성지,경북 의성군,,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b805410f-ab78-4265-9840-96c5cae5d8cf&thumb
+주흘산,경북 문경시,054-550-6414,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3cfa9a30-e774-4ec5-ab5b-27833cb52ee0&thumb
+오송폭포,경북 상주시,043-542-5267,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e4ea754e-ec69-40a7-a20d-ecfbcd79f5b9&thumb
+궁터산촌생태체험마을,경북 문경시,054-571-8395,"['가족과함께', '경상권', '관광지', '궁터산촌생태체험마을', '농촌마을', '농촌여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=131efa58-843a-4b6a-86c6-fa349761d0e0&thumb
+옥성자연휴양림,경북 구미시,054-481-4052,"['가족여행', '걷기길', '경상권', '관광지', '나들이', '여름여행', '연인과함께', '옥성자연휴양림']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3a7ca885-f899-4d60-91cc-513ccd7b47d2&thumb
+덕천해수욕장,경북 영덕군,054-730-6651,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4b24e104-d52c-4be7-b607-dd3c93d524a5&thumb
+우복동 체험마을,경북 상주시,054-536-9722,"['가족과함께', '경상권', '관광지', '농촌마을', '농촌여행', '농촌체험마을', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=924edaa9-1ea3-4e2b-a53e-709c8c8b418a&thumb
+죽도(울릉),경북 울릉도,054-790-6454,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fbf7695c-5763-44d3-9d37-382e9814585d&thumb
+의성 월소리 소나무,경북 의성군,054-830-6908,"['경상권', '경상북도기념물', '관광지', '의성월소리소나무', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5f12f67b-462b-4fb5-baae-170003d0f2e6&thumb
+팔공산도립공원(군위군),경북 군위군,054-880-8300,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f02cc8be-9550-4b30-96d6-b266e5944689&thumb
+토함산자연휴양림,경북 경주시,054-750-8700,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5432a6c7-6c29-4b15-9703-9a9a3a540a47&thumb
+다덕약수탕,경북 봉화군,054-679-6114,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9b9c38a9-6c8c-40d0-a32a-514cb5056fdc&thumb
+속리산국립공원(경북),경북 상주시,043-542-5267,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=44c165d2-bd5c-4fdc-815b-9615d992c5c4&thumb
+죽변 등대,경북 울진군,054-783-7104,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=90f1a31c-f49c-49d0-8474-066d369667e9&thumb
+오보 해수욕장,경북 영덕군,054-730-7122,"['경상권', '관광지', '바다낚시', '바다풍경', '오보해수욕장', '자연', '해수욕장']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=688e2c31-0a85-4289-a91e-a3bc780227e7&thumb
+경상북도 산림환경연구원,경북 경주시,054-778-3830,"['경상권', '경상북도산림환경연구원', '관광지', '꽃여행', '숲체험원', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=093c209c-110c-48eb-b7e0-aa9866942e10&thumb
+보현산(영천),경북 영천시,054-330-6585,"['경상권', '관광지', '꽃여행', '등산', '등산로', '모자산', '보현산', '자연', '자연&숲']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=288f9813-0b77-4fba-b403-3f2a1fe8a73d&thumb
+금성산,경북 의성군,054-830-6356,"['관광지', '등산객', '등산여행', '등산코스', '자연', '자연과함께', '자연관광지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+학가산자연휴양림,경북 예천군,054-652-0114,"['경상권', '관광지', '자연', '학가산자연휴양림', '휴양여행', '힐링']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9a87157e-97bd-4fb5-b412-cc1a7211792a&thumb
+죽령,경북 영주시,054-638-6196,"['경상권', '관광지', '등산', '역사', '자연', '죽령', '트레킹']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8fb49041-0ae6-4577-9837-502b2c54ff7e&thumb
+각화산,경북 봉화군,054-679-6341,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
+희방계곡,경북 영주시,054-639-6601,"['여름철휴가지', '여름피서지', '자연', '자연발생', '자연속힐링', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=57e40cd3-44d2-4176-83bc-2c69b980aeb1&thumb
+화진해수욕장,경북 포항시,054-243-6001,"['가족여행', '관광지', '바다풍경', '아이와함께', '여름방학가볼만한곳', '여름여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=aaafe3cc-e0d0-4c7c-b07d-438f77df5110&thumb
+백천계곡,경북 봉화군,054-673-4996,"['경상권', '계곡', '관광지', '등산', '등산로', '백천계곡', '자연', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=58f3cf47-6670-41c1-b951-6263c47e5072&thumb
+수도산,경북 김천시,054-420-6515,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
+송도해변(포항),경북 포항시,054-270-6741,"['가족여행', '관광지', '바다풍경', '송도해변', '아이와함께', '여름방학가볼만한곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b8ee629b-2fd6-434b-ae7f-5d78d754920e&thumb
+호미곶 해안단구 (경북 동해안 국가지질공원),경북 포항시,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '경치좋은곳', '관광지', '국가지질공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=98ea8fcd-4ec8-47be-af4c-3aafe638e347&thumb
+운달산,경북 문경시,054-550-6393,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2cbc866f-e52b-4261-831e-a3ab7b4167ab&thumb
+희방폭포,경북 영주시,054-630-0700,"['경상권', '관광지', '자연', '폭포', '희방폭포']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ca30029c-7483-4c73-a6f9-c99832bf1306&thumb
+영천 자천리 오리장림,경북 영천시,054-330-6585,"['경상권', '관광지', '드라이브여행', '생태관광지', '오리장림', '자연', '자연유산']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=35ce9d63-23b1-4fbd-b9d5-2915425ed699&thumb
+후포 등대,경북 울진군,054-789-6862,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b03fe0c7-db7f-4517-8cb4-282e7cebe8ab&thumb
+황장산,경북 문경시,054-550-6414,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b5236b24-898e-4698-afb6-278c8a1e26cc&thumb
+통구미몽돌해변,경북 울릉도,054-790-6454,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b3c13806-5271-4d88-8080-8a926d0987a2&thumb
+왕피천계곡,경북 울진군,054-789-6902,"['경상권', '경치좋은곳', '관광지', '왕피천계곡', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=63601081-015c-4a2d-820a-db046981a0cf&thumb
+경북대학교자연사박물관,경북 군위군,054-383-7026,"['경북대학교', '경상북도', '군위군', '문화시설', '아이와 함께', '자연', '자연사박물관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=70caa87f-6d2b-4e16-8e47-1b4432e1ae6e&thumb
+후정해수욕장,경북 울진군,054-789-6862,"['가족여행', '경상권', '관광지', '바다풍경', '여름여행', '여름휴가', '연인과함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a9501b2e-edeb-496e-80ec-5e22fd4f610b&thumb
+운문산군립공원,경북 청도군,054-370-6114,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d9097414-2b4d-4d17-94bd-b1eeb3d8276a&thumb
+임하댐,경북 안동시,054-852-6800,"['가족여행', '경상권', '관광지', '아이와함께', '연중무휴', '임하댐', '자연', '전시관']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=782d6b90-6008-4f7b-ad05-20353f5ca5dc&thumb
+도구해수욕장,경북 포항시,054-270-6861,"['경상권', '관광지', '도구해수욕장', '바다풍경', '여름방학가볼만한곳', '여름피서지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d3b0b602-3d80-413b-af58-98bd4795913c&thumb
+예천 천향리 석송령,경북 예천군,054-650-6395,"['경상권', '관광지', '예천천향리석송령', '자연', '천연기념물']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fd65fb11-f92b-4182-aa7b-52ed1e305e2c&thumb
+내수전몽돌해변,경북 울릉도,054-790-6298,"['경상권', '관광지', '내수전몽돌해변', '자연', '해수욕장']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=383fb9ff-0cfe-402c-bc1c-1bd0cc68e15d&thumb
+포항 발산리 모감주나무와 병아리꽃나무군락,경북 포항시,054-270-8282,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=176c58f9-f52a-4b1d-8a3f-668752d73454&thumb
+백암산(울진),경북 울진군,054-787-5929,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f0b505fd-031e-4d6a-8151-29cd1c49d483&thumb
+조령산,경북 문경시,054-550-6414,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3c1139c1-8a66-4e60-8a3f-f934c5366126&thumb
+나곡해수욕장,경북 울진군,054-789-6862,"['가족과함께', '경상권', '관광지', '나곡해수욕장', '바다', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8872d978-b9d0-48a2-b6a1-28dc10b9abba&thumb
+하곡지(딱실못),경북 경주시,054-779-8032,"['경상권', '딱실못', '레포츠', '민물낚시', '자연', '자연좋은곳', '하곡지', '호수']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=05be7bfc-55c9-4af0-a8ea-c366ca1c97e3&thumb
+미숭산,경북 고령군,055-930-3534,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
+남호해수욕장,경북 영덕군,054-730-7302,"['가족여행', '경상권', '관광지', '남호해수욕장', '바다풍경', '아이와함께', '여름여행']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=030f5f36-47cd-4221-9e9d-d1a2a0ec8ab7&thumb
+상비리계곡,경북 고령군,054-955-4790,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+흥환간이해수욕장,경북 포항시,054-270-5836,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=17b56529-ca70-4849-9009-eae378af1e2d&thumb
+하저해수욕장,경북 영덕군,054-730-7122,"['가족여행', '경상권', '관광지', '바다낚시', '바다풍경', '사계절', '아이와함께']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c34ba5f9-d856-437c-8c63-a21dcc1cb79e&thumb
+내연산 12폭포 (경북 동해안 국가지질공원),경북 포항시,053-950-7996,"['12폭포', '경북_동해안_국가지질공원', '경북동해안', '경치좋은곳', '국가지질공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=af9e6512-d363-4c5d-a6b6-cc90f4fde109&thumb
+황악산,경북 김천시,054-420-6615,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
+봉화 대헌리 열목어 서식지,경북 봉화군,054-679-6331,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f66eea98-f7aa-49a3-86ac-5654972e50ae&thumb
+삼정해수욕장,경북 포항시,054-270-6561,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ccd5928b-2cc9-41b9-b217-ca583d5ebcea&thumb
+선달산(경북),경북 봉화군,054-679-6341,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
+주방계곡,경북 청송군,054-870-5300,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+구수곡자연휴양림,경북 울진군,054-789-5470,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c00c2a65-d365-431f-874a-b130f640cabb&thumb
+달기폭포,경북 청송군,054-870-5300,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9458d756-e26b-4ba1-9114-69a0d50d578c&thumb
+"저동해안산책로 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '국가지질공원', '바다내음', '사진찍기좋은곳', '사진촬영', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d63343d5-bc75-404e-9bae-a018f281727a&thumb
+단석산,경북 경주시,054-778-4100,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+"도동 해안산책로 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '국가지질공원', '바다경치', '사진찍기', '사진찍기좋은곳', '사진촬영']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=7d4313f1-f256-4c00-90ed-9066e4922479&thumb
+낙동강,경북 구미시,053-950-2541,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4c629f34-ef51-4b2f-a84e-3af025dda720&thumb
+팔공산도립공원(은해사지구),경북 영천시,054-852-8031,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+예천 사부리소나무,경북 예천군,054-650-6906,"['경상권', '경상북도기념물', '관광지', '예천사부리소나무', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=9dbb2129-39f6-46e0-b94f-be3df0b45591&thumb
+선도산,경북 경주시,054-772-3843,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+"독립문바위 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '국가지질공원', '독립문바위', '바다경치', '바다내음', '울릉도&독도']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c3eefe59-8210-40db-bbbf-2b39d79977b3&thumb
+봉평해수욕장,경북 울진군,054-789-6862,"['경상권', '관광지', '낚시', '바다', '봉평해수욕장', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e0d286e3-9dd5-4a34-91ca-17a2c7fbe625&thumb
+"태하 해안산책로 및 대풍감 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '국가지질공원', '바다내음', '사진찍기좋은곳', '산책하기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8cafc9ec-af88-46b3-9977-2dd8fb85dc0a&thumb
+의성읍 도서동의 회나무,경북 의성군,054-830-6549,"['경상권', '경상북도기념물', '관광지', '의성읍도서동회나무', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3afc25cb-14fe-4fb8-9c91-9207e451d3e5&thumb
+의성 사촌리 향나무,경북 의성군,054-830-6549,"['경상권', '경상북도기념물', '관광지', '의성사촌리향나무', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0eec2669-7884-4fd3-b859-16c7755925b6&thumb
+[상주 MRF 5코스] 가야길,경북 상주시,,"['MRF코스', '가야길', '걷기길', '경상권', '경치좋은곳', '레포츠', '자연', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ed9d4a85-5fbe-40bd-8213-32c39557437e&thumb
+동산계곡,경북 군위군,054-380-6915,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+고래불 해안 (경북 동해안 국가지질공원),경북 영덕군,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '경치좋은곳', '관광지', '국가지질공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=cdba898b-998c-41fd-ba04-95e2d7d8b7dd&thumb
+"용출소 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['국가지질공원', '사진찍기좋은곳', '사진촬영', '사진촬영명소', '울릉도&독도']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=4d4fce26-d17c-45c4-bfa7-a694bbc7f615&thumb
+"천장굴 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '국가지질공원', '바다내음', '사진찍기좋은곳', '사진촬영', '울릉도_독도_국가지질공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=e30f4fb0-982b-493c-aab2-651e6a3bca59&thumb
+도동약수공원,경북 울릉도,054-790-6421,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=14739301-1a1d-4444-ae09-f2fd72920a8b&thumb
+구룡소 돌개구멍 (경북 동해안 국가지질공원),경북 포항시,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '국가지질공원', '바다경치', '사진찍기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=76b782cb-e7c1-4b55-92c0-d1a5321b506e&thumb
+상석리 왜가리(백로) 서식지,경북 영주시,054-639-6603,"['경상권', '관광지', '백로서식지', '왜가리서식지', '자연', '철새', '철새도래지']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d1bc66f0-0f2b-4aa9-9c81-28064ff5aebf&thumb
+노음산,경북 상주시,054-537-6092,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=09d3e5bc-c8a3-407d-8c9e-94740dcff1a5&thumb
+대율리 송림,경북 군위군,054-380-6915,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=07f5f7e9-79f0-4c96-9079-faee5c679fd3&thumb
+통구미마을,경북 울릉도,054-791-2191,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d8e22cb1-6ea8-44ff-845b-af961ace78d8&thumb
+"삼선암 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '관광지', '국가지질공원', '울릉도_독도_국가지질공원', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=95a2c4ca-a294-4ad3-a38b-49e774bfe360&thumb
+관문산,경북 경주시,054-772-3843,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+영덕 대부정합 (경북 동해안 국가지질공원),경북 영덕군,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '경치좋은곳', '국가지질공원', '바다경치']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=be06d75b-6149-4e94-99fe-85477e00418f&thumb
+용천약수,경북 청도군,054-370-6707,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+태하마을,경북 울릉도,054-791-6703,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2c610729-7b94-42df-9296-bd4d215cef9b&thumb
+영덕 화강섬록암 해안 (경북 동해안 국가지질공원),경북 영덕군,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '경치좋은곳', '국가지질공원', '바다경치']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=727ab695-118a-4497-b55e-b0490a70eaca&thumb
+옥방천,경북 봉화군,054-673-4996,"['걷기좋은곳', '경상권', '경치좋은곳', '계곡', '관광지', '옥방천', '자연', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=8fa339c8-198c-4dc6-b870-9dc5669c4fe3&thumb
+갑장산,경북 상주시,054-537-6092,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
+"송곳봉 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '국가지질공원', '사진찍기', '사진찍기좋은곳', '사진촬영', '사진촬영명소']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=291166f8-035f-4f9c-b0da-6956e01cecfb&thumb
+남양마을,경북 울릉도,054-791-2191,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=33a089fd-1cec-426d-9b41-3572c56ab377&thumb
+청옥산,경북 봉화군,054-679-6341,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=254f2e5a-2648-4369-a2bc-63a1bb28d541&thumb
+수하계곡(영양),경북 영양군,054-680-6413,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+"알봉 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '국가지질공원', '사진찍기좋은곳', '사진촬영', '울릉도&독도']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=37f79710-20c9-4c01-a5dc-b2f6997ff2af&thumb
+비학산,경북 포항시,054-270-5836,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
+벽도산,경북 경주시,054-772-3843,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
+두호동 화석산지 (경북 동해안 국가지질공원),경북 포항시,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '경치좋은곳', '국가지질공원', '사진찍기']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ed1aad3b-2b99-4897-a48c-2715284b1d40&thumb
+"학포해안 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '국가지질공원', '울릉도&독도', '울릉도_독도_국가지질공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=99a50e6d-61cb-4251-832b-8837eda6ee23&thumb
+죽도산 퇴적암 (경북 동해안 국가지질공원),경북 영덕군,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '국가지질공원', '사진찍기', '사진찍기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=084fcbba-40b3-427e-833b-8e8f290ad024&thumb
+"숫돌바위 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '국가지질공원', '바다내음', '숫돌바위', '울릉도&독도', '울릉도_독도_국가지질공원']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2cfe9397-8c6a-414c-96ab-4ee578d6f621&thumb
+"버섯바위 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '국가지질공원', '버섯바위', '사진찍기좋은곳', '울릉도&독도']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=5d2cabba-ec28-49a7-b052-924246eae5f9&thumb
+반야계곡,경북 봉화군,054-673-4996,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+철암산 화석산지 (경북 동해안 국가지질공원),경북 영덕군,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '경치좋은곳', '국가지질공원', '등산']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f3f8238f-0253-477f-9f36-bd428fc93afe&thumb
+팔각산,경북 영덕군,054-730-6651,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=undefined&thumb
+문수산,경북 봉화군,054-679-6341,"['관광지', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=null&thumb
+경정리 백악기 퇴적암 (경북 동해안 국가지질공원),경북 영덕군,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '경치좋은곳', '국가지질공원', '바다경치']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=36503a82-ad25-42a3-97d6-86146e6a42b0&thumb
+파천 구상화강암 (청송 국가지질공원),경북 청송군,054-870-6111,"['국가지질공원', '자연', '자연관광지', '자연발생', '자연속으로', '자연여행', '자연좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c54d7379-8517-4f1c-a6c5-11afec83725f&thumb
+왕피천 (경북 동해안 국가지질공원),경북 울진군,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '국가지질공원', '사진찍기', '사진찍기좋은곳']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3edaca92-fbd9-4a4c-8497-70cf76ebdf7b&thumb
+"삼형제굴바위 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '국가지질공원', '바다경치', '바다내음', '삼형제굴바위', '울릉도&독도']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=35cfd554-bd6d-4cde-b724-bcab5e36c9d8&thumb
+원생대 변성암 (경북 동해안 국가지질공원),경북 영덕군,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '경치좋은곳', '국가지질공원', '바다경치']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f767086f-a8ba-4df9-aa32-a122863628b6&thumb
+"황토굴 (울릉군, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['국가지질공원', '동굴여행', '울릉도&독도', '울릉도_독도_국가지질공원', '자연']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=12be9933-aca1-45d2-86f8-63ffd1fbc343&thumb
+"국수바위 (울릉도, 독도 국가지질공원)",경북 울릉도,054-790-6182,"['경치좋은곳', '국가지질공원', '바다경치', '사진찍기', '사진찍기좋은곳', '사진촬영']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=fbdac831-1327-46eb-8b2f-cecc4d76d903&thumb
+알봉분지전망대,경북 울릉도,054-790-6454,"['경치좋은곳', '관광지', '사진찍기좋은곳', '자연', '자연관광지', '자연발생', '자연속힐링']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=128daeeb-5098-4aca-883b-03a62ac66de5&thumb
+남산 화강암 (경북 동해안 국가지질공원),경북 경주시,053-950-7996,"['경북_동해안_국가지질공원', '경북동해안', '경치좋은곳', '국가지질공원', '남녀노소']",https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=def44da9-6e3b-405c-8846-609a9c57d225&thumb
