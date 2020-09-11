@@ -29,10 +29,10 @@ button{background-color:white; border:none;}
 #container #headcontainer #logo {color: black; font-size: 48px; font-weight: 900;}
 #container #headcontainer #logo:hover {color: blue;}
 #container #headcontainer #title {color: black; font-size: 24px; font-weight: 400; margin-left: 24px; margin-bottom: 10px;}
-#container #headcontainer .link {color: black; font-size: 20px; font-weight: 400;}
+#container #headcontainer .link {color: black; font-size: 20px; font-weight: 700;}
 #container #headcontainer .link:hover {color: blue;}
 #container #headcontainer #link_login {margin-left: 200px;}
-#container #headcontainer #logout {border: 0; color: black; font-size: 20px; font-weight: 400; margin-left: 260px; cursor: pointer; margin-bottom: 10px;}
+#container #headcontainer #logout {border: 0; color: black; font-size: 20px; font-weight: 700; margin-left: 260px; cursor: pointer; margin-bottom: 10px;}
 #container #headcontainer #logout:hover {color: blue;}
 #container header:after {content: ""; display: block; width: 100%; height: 2px; background: blue;}
 
@@ -102,6 +102,7 @@ button{background-color:white; border:none;}
     width : 100px;
     height : 42px;
     font-size : 20px;
+    color: black;
     display : flex;
     background-color:#60d7d8 ;
     justify-content: center;
@@ -117,6 +118,8 @@ button{background-color:white; border:none;}
     height : 30px;
     margin : 5px 10px;
     font-size:18px;
+    font-weight: 400;
+    color : black;
 }
 
 .footer_box{
@@ -165,11 +168,15 @@ button{background-color:white; border:none;}
     width : 840px;
     height : 30px;
     font-size : 18px;
+    font-weight : 400;
     margin : 0px 10px;
+    color : black
 }
 
 #container #content .footer_box .picture_box .arrow {cursor: pointer;}
-
+#container #content #resultbox {width: 960px; display: flex; justify-content: center;}
+#container #content #resultbox #result {cursor: pointer; font-size: 24px; font-weight: 700; border: 2px solid black; border-radius: 5px; padding: 12px;}
+#container #content #resultbox #result:hover {color: blue; border: 2px solid blue;}
 
 #container footer:before {content: ""; display: block; width: 100%; height: 2px; background: blue;}
 #container footer {width: 960px; margin-top: 48px; margin-bottom: 16px;}
