@@ -6,12 +6,15 @@ from django.contrib import auth
 
 def index(request) :
     
-    context = {}
-
-
+   context = {}
     
-    if request.user.is_authenticated :
-       user = Userinfo.objects.filter(user=request.user)
-       context["userinfo"] = user
-    return render(request, 'main/index.html', context)
+   if request.user.is_authenticated :
+      user = Userinfo.objects.filter(user=request.user)
+      context["userinfo"] = user
+   
+   if request.method == "POST" :
+      context["region"] = request.POST["region"]
+
+
+   return render(request, 'main/index.html', context)
 
