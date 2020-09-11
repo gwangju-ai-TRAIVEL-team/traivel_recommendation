@@ -1,6 +1,7 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from django.contrib.auth.models import User
+from .models import Userinfo
 from django.contrib import auth
 
 # Create your views here.
@@ -19,6 +20,22 @@ def sign_up(request) :
                 username=request.POST['username'],
                 password=request.POST['password'],
             )
+
+            user = request.POST['username']
+            nickname = request.POST['nickname']
+            age = request.POST['age']
+            address = request.POST['address']
+            sex = request.POST['sex']
+            email = request.POST['email']
+    
+            userinfo = Userinfo(user=user,
+                                nickname=nickname,
+                                age=age,
+                                address=address,
+                                sex=sex,
+                                email=email)
+
+            userinfo.save()
 
             auth.login(request, new_user)
             

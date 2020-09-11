@@ -60,13 +60,9 @@ button{background-color:white; border:none;}
     border-top: solid 2px black;
     border-bottom: solid 2px black;
     margin : 50px 20px;
-}
-.keyword_box form{
     display : flex;
     flex-wrap : wrap;
     flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
 }
 .key_btn{
     width : 100px;
@@ -79,12 +75,12 @@ button{background-color:white; border:none;}
     border-radius: 5px;
     cursor: pointer;
 }
+
+
 .key_btn:hover{
     border : 2px solid black;
 }
-.key_btn.active{
-    background-color : #919090;
-}
+
 
 .input_box{
     width : 400px;
