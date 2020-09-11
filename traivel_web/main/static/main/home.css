@@ -143,12 +143,26 @@ button{background-color:white; border:none;}
     align-items: center;
 }
 
+#roll{
+    width : 720px;
+    display : flex;
+    flex-direction: row;
+    overflow: hidden;
+}
+
+#roll ul {
+    height: 140px;
+    width: 1000%;
+    overflow: hidden;
+}
+
 .picture{
-    width : 130px;
+    width : 200px;
     height : 130px;
     border : 1px solid blue;
-    margin : 10px 5px;
+    margin : 10px 20px;
     cursor: pointer;
+    float: left;
 }
 
 .picture_label{
