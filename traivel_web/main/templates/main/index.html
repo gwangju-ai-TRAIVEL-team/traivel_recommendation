@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Traivel</title>
-    <link rel="stylesheet" type="text/css" href="{% static 'main/home.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'main/index.css' %}">
 </head>
 <body>
     <div id="container">
@@ -33,6 +33,11 @@
                     {{ userinfo.nickname }} 님 환영합니다.
                 </div>
             {% endif %}
+            {% if error %}
+                <div id="error">
+                    {{ error }}
+                </div>
+            {% endif %}
 
             <div class="box_container">
                 <div class="box"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3287844.4152572025!2d128.63505411681268!3d36.414383168052474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2skr!4v1599664464239!5m2!1sen!2skr" width="470" height="480" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div>
@@ -41,7 +46,7 @@
                         <div class="name_box">지역</div>
                         <form method="POST">
                             {% csrf_token %}
-                            <input type="text" id="region" name="region" style="width:260px">
+                            <input type="text" id="region" name="region" style="width:260px" value={{ region }}>
                             <button type='submit'><img src="./static/main/images/btn.png" width="33" height="35" alt="검색"></button>
                         </form>
                     </div>
@@ -81,7 +86,7 @@
             </div>
             <form method="POST" action="{% url 'main:result' %}">
                 {% csrf_token %}
-                <input type="hidden" name="region" value="" id="region_search" class="region_search">
+                <input type="hidden" name="region" value="{{ region }}" id="region_search" class="region_search">
 
                 <input type="hidden" name="keyword" value="" id="inputkeyword1" class="inputkeyword">
                 <input type="hidden" name="keyword" value="" id="inputkeyword2" class="inputkeyword">
