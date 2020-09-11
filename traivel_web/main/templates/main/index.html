@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Traivel</title>
-    <link rel="stylesheet" type="text/css" href="{% static 'main/index.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'main/home.css' %}">
 </head>
 <body>
     <div id="container">
@@ -30,7 +30,7 @@
         <section id="content">
             {% if user.is_authenticated %}
                 <div id="hellouser">
-                    {{ user.get_username }} 님 환영합니다.
+                    {{ userinfo.nickname }} 님 환영합니다.
                 </div>
             {% endif %}
 
@@ -48,13 +48,13 @@
                     
                     <div class="keyword_box", id="keyword">
                         <div class="keyword_label">키워드</div>
-                        <div value="#클릭1" class="key_btn" id="#click1">#클릭1</div>
-                        <div value="#클릭1" class="key_btn" id="#click2">#클릭2</div>
-                        <div value="#클릭1" class="key_btn" id="#click3">#클릭3</div>
-                        <div value="#클릭1" class="key_btn" id="#click4">#클릭4</div>
-                        <div value="#클릭1" class="key_btn" id="#click5">#클릭5</div>
-                        <div value="#클릭1" class="key_btn" id="#click6">#클릭6</div>
-                        <div value="#클릭1" class="key_btn" id="#click7">#클릭7</div>
+                        <div value="#클릭1" class="key_btn" id="keyword1">#클릭1</div>
+                        <div value="#클릭1" class="key_btn" id="keyword2">#클릭2</div>
+                        <div value="#클릭1" class="key_btn" id="keyword3">#클릭3</div>
+                        <div value="#클릭1" class="key_btn" id="keyword4">#클릭4</div>
+                        <div value="#클릭1" class="key_btn" id="keyword5">#클릭5</div>
+                        <div value="#클릭1" class="key_btn" id="keyword6">#클릭6</div>
+                        <div value="#클릭1" class="key_btn" id="keyword7">#클릭7</div>
                     </div>
                 </div>
             </div>
@@ -75,31 +75,36 @@
                             <li class="picture" id="picture8">사진8</li>
                             <li class="picture" id="picture9">사진9</li>
                         </ul>
-                        <form method="POST">
-                            <input type="hidden" name="type" value="" id="region_search">
-
-                            <input type="hidden" name="type" value="" id="inputkeyword1">
-                            <input type="hidden" name="type" value="" id="inputkeyword2">
-                            <input type="hidden" name="type" value="" id="inputkeyword3">
-                            <input type="hidden" name="type" value="" id="inputkeyword4">
-                            <input type="hidden" name="type" value="" id="inputkeyword5">
-                            <input type="hidden" name="type" value="" id="inputkeyword6">
-                            <input type="hidden" name="type" value="" id="inputkeyword7">
-                            
-                            <input type="hidden" name="type" value="" id="inputpicture1">
-                            <input type="hidden" name="type" value="" id="inputpicture2">
-                            <input type="hidden" name="type" value="" id="inputpicture3">
-                            <input type="hidden" name="type" value="" id="inputpicture4">
-                            <input type="hidden" name="type" value="" id="inputpicture5">
-                            <input type="hidden" name="type" value="" id="inputpicture6">
-                            <input type="hidden" name="type" value="" id="inputpicture7">
-                            <input type="hidden" name="type" value="" id="inputpicture8">
-                            <input type="hidden" name="type" value="" id="inputpicture9">
-                        </form>
                     </div>
                     <button type="button" class="arrow" id="arrow_right"><img src="./static/main/images/btn2.png" width="45" ></button>
                 </div>
             </div>
+            <form method="POST" action="{% url 'main:result' %}">
+                {% csrf_token %}
+                <input type="hidden" name="region" value="" id="region_search" class="region_search">
+
+                <input type="hidden" name="keyword" value="" id="inputkeyword1" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword2" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword3" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword4" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword5" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword6" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword7" class="inputkeyword">
+
+                <input type="hidden" name="type" value="" id="inputpicture1" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture2" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture3" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture4" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture5" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture6" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture7" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture8" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture9" class="inputpicture">
+
+                <div id="resultbox">
+                    <button type="submit" id="result">여행지 검색</button>
+                </div>
+            </form>
         </section>
         <footer>
             <div id="footcontainer">
@@ -108,6 +113,6 @@
         </footer>
     </div>
     <script src="{% static 'main/jquery.js' %}"></script>
-    <script src="{% static 'main/home.js' %}"></script>
+    <script src="{% static 'main/index.js' %}"></script>
 </body>
 </html>
