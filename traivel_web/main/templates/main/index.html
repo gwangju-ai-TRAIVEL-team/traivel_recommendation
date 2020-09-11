@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Traivel</title>
-    <link rel="stylesheet" type="text/css" href="{% static 'main/home.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'main/index.css' %}">
 </head>
 <body>
     <div id="container">
@@ -48,16 +48,14 @@
                     
                     <div class="keyword_box", id="keyword">
                         <div class="keyword_label">키워드</div>
-                        <form method="POST">
-                            <input type="button" value="#클릭1" class="key_btn" name="#click1">
-                            <input type="button" value="#클릭2" class="key_btn" name="#click2">
-                            <input type="button" value="#클릭3" class="key_btn" name="#click3">
-                            <input type="button" value="#클릭4" class="key_btn" name="#click4">
-                            <input type="button" value="#클릭5" class="key_btn" name="#click5">
-                            <input type="button" value="#클릭6" class="key_btn" name="#click6">
-                            <input type="button" value="#클릭7" class="key_btn" name="#click7">
-                        </form>
-                    </div> 
+                        <div value="#클릭1" class="key_btn" id="#click1">#클릭1</div>
+                        <div value="#클릭1" class="key_btn" id="#click2">#클릭2</div>
+                        <div value="#클릭1" class="key_btn" id="#click3">#클릭3</div>
+                        <div value="#클릭1" class="key_btn" id="#click4">#클릭4</div>
+                        <div value="#클릭1" class="key_btn" id="#click5">#클릭5</div>
+                        <div value="#클릭1" class="key_btn" id="#click6">#클릭6</div>
+                        <div value="#클릭1" class="key_btn" id="#click7">#클릭7</div>
+                    </div>
                 </div>
             </div>
 
@@ -78,7 +76,25 @@
                             <li class="picture" id="picture9">사진9</li>
                         </ul>
                         <form method="POST">
-                            <input type="hidden" name="type" value="">
+                            <input type="hidden" name="type" value="" id="region_search">
+
+                            <input type="hidden" name="type" value="" id="inputkeyword1">
+                            <input type="hidden" name="type" value="" id="inputkeyword2">
+                            <input type="hidden" name="type" value="" id="inputkeyword3">
+                            <input type="hidden" name="type" value="" id="inputkeyword4">
+                            <input type="hidden" name="type" value="" id="inputkeyword5">
+                            <input type="hidden" name="type" value="" id="inputkeyword6">
+                            <input type="hidden" name="type" value="" id="inputkeyword7">
+                            
+                            <input type="hidden" name="type" value="" id="inputpicture1">
+                            <input type="hidden" name="type" value="" id="inputpicture2">
+                            <input type="hidden" name="type" value="" id="inputpicture3">
+                            <input type="hidden" name="type" value="" id="inputpicture4">
+                            <input type="hidden" name="type" value="" id="inputpicture5">
+                            <input type="hidden" name="type" value="" id="inputpicture6">
+                            <input type="hidden" name="type" value="" id="inputpicture7">
+                            <input type="hidden" name="type" value="" id="inputpicture8">
+                            <input type="hidden" name="type" value="" id="inputpicture9">
                         </form>
                     </div>
                     <button type="button" class="arrow" id="arrow_right"><img src="./static/main/images/btn2.png" width="45" ></button>
@@ -92,6 +108,6 @@
         </footer>
     </div>
     <script src="{% static 'main/jquery.js' %}"></script>
-    <script src="{% static 'main/homehome.js' %}"></script>
+    <script src="{% static 'main/home.js' %}"></script>
 </body>
 </html>

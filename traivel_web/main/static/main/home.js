@@ -1,6 +1,7 @@
 $(function() {
     // 하단 롤링배너
-    alert("click")
+    alert("clisfdsdfsdfsd")
+
     $("#arrow_right").click(function(){
         $(".picture").eq(0).insertAfter(".picture:last-child");
     });
@@ -18,8 +19,19 @@ $(function() {
         }
         else {
             $(this).removeClass("clicked");
-            $(this).css({"border": "1px solid blue"})
+            $(this).css({"border": "1px solid blue"});
+        };
+    });
+
+    $(".key_btn").click(function() {
+        if ($(this).hasClass("btnclicked") == false) {
+            $(this).addClass("btnclicked");
+            $(this).css({"border": "2px solid black"});
         }
+        else {
+            $(this).removeClass("btnclicked");
+            $(this).css({"border": "1px solid gray"});
+        };
     });
 
 })
