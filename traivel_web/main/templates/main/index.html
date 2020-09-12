@@ -1,0 +1,128 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traivel</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'main/index.css' %}">
+</head>
+<body>
+    <div id="container">
+        <header>
+            <div id="headcontainer">
+                <a href="{% url 'index' %}" id="logo">Traivel</a>
+                <p id="title">키워드로 검색하는 나에게 알맞는 여행지</span>
+                {% if user.is_authenticated %}
+                    <div class="logoutcontainer">
+                        <form action="{% url 'accounts:logout' %}" method="POST">
+                            {% csrf_token %}
+                            <button type="submit" id="logout">로그아웃</button>
+                        </form>
+                    </div>
+                {% else %}
+                    <a href="{% url 'accounts:login' %}" class="link" id="link_login">로그인</a>
+                    <a href="{% url 'accounts:sign_up' %}" class="link">회원가입</a>
+                {% endif %}
+            </div>
+        </header>
+        <section id="content">
+            {% if user.is_authenticated %}
+                <div id="hellouser">
+                    {{ userinfo.nickname }} 님 환영합니다.
+                </div>
+            {% endif %}
+            {% if messages %}
+                <div id="error">
+                    {%for message in messages %}
+                        {{ message }}
+                    {% endfor %}
+                </div>
+            {% endif %}
+
+            <div class="box_container">
+                <div class="box" id="map">
+                <script src="//dapi.kakao.com/v2/maps/sdk.js?appkey=1af62556a70c9e5071ea3e98242ca6d7"></script>
+                <script src="{% static 'main/map.js' %}"></script>
+                </div>
+                <div class="box">
+                    <div class="input_box", id="travel_region">
+                        <div class="name_box">지역</div>
+                        <form method="POST">
+                            {% csrf_token %}
+                            <input type="text" id="region" name="region" style="width:260px" value={{ region }}>
+                            <button type='submit'><img src="./static/main/images/btn.png" width="33" height="35" alt="검색"></button>
+                        </form>
+                    </div>
+                    
+                    <div class="keyword_box", id="keyword">
+                        <div class="keyword_label">키워드</div>
+                        <div value="#클릭1" class="key_btn" id="keyword1">#클릭1</div>
+                        <div value="#클릭1" class="key_btn" id="keyword2">#클릭2</div>
+                        <div value="#클릭1" class="key_btn" id="keyword3">#클릭3</div>
+                        <div value="#클릭1" class="key_btn" id="keyword4">#클릭4</div>
+                        <div value="#클릭1" class="key_btn" id="keyword5">#클릭5</div>
+                        <div value="#클릭1" class="key_btn" id="keyword6">#클릭6</div>
+                        <div value="#클릭1" class="key_btn" id="keyword7">#클릭7</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer_box">
+                <div class="picture_box">
+                    <div class="picture_label">여행장소 추천</div>
+                    <button type="button" class="arrow" id="arrow_left"><img src="./static/main/images/btn1.png" width="45"></button>
+                    <div id="roll">
+                        <ul>
+                            <li class="picture" id="picture1">사진1</li>
+                            <li class="picture" id="picture2">사진2</li>
+                            <li class="picture" id="picture3">사진3</li>
+                            <li class="picture" id="picture4">사진4</li>
+                            <li class="picture" id="picture5">사진5</li>
+                            <li class="picture" id="picture6">사진6</li>
+                            <li class="picture" id="picture7">사진7</li>
+                            <li class="picture" id="picture8">사진8</li>
+                            <li class="picture" id="picture9">사진9</li>
+                        </ul>
+                    </div>
+                    <button type="button" class="arrow" id="arrow_right"><img src="./static/main/images/btn2.png" width="45" ></button>
+                </div>
+            </div>
+            <form method="POST" action="{% url 'main:result' %}">
+                {% csrf_token %}
+                <input type="hidden" name="region" value="{{ region }}" id="region_search" class="region_search">
+
+                <input type="hidden" name="keyword" value="" id="inputkeyword1" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword2" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword3" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword4" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword5" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword6" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword7" class="inputkeyword">
+
+                <input type="hidden" name="type" value="" id="inputpicture1" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture2" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture3" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture4" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture5" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture6" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture7" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture8" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture9" class="inputpicture">
+
+                <div id="resultbox">
+                    <button type="submit" id="result">여행지 검색</button>
+                </div>
+            </form>
+        </section>
+        <footer>
+            <div id="footcontainer">
+                <p>광주 인공지능 사관학교 팀 프로젝트</p>
+            </div>
+        </footer>
+    </div>
+    <script src="{% static 'main/jquery.js' %}"></script>
+    <script src="{% static 'main/index.js' %}"></script>
+</body>
+</html>
