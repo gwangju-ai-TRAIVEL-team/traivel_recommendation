@@ -1,6 +1,5 @@
 $(function() {
     // 하단 롤링배너
-    alert("asdfqwef")
 
     $("#arrow_right").click(function(){
         $(".picture").eq(0).insertAfter(".picture:last-child");
