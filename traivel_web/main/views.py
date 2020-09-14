@@ -17,7 +17,6 @@ def result(request) :
 
     if request.method == "POST" :
 
-        region = request.POST['region']
         keyword = request.POST.getlist('keyword')
         Type = request.POST.getlist('type')
 
@@ -27,25 +26,21 @@ def result(request) :
         while ("" in Type) :
             Type.remove("")
 
-        if region:
-            context["region"] = region
-            if keyword :
-                context["keyword"] = keyword
-                if Type :
-                    context["Type"] = Type
-                    return render(request, 'main/result.html', context)
-                else :
-                    messages.success(request, "사진을 선택해주세요.")
-                    return redirect('index')
-            else :
-                messages.success(request, '키워드를 선택해주세요.')
-                return redirect('index')
 
+        if keyword :
+            context["keyword"] = keyword
+            if Type :
+                context["Type"] = Type
+                return render(request, 'main/result.html', context)
+            else :
+                messages.success(request, "사진을 선택해주세요.")
+                return redirect('index')
         else :
-            messages.success(request, '지역을 입력한 뒤 돋보기 버튼을 눌러주세요.')
+            messages.success(request, '키워드를 선택해주세요.')
             return redirect('index')
 
         
+    
         
             
     

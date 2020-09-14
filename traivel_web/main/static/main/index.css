@@ -14,7 +14,8 @@ hr {height:0; display:none}
 i, em, address{font-style:normal}
 blockquote, q {quotes:none}
 header, footer, section, article, aside, nav, hgroup, details, menu, figure, figcaption {display:block;box-sizing: border-box;}
-input, textarea, select {font-family:'Noto Sans Korean','Malgun Gothic','맑은고딕','돋움',dotum, sans-serif;font-size:20px;color:#919090;line-height:1;letter-spacing:0;vertical-align:middle; border:none;}
+input, textarea {font-family:'Noto Sans Korean','Malgun Gothic','맑은고딕','돋움',dotum, sans-serif;font-size:20px;color:#919090;line-height:1;letter-spacing:0;vertical-align:middle; border:none;}
+select {font-family:'Noto Sans Korean','Malgun Gothic','맑은고딕','돋움',dotum, sans-serif;font-size:20px;color:#919090;line-height:1;letter-spacing:0;vertical-align:middle; border:none;}
 input, textarea {margin:10;padding:10;  background:white; box-sizing:border-box;}
 textarea {resize:none}
 a {color:#919090;text-decoration:none}
@@ -173,6 +174,7 @@ button{background-color:white; border:none;}
     color : black
 }
 
+
 #container #content .footer_box .picture_box .arrow {cursor: pointer;}
 #container #content #resultbox {width: 960px; display: flex; justify-content: center;}
 #container #content #resultbox #result {cursor: pointer; font-size: 24px; font-weight: 700; border: 2px solid black; border-radius: 5px; padding: 12px;}
@@ -182,4 +184,3 @@ button{background-color:white; border:none;}
 #container footer {width: 960px; margin-top: 48px; margin-bottom: 16px;}
 #container footer #footcontainer {display: flex; justify-content: center; }
 #container footer #footcontainer p {color: black; font-size: 24px; font-weight: 400;}
-
