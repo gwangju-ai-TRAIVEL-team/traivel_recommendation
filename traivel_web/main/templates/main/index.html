@@ -7,8 +7,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Traivel</title>
     <link rel="stylesheet" type="text/css" href="{% static 'main/index.css' %}">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
 </head>
 <body>
+    <script src="{% static 'main/index.js' %}"></script>
+    <script src="{% static 'main/map.js' %}"></script>
+    <script>
+        function complete(data) {
+            console.log(data);
+        }
+        function btntest(){
+            $.ajax({
+                url:'http://127.0.0.1:8000/main/getaddr/',
+                type:'get',
+                success:  complete,
+                error: function (request, status, error){   
+                    console.log("error:" + status);   
+                }  
+            }); 
+        }  
+    </script>
+
     <div id="container">
         <header>
             <div id="headcontainer">
@@ -44,12 +65,11 @@
             <div class="box_container">
                 <div class="box" id="map">
                 <script src="//dapi.kakao.com/v2/maps/sdk.js?appkey=1af62556a70c9e5071ea3e98242ca6d7"></script>
-                <script src="{% static 'main/map.js' %}"></script>
                 </div>
                 <div class="box">
                     <div class="input_box", id="travel_region">
                         <div class="name_box">지역</div>
-                            <form method="POST" action="{% url 'main:result' %}">
+                            <form method="GET" action="{% url 'index' %}">
                                 {% csrf_token %}
                                 <select id="region_sel" onchange="setCenter(this.value)" style="width:290px" name="region">
                                     <option value="seoul">서울특별시</option> 
@@ -128,7 +148,8 @@
 
                 <div id="resultbox">
                     <button type="submit" id="result">여행지 검색</button>
-                </div>
+                    <input type="button" onclick="btntest()" value="검색"/>
+                    </div>
             </form>
         </section>
         <footer>
@@ -137,7 +158,6 @@
             </div>
         </footer>
     </div>
-    <script src="{% static 'main/jquery.js' %}"></script>
-    <script src="{% static 'main/index.js' %}"></script>
+
 </body>
 </html>
