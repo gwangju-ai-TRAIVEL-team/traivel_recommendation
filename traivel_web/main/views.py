@@ -2,6 +2,7 @@ from django.shortcuts import render,redirect
 from accounts.models import Userinfo
 from django.contrib import messages
 import ast
+from django.http import HttpResponse
 # Create your views here.
 
 def result(request) :
@@ -16,12 +17,12 @@ def result(request) :
 
 
 
-    if request.method == "POST" :
+    if request.method == "GET" :
 
-        context["region"] = request.POST["region"]
+        context["region"] = request.GET["region"]
         
-        keyword = request.POST.getlist('keyword')
-        Type = request.POST.getlist('type')
+        keyword = request.GET.getlist('keyword')
+        Type = request.GET.getlist('type')
 
         while ("" in keyword) :
             keyword.remove("")
@@ -44,8 +45,14 @@ def result(request) :
 
         
     
-        
-            
+def getaddr(request):
+    result = """{'result': [{'name':'남산1', lon:'127.35567', lan:'37.35455'},
+    {'name':'남산2', lon:'127.35567', lan:'37.35455'},
+    {'name':'남산3', lon:'127.35567', lan:'37.35455'},
+    {'name':'남산4', lon:'127.35567', lan:'37.35455'}]
+    }"""
+
+    return HttpResponse(result)
     
 
     
