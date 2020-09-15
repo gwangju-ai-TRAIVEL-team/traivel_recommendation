@@ -1,6 +1,10 @@
 from django.shortcuts import render,redirect
 from accounts.models import Userinfo
 from django.contrib import messages
+from rest_framework.response import Response
+from rest_framework.decorators import api_view
+from .models import place
+from .serializers import PlaceSerializer
 import ast
 from django.http import HttpResponse
 # Create your views here.
@@ -43,16 +47,13 @@ def result(request) :
             messages.success(request, '키워드를 선택해주세요.')
             return redirect('index')
 
-        
-    
-def getaddr(request):
-    result = """{'result': [{'name':'남산1', lon:'127.35567', lan:'37.35455'},
-    {'name':'남산2', lon:'127.35567', lan:'37.35455'},
-    {'name':'남산3', lon:'127.35567', lan:'37.35455'},
-    {'name':'남산4', lon:'127.35567', lan:'37.35455'}]
-    }"""
+@api_view(['GET'])
+def getaddr(request) :
+    totalPlace = place.objects.all()
+    result = PlaceSerializer(totalPlace, many=True)
 
-    return HttpResponse(result)
-    
+    return Response(result.data)
 
-    
+@api_view(['GET'])
+def helloAPI(request) :
+    return Response("hello World!!!")
