@@ -7,8 +7,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Traivel</title>
     <link rel="stylesheet" type="text/css" href="{% static 'main/index.css' %}">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
 </head>
 <body>
+    <script src="{% static 'main/index.js' %}"></script>
+    <script>
+        function complete(data) {
+            console.log(data);
+        }
+        function btntest(){
+            $.ajax({
+                url:'http://127.0.0.1:8000/main/getaddr/',
+                type:'get',
+                success:  complete,
+                error: function (request, status, error){   
+                    console.log("error:" + status);   
+                }  
+            }); 
+        }  
+    </script>
+
     <div id="container">
         <header>
             <div id="headcontainer">
@@ -49,11 +69,28 @@
                 <div class="box">
                     <div class="input_box", id="travel_region">
                         <div class="name_box">지역</div>
-                        <form method="POST">
-                            {% csrf_token %}
-                            <input type="text" id="region" name="region" style="width:260px" value={{ region }}>
-                            <button type='submit'><img src="./static/main/images/btn.png" width="33" height="35" alt="검색"></button>
-                        </form>
+                            <form method="GET" action="{% url 'index' %}">
+                                {% csrf_token %}
+                                <select id="region_sel" onchange="setCenter(this.value)" style="width:290px" name="region">
+                                    <option value="seoul">서울특별시</option> 
+                                    <option value="incheon">인천광역시</option>
+                                    <option value="gwangju">광주광역시</option>
+                                    <option value="busan">부산광역시</option>
+                                    <option value="daegu">대구광역시</option>
+                                    <option value="daejeon">대전광역시</option>
+                                    <option value="ulsan">울산광역시</option>
+                                    <option value="sejong">세종특별자치시</option>
+                                    <option value="gyeonggi">경기도</option>
+                                    <option value="gangwon">강원도</option>
+                                    <option value="chungcheong_north">충청북도</option>
+                                    <option value="chungcheong_south">충청남도</option>
+                                    <option value="jeolla_north">전라북도</option>
+                                    <option value="jeolla_south">전라남도</option>
+                                    <option value="gyeongsang_north">경상북도</option>
+                                    <option value="gyeongsang_south">경상남도</option>
+                                    <option value="jeju">제주도</option>
+                                </select>
+                            
                     </div>
                     
                     <div class="keyword_box", id="keyword">
@@ -89,10 +126,8 @@
                     <button type="button" class="arrow" id="arrow_right"><img src="./static/main/images/btn2.png" width="45" ></button>
                 </div>
             </div>
-            <form method="POST" action="{% url 'main:result' %}">
-                {% csrf_token %}
-                <input type="hidden" name="region" value="{{ region }}" id="region_search" class="region_search">
-
+            
+                
                 <input type="hidden" name="keyword" value="" id="inputkeyword1" class="inputkeyword">
                 <input type="hidden" name="keyword" value="" id="inputkeyword2" class="inputkeyword">
                 <input type="hidden" name="keyword" value="" id="inputkeyword3" class="inputkeyword">
@@ -113,7 +148,8 @@
 
                 <div id="resultbox">
                     <button type="submit" id="result">여행지 검색</button>
-                </div>
+                    <input type="button" onclick="btntest()" value="검색"/>
+                    </div>
             </form>
         </section>
         <footer>
@@ -122,7 +158,6 @@
             </div>
         </footer>
     </div>
-    <script src="{% static 'main/jquery.js' %}"></script>
-    <script src="{% static 'main/index.js' %}"></script>
+
 </body>
 </html>
