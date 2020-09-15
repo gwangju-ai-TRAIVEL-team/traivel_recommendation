@@ -183,4 +183,12 @@ $(function() {
             $("#inputkeyword7").val("");
         }
     })
+
+    // 지역 value 보내기
+
+    $("#region_sel option").click(function() {
+        reg = $("#region_sel option").attr("value")
+        $("#Region").val(reg)
+        alert("df")
+    })
 })

@@ -15,8 +15,11 @@ def result(request) :
         context["userinfo"] = userinfo
 
 
+
     if request.method == "POST" :
 
+        context["region"] = request.POST["region"]
+        
         keyword = request.POST.getlist('keyword')
         Type = request.POST.getlist('type')
 
