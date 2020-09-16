@@ -18,7 +18,7 @@
             for(var i=0; i<data.length; i++){
             console.log(data[i])
 
-            var marker=create_marker(data[i]['latitude'], data[i]['longitude'])
+            var marker=create_marker(data[i]['latitude'], data[i]['longitude'],data[i])
             console.log(marker)
             }
         }
@@ -32,7 +32,7 @@
                 }  
             }); 
         }  
-    </script>
+    </script> 
 
     <div id="container">
         <header>
@@ -152,9 +152,7 @@
                 <input type="hidden" name="type" value="" id="inputpicture9" class="inputpicture">
 
                 <div id="resultbox">
-                    <button type="submit" id="result">여행지 검색</button>
-                    <input type="button" onclick="btntest()" value="검색"/> 
-                    {% comment %} <input type="button" onclick="btntest()" value="여행지 검색"/>{% endcomment %}
+                    <input type="button" onclick="btntest()" value="여행지 검색"/>
                     </div>
             </form>
         </section>
