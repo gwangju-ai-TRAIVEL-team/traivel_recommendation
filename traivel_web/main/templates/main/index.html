@@ -16,7 +16,7 @@
             for(var i=0; i<data.length; i++){
             console.log(data[i])
 
-            var marker=create_marker(data[i]['latitude'], data[i]['longitude'])
+            var marker=create_marker(data[i]['latitude'], data[i]['longitude'],data[i])
             console.log(marker)
             }
         }
@@ -30,7 +30,7 @@
                 }  
             }); 
         }  
-    </script>
+    </script> 
 
     <div id="container">
         <header>
