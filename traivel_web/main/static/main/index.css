@@ -25,6 +25,15 @@ a:hover {text-decoration:none}
 html,body{height:100%;}
 button{background-color:white; border:none;}
 
+
+.wrap .info:nth-child(1) {border: 0;box-shadow: 0px 1px 2px #888;} */
+.info .title {padding: 3px 0 0 6px;height: 25px;background: #eee;border-bottom: 1px solid #ddd;font-size: 15px;font-weight: bold;}
+.info .body {position: relative;overflow: hidden;}
+.info .desc {position: relative;margin: 3px 0 0 90px;height: 75px;}
+.desc .jibun {font-size: 11px;color: #888;margin-top: -2px;}
+.info .img {position: absolute;top: 6px;left: 5px;width: 73px;height: 71px;border: 1px solid #ddd;color: #888;overflow: hidden;}
+.info .link {color: #5085BB;}
+
 #container {display: flex; flex-direction: column; width: 960px; margin: 0 auto;}
 #container #headcontainer {display: flex; flex-direction: row; align-items: flex-end; width: 960px; margin-top: 24px;}
 #container #headcontainer #logo {color: black; font-size: 48px; font-weight: 900;}
