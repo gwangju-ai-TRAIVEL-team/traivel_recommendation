@@ -174,13 +174,20 @@ button{background-color:white; border:none;}
     color : black
 }
 
+#travel_region, #keyword, .picture_box, #resultbox {transition: all 1s}
+.start {transform: translate3d(1000px, 0, 0);}
+.startbelow {transform: translate3d(0, 1000px, 0);}
 
 #container #content .footer_box .picture_box .arrow {cursor: pointer;}
 #container #content #resultbox {width: 960px; display: flex; justify-content: center;}
-#container #content #resultbox #result {cursor: pointer; font-size: 24px; font-weight: 700; border: 2px solid black; border-radius: 5px; padding: 12px;}
+#container #content #resultbox #result {cursor: pointer; font-size: 24px; font-weight: 700; border: 2px solid black; border-radius: 5px; padding: 12px; color: black;}
 #container #content #resultbox #result:hover {color: blue; border: 2px solid blue;}
 
 #container footer:before {content: ""; display: block; width: 100%; height: 2px; background: blue;}
 #container footer {width: 960px; margin-top: 48px; margin-bottom: 16px;}
 #container footer #footcontainer {display: flex; justify-content: center; }
 #container footer #footcontainer p {color: black; font-size: 24px; font-weight: 400;}
+
+
+/* ajax */
+

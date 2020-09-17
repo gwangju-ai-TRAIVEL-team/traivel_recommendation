@@ -1,0 +1,45 @@
+{% load static %}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="{%static 'main/recommend.js' %}"></script>
+<div id="resultList">
+    <ul>
+        <li><input type="button" value="{{ place.0.name }}" class="choose" id="choose0" name="{{ place.0.id }}"></li>
+        <li>{{ place.0.address }}</li>
+    </ul>
+    <br>
+    <br>
+    <ul>
+        <li><input type="button" value="{{ place.1.name }}" class="choose" id="choose1" name="{{ place.1.id }}"></li>
+        <li>{{ place.1.address }}</li>
+    </ul>
+    <br>
+    <br>
+    <ul>
+        <li><input type="button" value="{{ place.2.name }}" class="choose" id="choose2" name="{{ place.2.id }}"></li>
+        <li>{{ place.2.address }}</li>
+    </ul>
+    <br>
+    <br>
+    <ul>
+        <li><input type="button" value="{{ place.3.name }}" class="choose" id="choose3" name="{{ place.3.id }}"></li>
+        <li>{{ place.3.address }}</li>
+    </ul>
+    <br>
+    <br>
+    <ul>
+        <li><input type="button" value="{{ place.4.name }}" class="choose" id="choose4" name="{{ place.4.id }}"></li>
+        <li>{{ place.4.address }}</li>
+    </ul>
+    <br>
+    <br>
+</div>
+
+
+
+<br>
+<br>
+
+<form>
+    <input type="button" id="choosebutton" value="다른 여행지 검색하기">
+</form>

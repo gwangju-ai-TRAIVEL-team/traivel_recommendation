@@ -7,6 +7,8 @@ from .models import place
 from .serializers import PlaceSerializer
 import ast
 from django.http import HttpResponse
+import re
+import random
 # Create your views here.
 
 def result(request) :
@@ -47,13 +49,31 @@ def result(request) :
             messages.success(request, '키워드를 선택해주세요.')
             return redirect('index')
 
+def recommend(request) :
+    totalPlace = place.objects.all()
+    randomPlace = random.sample(list(totalPlace), 5)
+
+    context = {
+        'place': randomPlace
+    }
+
+    return render(request, 'main/recommend.html', context)
+
+def mainajax(request) :
+    return render(request, 'main/mainajax.html')
+
+def mainfooterbox(request) :
+    return render(request, 'main/mainfooterbox.html')
+
+@api_view(['GET'])
+def addrdesc(request, addr_id) :
+    getplace = place.objects.filter(id=addr_id)
+    result = PlaceSerializer(getplace, many=True)
+    return Response(result.data)
+
 @api_view(['GET'])
 def getaddr(request) :
     totalPlace = place.objects.all()
     result = PlaceSerializer(totalPlace, many=True)
 
     return Response(result.data)
-
-@api_view(['GET'])
-def helloAPI(request) :
-    return Response("hello World!!!")
