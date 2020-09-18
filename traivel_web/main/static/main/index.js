@@ -184,11 +184,42 @@ $(function() {
         }
     })
 
-    // 지역 value 보내기
+    // 결과화면으로 이동하는 애니메이션
 
-    $("#region_sel option").click(function() {
-        reg = $("#region_sel option").attr("value")
-        $("#Region").val(reg)
-        alert("df")
+    $("#result").click(function() {
+
+        $("#inputbox").addClass("recommendsidebox");
+        $(".footer_box").addClass("recommendfooterbox");
+        $("#resultbox").addClass("recommend");
+
+        $("#travel_region").css("opacity", "0");
+        $("#keyword").css("opacity", "0");
+        $(".picture_box").css("opacity", "0");
+        $("#resultbox").css("opacity", "0");
+
+        $("#travel_region").addClass("start");
+        $("#keyword").addClass("start");
+        $(".picture_box").addClass("startbelow");
+        $("#resultbox").addClass("startbelow");
+
+        // 결과화면 생성
+        $.ajax({
+            type : 'get',
+            url : 'http://127.0.0.1:8000/main/api/recommend/',
+            dataType : 'html',
+            success : function(data) {
+                setTimeout(function() {
+                    $(".recommendsidebox").html(data)
+                }, 500)
+            }
+        });
+
+        
+
     })
 })
+
+
+
+
+
