@@ -34,6 +34,7 @@ button{background-color:white; border:none;}
 .info .img {position: absolute;top: 6px;left: 5px;width: 73px;height: 71px;border: 1px solid #ddd;color: #888;overflow: hidden;}
 .info .link {color: #5085BB;}
 
+
 #container {display: flex; flex-direction: column; width: 960px; margin: 0 auto;}
 #container #headcontainer {display: flex; flex-direction: row; align-items: flex-end; width: 960px; margin-top: 24px;}
 #container #headcontainer #logo {color: black; font-size: 48px; font-weight: 900;}

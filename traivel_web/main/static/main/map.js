@@ -60,8 +60,8 @@ function create_marker(lat,lon,data) {
                     '                <img src="https://cfile181.uf.daum.net/image/250649365602043421936D" width="73" height="50">' +
                     '           </div>' + 
                     '            <div class="desc">' + 
-                    '                <div class="ellipsis">' + data['address'] + '</div>' + 
-                    '                <div><a href="https://www.kakaocorp.com/main" target="_blank" class="link">리뷰</a></div>' + 
+                    '               <div class="ellipsis">' + data['address'] + '</div>' + 
+                    '               <div><a href="https://www.kakaocorp.com/main" target="_blank" class="link">리뷰</a></div>' + 
                     '            </div>' + 
                     '        </div>' + 
                     '    </div>' +    
@@ -82,4 +82,53 @@ function create_marker(lat,lon,data) {
 
 
     
+}
+
+//추천장소 마커 생성
+function rec_makrer(lat, lon, data){
+    var positions = [
+        { 
+            latlng: new kakao.maps.LatLng(lat, lon)
+        },
+    ];
+    var imageSrc = "https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/markerStar.png"; 
+
+    for (var i = 0; i < positions.length; i ++) {
+        
+        var imageSize = new kakao.maps.Size(24, 35); 
+        
+        var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize); 
+        
+        var marker = new kakao.maps.Marker({
+            map: map, // 마커를 표시할 지도
+            position: positions[i].latlng, // 마커를 표시할 위치
+            image : markerImage // 마커 이미지 
+        });
+    }
+    var iwContent = '<div class="wrap">' + 
+                    '    <div class="info">' + 
+                    '        <div class="title">' + data['name'] + 
+                    '            <div class="close" onclick="closeOverlay()" title="닫기"></div>' + 
+                    '        </div>' + 
+                    '        <div class="body">' + 
+                    '            <div class="img">' +
+                    '                <img src="https://cfile181.uf.daum.net/image/250649365602043421936D" width="73" height="50">' +
+                    '           </div>' + 
+                    '            <div class="desc">' + 
+                    '               <div class="ellipsis">' + data['address'] + '</div>' + 
+                    '               <div><a href="https://www.kakaocorp.com/main" target="_blank" class="link">리뷰</a></div>' + 
+                    '            </div>' + 
+                    '        </div>' + 
+                    '    </div>' +    
+                    '</div>';
+    iwRemoveable = true; // removeable 속성을 ture 로 설정하면 인포윈도우를 닫을 수 있는 x버튼이 표시됩니다
+
+    var infowindow = new kakao.maps.InfoWindow({
+    content : iwContent,
+    removable : iwRemoveable
+    });
+
+    kakao.maps.event.addListener(marker, 'click', function() {
+    infowindow.open(map, marker);  
+    });
 }

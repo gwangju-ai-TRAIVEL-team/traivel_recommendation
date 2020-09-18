@@ -2,13 +2,20 @@ $(function() {
 
     $(".choose").click(function() {
         $("#chosenList").append("<li>"+ $(this).attr("value")+"</li>");
+        function rec_place(data) {
+            for(var i=0; i<data.length; i++){
+                console.log(data[i])
+
+                var marker=rec_makrer(data[i]['latitude'], data[i]['longitude'],data[i])
+                console.log(marker)
+            }
+        }
+
         // 사용자가 선택한 여행지에 대한 정보 가져오기
         $.ajax({
             url:'http://127.0.0.1:8000/main/api/addrdesc/' + $(this).attr("name"),
             type:'get',
-            success:  function(data) {
-                console.log(data);
-            },
+            success:  rec_place,
             error: function (request, status, error){   
                 console.log("error:" + status);   
             }  
