@@ -104,6 +104,8 @@ function rec_makrer(lat, lon, data){
             position: positions[i].latlng, // 마커를 표시할 위치
             image : markerImage // 마커 이미지 
         });
+        sessionStorage.setItem('marker'+[data["name"]],[lat,lon]);
+
     }
     var iwContent = '<div class="wrap">' + 
                     '    <div class="info">' + 
@@ -131,4 +133,30 @@ function rec_makrer(lat, lon, data){
     kakao.maps.event.addListener(marker, 'click', function() {
     infowindow.open(map, marker);  
     });
+}
+
+function select_marker(){ 
+    var location = []
+
+    for(var i=0; i<sessionStorage.length; i++){
+        var loclist=[]
+        var loc = sessionStorage.getItem(sessionStorage.key([i]))
+        var lat = loc.split(",")[0]
+        var lon = loc.split(",")[1]
+        loclist.push(lat,lon)
+        location.push(loclist)
+    }
+
+    var imageSrc = "https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/markerStar.png"; 
+    for (var i = 0; i < location.length; i++) {
+        var imageSize = new kakao.maps.Size(24, 35); 
+        var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize); 
+        var marker = new kakao.maps.Marker({
+            map: map, // 마커를 표시할 지도
+            position: new kakao.maps.LatLng(location[i][0], location[i][1]), // 마커를 표시할 위치
+            image : markerImage // 마커 이미지 
+        });
+    }
+    
+ 
 }
