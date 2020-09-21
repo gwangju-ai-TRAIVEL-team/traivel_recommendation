@@ -26,3 +26,7 @@
 ## 09.18
 
 * gensim ldamodel 이용 여행지 데이터 클러스터링
+
+## 09.21
+
+* gensim ldamodel 최적 파라미터 탐색
