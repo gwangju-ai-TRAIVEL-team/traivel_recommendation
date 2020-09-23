@@ -1,0 +1,144 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traivel</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'main/result.css' %}">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="{% static 'main/recommend.js' %}"></script>
+</head>
+<body>
+    
+    <div id="container">
+        <header>
+            <p id="region" class="{{ region }}">}</p>
+            <div id="headcontainer">
+                <a href="{% url 'index' %}" id="logo">Traivel</a>
+                <p id="title">키워드로 검색하는 나에게 알맞는 여행지</span>
+                {% if user.is_authenticated %}
+                    <div class="logoutcontainer">
+                        <form action="{% url 'accounts:logout' %}" method="POST">
+                            {% csrf_token %}
+                            <button type="submit" id="logout">로그아웃</button>
+                        </form>
+                    </div>
+                    {% else %}
+                        <a href="{% url 'accounts:login' %}" class="link" id="link_login">로그인</a>
+                        <a href="{% url 'accounts:sign_up' %}" class="link">회원가입</a>
+                    {% endif %}
+            </div>
+        </header>
+        <section id="content">
+            {% if user.is_authenticated %}
+                <div id="hellouser">
+                    {{ userinfo.nickname }} 님 환영합니다.
+                </div>
+            {% endif %}
+
+            <div class="box_container">
+                
+                <div class="box_items1">
+                    <div class="box" id="map">
+                        <script src="//dapi.kakao.com/v2/maps/sdk.js?appkey=1af62556a70c9e5071ea3e98242ca6d7"></script>
+                        <script src="{% static 'main/map.js' %}"></script>
+                        <script>
+                            
+                            $(function() {
+                                $(document).ready(function() {
+                                    setCenter($("#region").attr("class"));
+                                })
+                            })
+                            
+                        </script>
+                    </div>
+                </div>
+                <div class="box_items2">
+                    <div id="resultList" class="box">
+                        <ul>
+                            <li><input type="button" value="{{ result.0.name }}" class="choose" id="choose0" name="{{ result.0.id }}"></li>
+                            <li>{{ result.0.address }}</li>
+                        </ul>
+                        
+                        <ul>
+                            <li><input type="button" value="{{ result.1.name }}" class="choose" id="choose1" name="{{ result.1.id }}"></li>
+                            <li>{{ result.1.address }}</li>
+                        </ul>
+                        
+                        <ul>
+                            <li><input type="button" value="{{ result.2.name }}" class="choose" id="choose2" name="{{ result.2.id }}"></li>
+                            <li>{{ result.2.address }}</li>
+                        </ul>
+                        
+                        <ul>
+                            <li><input type="button" value="{{ result.3.name }}" class="choose" id="choose3" name="{{ result.3.id }}"></li>
+                            <li>{{ result.3.address }}</li>
+                        </ul>
+                        
+                        <ul>
+                            <li><input type="button" value="{{ result.4.name }}" class="choose" id="choose4" name="{{ result.4.id }}"></li>
+                            <li>{{ result.4.address }}</li>
+                        </ul>
+                        
+    
+                        {% for res in result %}
+    
+                            <p class="res_1">{{ res.latitude }}</p>
+                            
+                            <p class="res_2">{{res.longitude}}</p>
+                            
+                        {% endfor %}
+                            
+                    </div>
+                </div>
+                
+            </div>
+
+            <div class="select_place">
+                <div>
+                    <ul id="chosenList">
+                        <p>선택한 여행지</p>
+                    </ul>
+                </div>
+               <div>
+                    <div id="buttonbox">
+                        <a href="{% url 'index' %}" id="button">다른 여행지 고르기</a>
+                    </div>
+               </div>
+            </div>
+        </section>
+        <footer>
+            <div id="footcontainer">
+                <p>광주 인공지능 사관학교 팀 프로젝트</p>
+            </div>
+        </footer>
+    </div>
+    <script>
+        let dic = {}
+        let list_dic = []
+        let p_1 = document.querySelectorAll(".res_1")
+        console.log(p_1)
+        let p_2 = document.querySelectorAll(".res_2")
+        for (i=0; i<p_1.length; i++){
+            dic = {
+                'latitude':p_1[i].outerText,
+                'longitude':p_2[i].outerText
+            }
+            list_dic.push(dic)
+        }
+        console.log(list_dic)
+        function complete(data) {
+                for(var i=0; i<data.length; i++){
+                console.log(data[i])
+
+                var marker=create_marker(data[i]['latitude'], data[i]['longitude'],data[i])
+                console.log(marker)
+                }
+        }
+        complete(list_dic)
+    </script>
+</body>
+</html>

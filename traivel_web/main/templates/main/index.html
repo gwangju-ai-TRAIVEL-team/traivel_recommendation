@@ -1,0 +1,208 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traivel</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'main/index.css' %}">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+    <script src="{% static 'main/index.js' %}"></script>
+    <script>
+        function complete(data) {
+            for(var i=0; i<data.length; i++){
+            console.log(data[i])
+
+            var marker=create_marker(data[i]['latitude'], data[i]['longitude'],data[i])
+            console.log(marker)
+            }
+        }
+        function btntest(){
+            $.ajax({
+                url:'http://127.0.0.1:8000/main/api/getaddr/',
+                type:'get',
+                success:  complete,
+                error: function (request, status, error){   
+                    console.log("error:" + status);   
+                }  
+            }); 
+        }  
+    </script> 
+
+    <div id="container">
+        <header>
+            <div id="headcontainer">
+                <a href="{% url 'index' %}" id="logo">Traivel</a>
+                <p id="title">키워드로 검색하는 나에게 알맞는 여행지</span>
+                {% if user.is_authenticated %}
+                    <div class="logoutcontainer">
+                        <form action="{% url 'accounts:logout' %}" method="POST">
+                            {% csrf_token %}
+                            <button type="submit" id="logout">로그아웃</button>
+                        </form>
+                    </div>
+                {% else %}
+                    <a href="{% url 'accounts:login' %}" class="link" id="link_login">로그인</a>
+                    <a href="{% url 'accounts:sign_up' %}" class="link">회원가입</a>
+                {% endif %}
+            </div>
+        </header>
+        <section id="content">
+            {% if user.is_authenticated %}
+                <div id="hellouser">
+                    {{ userinfo.nickname }} 님 환영합니다.
+                </div>
+            {% endif %}
+            {% if messages %}
+                <div id="error">
+                    {%for message in messages %}
+                        {{ message }}
+                    {% endfor %}
+                </div>
+            {% endif %}
+
+            <div class="box_container">
+                <div class="box" id="map">
+                <script src="//dapi.kakao.com/v2/maps/sdk.js?appkey={{ key }}"></script>
+                <script src="{% static 'main/map.js' %}"></script>
+                </div>
+                <div class="box" id="inputbox">
+                    <div class="input_box", id="travel_region">
+                        <div class="name_box">지역</div>
+                            <form method="GET" action="{% url 'main:result' %}">
+                                {% csrf_token %}
+                                <select id="region_sel" onchange="setCenter(this.value)" style="width:290px" name="region">
+                                    <option value="seoul">서울특별시</option> 
+                                    <option value="incheon">인천광역시</option>
+                                    <option value="gwangju">광주광역시</option>
+                                    <option value="busan">부산광역시</option>
+                                    <option value="daegu">대구광역시</option>
+                                    <option value="daejeon">대전광역시</option>
+                                    <option value="ulsan">울산광역시</option>
+                                    <option value="sejong">세종특별자치시</option>
+                                    <option value="gyeonggi">경기도</option>
+                                    <option value="gangwon">강원도</option>
+                                    <option value="chungcheong_north">충청북도</option>
+                                    <option value="chungcheong_south">충청남도</option>
+                                    <option value="jeolla_north">전라북도</option>
+                                    <option value="jeolla_south">전라남도</option>
+                                    <option value="gyeongsang_north">경상북도</option>
+                                    <option value="gyeongsang_south">경상남도</option>
+                                    <option value="jeju">제주도</option>
+                                </select>
+                            
+                    </div>
+                    
+                    <div class="keyword_box", id="keyword">
+                        <div class="keyword_label">키워드</div>
+                        <div value="클릭1" class="key_btn" id="keyword1">가족과함께</div>
+                        <div value="클릭1" class="key_btn" id="keyword2">아이와함께</div>
+                        <div value="클릭1" class="key_btn" id="keyword3">나홀로여행</div>
+                        <div value="클릭1" class="key_btn" id="keyword4">연인과함께</div>
+                        <div value="클릭1" class="key_btn" id="keyword5">부모님과함께</div>
+                        <div value="클릭1" class="key_btn" id="keyword6">교과서속여행</div>                        
+                        <div value="클릭1" class="key_btn" id="keyword7">자연</div>
+                        <div value="클릭1" class="key_btn" id="keyword8">레포츠</div>
+                        <div value="클릭1" class="key_btn" id="keyword9">문화</div>
+                        <div value="클릭1" class="key_btn" id="keyword10">불교</div>
+                        <div value="클릭1" class="key_btn" id="keyword11">쇼핑</div>
+                        <div value="클릭1" class="key_btn" id="keyword12">나들이</div>
+                        <div value="클릭1" class="key_btn" id="keyword13">역사</div>
+                        <div value="클릭1" class="key_btn" id="keyword14">사진</div>
+                        <div value="클릭1" class="key_btn" id="keyword15">체험</div>
+                        <div value="클릭1" class="key_btn" id="keyword16">실내</div>
+                        <div value="클릭1" class="key_btn" id="keyword17">걷기</div>
+                        <div value="클릭1" class="key_btn" id="keyword18">스포츠</div>
+                        <div value="클릭1" class="key_btn" id="keyword19">경치좋은곳</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer_box">
+                <div class="picture_box">
+                    <div class="picture_label">여행장소 추천</div>
+                    <button type="button" class="arrow" id="arrow_left"><img src="./static/main/images/btn1.png" width="45"></button>
+                    <div id="roll">
+                        <ul>
+                            <li class="picture" id="picture1"><img src="./static/main/images/계곡.jpg" width="200" ></li>
+                            <li class="picture" id="picture2"><img src="./static/main/images/공원.jpg" width="200"></li>
+                            <li class="picture" id="picture3"><img src="./static/main/images/기차.jpg" width="200"></li>
+                            <li class="picture" id="picture4"><img src="./static/main/images/낚시.jpg" width="200"></li>
+                            <li class="picture" id="picture5"><img src="./static/main/images/농촌.jpg" width="200"></li>
+                            <li class="picture" id="picture6"><img src="./static/main/images/바다.jpg" width="200"></li>
+                            <li class="picture" id="picture7"><img src="./static/main/images/사찰.jpg" width="200"></li>
+                            <li class="picture" id="picture8"><img src="./static/main/images//산.jpg" width="200"></li>
+                            <li class="picture" id="picture9"><img src="./static/main/images/산책.jpg" width="200"></li>
+                            <li class="picture" id="picture10"><img src="./static/main/images/섬.jpg" width="200" height="130"></li>
+                            <li class="picture" id="picture11"><img src="./static/main/images/스파.jpg" width="200"></li>
+                            <li class="picture" id="picture12"><img src="./static/main/images/시장.jpg" width="200"></li>
+                            <li class="picture" id="picture13"><img src="./static/main/images/폭포.jpg" width="200"></li>
+                            <li class="picture" id="picture14"><img src="./static/main/images/해수욕장.jpg" width="200" height="130"></li>
+                            
+                        </ul>
+                    </div>
+                    <button type="button" class="arrow" id="arrow_right"><img src="./static/main/images/btn2.png" width="45" ></button>
+                </div>
+            </div>
+            
+                
+                <input type="hidden" name="keyword" value="" id="inputkeyword1" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword2" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword3" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword4" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword5" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword6" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword7" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword8" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword9" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword10" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword11" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword12" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword13" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword14" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword15" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword16" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword17" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword18" class="inputkeyword">
+                <input type="hidden" name="keyword" value="" id="inputkeyword19" class="inputkeyword">
+
+                <input type="hidden" name="type" value="" id="inputpicture1" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture2" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture3" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture4" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture5" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture6" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture7" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture8" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture9" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture10" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture11" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture12" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture13" class="inputpicture">
+                <input type="hidden" name="type" value="" id="inputpicture14" class="inputpicture">
+
+
+
+                <div id="resultbox">
+                    <input type="submit" value="여행지 검색" id="result"/>
+                    <input type="button" onclick="select_marker()" value="선택장소보기"/>
+
+                </div>
+            </form>
+        </section>
+        <div id="choose">
+            <ul id="chosenList">
+            </ul>
+        </div>
+        <footer>
+            <div id="footcontainer">
+                <p>광주 인공지능 사관학교 팀 프로젝트</p>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>
